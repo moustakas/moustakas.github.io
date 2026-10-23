@@ -76,6 +76,9 @@ in `hugo.toml`, use `locale`, not `languageCode`.
 - Paper PDFs for figures: `~/research/bibdesk/<first author>/` (read-only;
   files named `<YY><author>_<a|b> <title>.pdf`). Crop a figure from the
   page with `pdftoppm -r 300 -x -y -W -H`, then `magick -trim`.
+- `assets/images/photos/` — photographs (e.g., the Breyo Observatory on the
+  Contact page, resized from the physics-department marketing originals in
+  `~/physics-department/marketing/source/photos/`).
 - `data/group.yaml` — Group page members (`current`, `former`).
 - `data/courses.yaml` — Teaching page courses (group, title, code, blurb,
   semesters taught from the CV), rendered as cards by

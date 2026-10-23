@@ -2,7 +2,7 @@
 title: "Software"
 ---
 
-I am the primary developer of several open-source software packages and have contributed to the pipelines behind the DESI Legacy Imaging Surveys and DESI. For the data products built with them, see [Surveys and Data Releases](/research/surveys-and-data-releases/).
+I am the primary developer of several open-source software packages and have contributed to the pipelines behind the DESI Legacy Imaging Surveys and DESI. My code is on [GitHub](https://github.com/moustakas). For the data products built with it, see [Surveys and Data Releases](/research/surveys-and-data-releases/).
 
 ## Siena Galaxy Atlas (SGA)
 

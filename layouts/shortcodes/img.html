@@ -4,12 +4,14 @@ Responsive figure from assets/images, resized to WebP at build time.
   {{< img src="software/foo.png" alt="..." caption="..." light=true width="28rem" >}}
 
 `light=true` puts the image on a white panel (for transparent figures with
-dark text, which would vanish in dark mode); `width` caps the display width.
+dark text, which would vanish in dark mode); `width` caps the display width;
+`float="right"` (or "left") wraps the following text around the image on wide
+screens (full width on phones).
 */}}
 {{ $src := .Get "src" }}
 {{ with resources.Get (printf "images/%s" $src) }}
-<figure class="figure{{ if $.Get "light" }} figure-light{{ end }}"{{ with $.Get "width" }} style="max-width: {{ . | safeCSS }}"{{ end }}>
-  {{ partial "responsive-img.html" (dict "res" . "alt" ($.Get "alt") "sizes" "(max-width: 46rem) 100vw, 46rem") }}
+<figure class="figure{{ if $.Get "light" }} figure-light{{ end }}{{ with $.Get "float" }} figure-float-{{ . }}{{ end }}"{{ with $.Get "width" }} style="max-width: {{ . | safeCSS }}"{{ end }}>
+  {{ partial "responsive-img.html" (dict "res" . "alt" ($.Get "alt") "sizes" (cond (isset $.Params "float") "(max-width: 40rem) 100vw, 22rem" "(max-width: 46rem) 100vw, 46rem")) }}
   {{ with $.Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
 </figure>
 {{ else }}

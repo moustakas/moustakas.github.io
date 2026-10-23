@@ -7,6 +7,7 @@ enableRobotsTXT = true
   description = "John Moustakas, Professor of Physics & Astronomy at Siena University."
   email = "jmoustakas@siena.edu"
   github = "https://github.com/moustakas"
+  linkedin = "https://www.linkedin.com/in/john-moustakas/"
   ads = "https://ui.adsabs.harvard.edu/search/q=author%3A%22moustakas%2C%20john%22&sort=date%20desc%2C%20bibcode%20desc"
 
 [markup.tableOfContents]
