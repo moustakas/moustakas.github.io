@@ -1,6 +1,7 @@
 ---
 title: "Surveys and Data Releases"
 description: "Surveys, atlases, and public data releases built for the community."
+image: "software/sga2020-montage.jpg"
 weight: 30
 papers:
   - key: desi

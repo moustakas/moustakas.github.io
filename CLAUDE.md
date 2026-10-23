@@ -16,9 +16,17 @@ and Service & Outreach as secondary pages.
 - Hosting: live at https://moustakas.github.io from the public repo
   `moustakas/moustakas.github.io`, deployed by `.github/workflows/hugo.yml`
   on every push to `main` (Pages build type must stay "workflow", not the
-  "legacy" branch/Jekyll mode GitHub defaults to for `*.github.io` repos). A custom domain or a redirect from `moustakas.siena.edu` (pending
-  with Siena IT) can be added later with a `static/CNAME` file plus a DNS
-  change; no other site changes needed.
+  "legacy" branch/Jekyll mode GitHub defaults to for `*.github.io` repos).
+- Custom domain: decided to serve the site at `moustakas.siena.edu` as a
+  GitHub Pages custom domain (not a 301/302 redirect), so the Siena URL stays
+  canonical and GitHub 301-redirects `moustakas.github.io` to it. Because the
+  site deploys from a workflow, the domain is set only in the repo's
+  Settings → Pages; a `static/CNAME` file is ignored and not needed. Siena IT
+  adds the DNS record `moustakas.siena.edu CNAME moustakas.github.io` (plus a
+  TXT record if GitHub asks to verify the domain; any CAA record on siena.edu
+  must allow `letsencrypt.org`). The workflow takes its base URL from
+  `configure-pages`, so builds follow the domain automatically; `baseURL` in
+  `hugo.toml` only affects local builds.
 
 ## Commands
 
@@ -44,8 +52,9 @@ in `hugo.toml`, use `locale`, not `languageCode`.
   group of papers from the page's `papers:` front matter (bibcodes, title
   prefixes for papers without one, or hand-written entries), looking up
   titles, authors, and links in `data/publications.json`, and marks
-  first-author papers "Lead author." See the comment at its top for the
-  front-matter format.
+  first-author papers "Lead author." Lists are newest first unless the group
+  sets `order: curated`. See the comment at its top for the front-matter
+  format.
 - `layouts/` — the theme: `_default/baseof.html` (shell), `index.html` (home,
   with the landing image), `single.html`, `list.html`, plus `group.html` and
   `publications.html`, selected by `layout:` front matter.
@@ -58,6 +67,15 @@ in `hugo.toml`, use `locale`, not `languageCode`.
   resized to WebP at build time. Use `light=true` for transparent figures with
   dark text (logos, plots) so they stay readable in dark mode. Shrink very
   large originals (more than a few MB) before adding them to the repo.
+- `layouts/shortcodes/highlight.html` — a research highlight (figure,
+  headline, short Markdown text); see the comment at its top. Shares
+  resizing with `img` through `layouts/partials/responsive-img.html`.
+  Research figures live in `assets/images/research/`. A page's `image:`
+  front matter (path under `assets/images/`) becomes its thumbnail on the
+  parent page's cards (`layouts/_default/list.html`).
+- Paper PDFs for figures: `~/research/bibdesk/<first author>/` (read-only;
+  files named `<YY><author>_<a|b> <title>.pdf`). Crop a figure from the
+  page with `pdftoppm -r 300 -x -y -W -H`, then `magick -trim`.
 - `data/group.yaml` — Group page members (`current`, `former`).
 - `data/publications.json` — Publications page data (see below). Without it,
   the page shows only the ADS link.
@@ -111,8 +129,14 @@ from the same list. `title`,
 
 ### Research-page figures ("eye candy")
 
-Agreed approach (not yet built): synthesize each research page into a few
-major results rather than one figure per paper.
+Agreed approach: synthesize each research page into a few major results
+rather than one figure per paper. Built: the `highlight` shortcode, `image:`
+thumbnails, and one highlight per research theme page (all `DRAFT`):
+Observational Cosmology (DESI map), Galaxy Demographics (PRIMUS mass
+functions, Moustakas et al. 2013 Fig. 11), Star Formation and Feedback
+(Diamond-Stanic et al. 2012 Fig. 4), Chemical Evolution (Scholte et al. 2026
+Fig. 11, left panel), The First Galaxies (Coe et al. 2013 Fig. 1). Next:
+John reviews the text, and second highlights are added where useful.
 
 - **Page layout:** a lead/banner image (also reused as that theme's thumbnail
   on the Research landing page, which currently shows plain text cards), then
@@ -157,5 +181,6 @@ major results rather than one figure per paper.
   Surveys and Data Releases, the Teaching statement, and a newer About photo.
 - Contact page: confirm office (225) and lab (113) room numbers.
 - Group page: add members once they agree to be listed.
-- Domain: ask Siena IT about redirecting `moustakas.siena.edu`; a custom
-  domain needs only `static/CNAME` plus DNS.
+- Domain (pending with Siena IT): set `moustakas.siena.edu` in Settings →
+  Pages, have IT add the CNAME record, then check "Enforce HTTPS" once the
+  certificate is issued.

@@ -2,11 +2,19 @@
 <h1>{{ .Title }}</h1>
 {{ partial "toc.html" . }}
 {{ .Content }}
+{{/* A child page's `image:` front matter (a path under assets/images) is shown
+as a thumbnail on its card. */}}
 <ul class="card-list">
   {{ range .Pages.ByWeight }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  <li{{ if .Params.image }} class="card-thumb"{{ end }}>
+    {{ with .Params.image }}{{ with resources.Get (printf "images/%s" .) }}
+    {{ $thumb := .Fill "320x200 webp q80 Center" }}
+    <img src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="" loading="lazy">
+    {{ end }}{{ end }}
+    <div>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Description }}<p>{{ . }}</p>{{ end }}
+    </div>
   </li>
   {{ end }}
 </ul>

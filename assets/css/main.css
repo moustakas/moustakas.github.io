@@ -72,11 +72,22 @@ h3 { font-size: 1.05rem; margin: 1.5rem 0 0.5rem; }
 .card-list li { background: var(--card); border: 1px solid var(--rule); border-radius: 6px; padding: 0.9rem 1.1rem; }
 .card-list a { font-family: var(--sans); font-weight: 600; }
 .card-list p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.card-thumb { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; align-items: center; }
+.card-thumb img { display: block; width: 100%; height: auto; border-radius: 4px; background: #ffffff; }
 
 .figure { margin: 1rem auto 1.25rem; }
 .figure img { display: block; width: 100%; height: auto; border-radius: 4px; }
 .figure-light img { background: #ffffff; padding: 0.5rem; }
 .figure figcaption { font-family: var(--sans); font-size: 0.8rem; color: var(--muted); margin-top: 0.4rem; }
+
+/* research highlights: figure beside text on wide screens, stacked otherwise */
+.highlight { display: grid; gap: 0 1.5rem; margin: 1.5rem 0 2.25rem; }
+.highlight .figure { margin: 0 0 0.75rem; }
+.highlight-text h3 { margin-top: 0; }
+.highlight-text p:first-of-type { margin-top: 0; }
+@media (min-width: 40rem) {
+  .highlight:not(.highlight-wide) { grid-template-columns: 1fr 1fr; align-items: start; }
+}
 
 .people { list-style: none; padding: 0; }
 .people li { margin-bottom: 0.9rem; }

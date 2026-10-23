@@ -8,14 +8,8 @@ dark text, which would vanish in dark mode); `width` caps the display width.
 */}}
 {{ $src := .Get "src" }}
 {{ with resources.Get (printf "images/%s" $src) }}
-{{ $small := .Resize "800x webp q85" }}
-{{ $large := .Resize (printf "%dx webp q85" (cond (gt .Width 1600) 1600 .Width)) }}
 <figure class="figure{{ if $.Get "light" }} figure-light{{ end }}"{{ with $.Get "width" }} style="max-width: {{ . | safeCSS }}"{{ end }}>
-  <img src="{{ $large.RelPermalink }}"
-       srcset="{{ $small.RelPermalink }} 800w, {{ $large.RelPermalink }} {{ $large.Width }}w"
-       sizes="(max-width: 46rem) 100vw, 46rem"
-       width="{{ $large.Width }}" height="{{ $large.Height }}"
-       alt="{{ $.Get "alt" }}" loading="lazy">
+  {{ partial "responsive-img.html" (dict "res" . "alt" ($.Get "alt") "sizes" "(max-width: 46rem) 100vw, 46rem") }}
   {{ with $.Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
 </figure>
 {{ else }}

@@ -1,0 +1,9 @@
+{{/* Responsive <img> for an image resource, resized to WebP at build time.
+Takes a dict with `res` (the resource), `alt`, and `sizes`. */}}
+{{ $small := .res.Resize "800x webp q85" }}
+{{ $large := .res.Resize (printf "%dx webp q85" (cond (gt .res.Width 1600) 1600 .res.Width)) }}
+<img src="{{ $large.RelPermalink }}"
+     srcset="{{ $small.RelPermalink }} 800w, {{ $large.RelPermalink }} {{ $large.Width }}w"
+     sizes="{{ .sizes }}"
+     width="{{ $large.Width }}" height="{{ $large.Height }}"
+     alt="{{ .alt }}" loading="lazy">

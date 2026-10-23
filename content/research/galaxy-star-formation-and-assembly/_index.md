@@ -1,6 +1,7 @@
 ---
 title: "Galaxy Star Formation and Assembly"
 description: "How galaxies form their stars, build up their mass, and enrich their gas over cosmic time."
+image: "research/macs0647-jd.jpg"
 weight: 20
 ---
 

@@ -1,0 +1,25 @@
+{{/*
+A research highlight: one figure, a headline stating the result, and a few
+sentences of Markdown naming the paper(s) behind it. The figure sits beside
+the text on wide screens and above it on narrow ones; `wide=true` always puts
+it above (for wide, multi-panel figures). `light=true` works as in `img`.
+
+  {{< highlight src="research/foo.png" alt="..." title="Headline" caption="... From [Author et al. 2013](...)." >}}
+  Two or three plain-language sentences.
+  {{< /highlight >}}
+*/}}
+{{ $src := .Get "src" }}
+{{ with resources.Get (printf "images/%s" $src) }}
+<section class="highlight{{ if $.Get "wide" }} highlight-wide{{ end }}">
+  <figure class="figure{{ if $.Get "light" }} figure-light{{ end }}">
+    {{ partial "responsive-img.html" (dict "res" . "alt" ($.Get "alt") "sizes" (cond ($.Get "wide") "(max-width: 46rem) 100vw, 46rem" "(max-width: 40rem) 100vw, 23rem")) }}
+    {{ with $.Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  </figure>
+  <div class="highlight-text">
+    <h3>{{ $.Get "title" }}</h3>
+    {{ $.Inner | $.Page.RenderString (dict "display" "block") }}
+  </div>
+</section>
+{{ else }}
+{{ errorf "highlight shortcode: assets/images/%s not found (%s)" $src $.Position }}
+{{ end }}

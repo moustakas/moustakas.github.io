@@ -16,15 +16,18 @@ without one (e.g., in preparation), or a map with `id` plus an optional
         - {id: 2026AJ....171..285D, note: "Principal author"}
 
 Papers where J. Moustakas is first author are marked "Lead author" unless a
-`note` says otherwise.
+`note` says otherwise. Papers are listed newest first (in-preparation papers
+at the top, ties kept in front-matter order); add `order: curated` to a group
+to keep its front-matter order instead.
 */}}
 {{ $key := .Get 0 }}
 {{ $all := slice }}
 {{ range hugo.Data.publications.sections }}{{ $all = $all | append .entries }}{{ end }}
 {{ with where .Page.Params.papers "key" $key }}
-<ol class="pubs selected-pubs">
-  {{ range (index . 0).entries }}
-  {{ $item := cond (reflect.IsMap .) . (dict "id" .) }}
+{{ $group := index . 0 }}
+{{ $rows := slice }}
+{{ range $i, $raw := $group.entries }}
+  {{ $item := cond (reflect.IsMap $raw) $raw (dict "id" $raw) }}
   {{ $entry := dict }}
   {{ with $item.title }}
     {{ $entry = $item }}
@@ -35,6 +38,19 @@ Papers where J. Moustakas is first author are marked "Lead author" unless a
     {{ end }}
   {{ end }}
   {{ if $entry.title }}
+  {{ $year := 0 }}
+  {{ with $entry.bibcode }}{{ $year = substr . 0 4 | int }}{{ else }}{{ with findRE `\b(19|20)\d\d\b` $entry.info 1 }}{{ $year = index . 0 | int }}{{ end }}{{ end }}
+  {{ if eq $year 0 }}{{ $year = 9999 }}{{ end }}
+  {{ $rank := add (mul $year 1000) (cond (in $entry.info "in preparation") 500 0) (sub 499 $i) }}
+  {{ if eq $group.order "curated" }}{{ $rank = sub 100000 $i }}{{ end }}
+  {{ $rows = $rows | append (dict "rank" $rank "item" $item "entry" $entry) }}
+  {{ else }}
+  {{ warnf "papers shortcode: %q not found in data/publications.json (%s)" $item.id $.Position }}
+  {{ end }}
+{{ end }}
+<ol class="pubs selected-pubs">
+  {{ range sort $rows "rank" "desc" }}
+  {{ $item := .item }}{{ $entry := .entry }}
   <li>
     <span class="pub-title">{{ $entry.title | safeHTML }}</span>
     {{ with $item.note }}<span class="pub-badge">{{ . }}</span>{{ else }}{{ if hasPrefix $entry.info "<strong>J. Moustakas" }}<span class="pub-badge">Lead author</span>{{ end }}{{ end }}<br>
@@ -45,9 +61,6 @@ Papers where J. Moustakas is first author are marked "Lead author" unless a
       {{ with $entry.doi }}<a href="https://doi.org/{{ . }}">DOI</a>{{ end }}
     </span>
   </li>
-  {{ else }}
-  {{ warnf "papers shortcode: %q not found in data/publications.json (%s)" $item.id $.Position }}
-  {{ end }}
   {{ end }}
 </ol>
 {{ else }}
