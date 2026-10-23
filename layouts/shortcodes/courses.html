@@ -1,0 +1,24 @@
+{{/*
+Course cards for the Teaching page, one section per group in data/courses.yaml:
+
+  {{< courses >}}
+
+Each card shows the course title and code, the optional `note` as a badge,
+the span of years taught and the number of semesters (or the single
+semester), and the course blurb.
+*/}}
+{{ range hugo.Data.courses }}
+<h2 id="{{ .group | anchorize }}">{{ .group }}</h2>
+<ul class="card-list course-list">
+  {{ range .courses }}
+  {{ $min := 9999 }}{{ $max := 0 }}
+  {{ range .terms }}{{ $y := index (findRE `\d{4}` .) 0 | int }}{{ if lt $y $min }}{{ $min = $y }}{{ end }}{{ if gt $y $max }}{{ $max = $y }}{{ end }}{{ end }}
+  {{ $n := len (uniq .terms) }}
+  <li>
+    <span class="course-title">{{ .title }}</span> <span class="course-code">{{ .code }}</span>{{ with .note }}<span class="pub-badge">{{ . }}</span>{{ end }}
+    <p class="course-meta">{{ if eq $n 1 }}{{ index .terms 0 }}{{ else }}{{ if eq $min $max }}{{ delimit .terms ", " }}{{ else }}{{ $min }}–{{ $max }} · {{ $n }} semesters{{ end }}{{ end }}</p>
+    {{ with .blurb }}<p>{{ . | markdownify }}</p>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

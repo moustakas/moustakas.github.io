@@ -1,0 +1,63 @@
+# Courses for the Teaching page, rendered by layouts/shortcodes/courses.html.
+# Semesters come from the CV ("Courses Taught at Siena University"); lectures,
+# labs, and review sessions of the same course are merged into one entry.
+# To update: add a semester to `terms`, or edit `blurb` (Markdown). Blurbs
+# describe what the course covers, not what any one instructor did in it. An
+# optional `note` is shown as a badge.
+
+- group: "Astronomy & Astrophysics"
+  courses:
+    - title: "Principles of Astrophysics I and II"
+      code: "ASTR390/392"
+      blurb: "The upper-level astrophysics sequence for majors and minors, from stars and stellar evolution to galaxies and cosmology."
+      terms: [Fall 2012, Spring 2013, Fall 2014, Spring 2015, Fall 2016, Spring 2017, Fall 2020, Spring 2021, Fall 2022, Spring 2023, Fall 2026]
+    - title: "Observational Astronomy"
+      code: "ASTR380"
+      blurb: "Telescopes, detectors, and the methods astronomers use to collect and analyze data."
+      terms: [Fall 2018, Fall 2025]
+    - title: "Astrophysics Seminar I and II"
+      code: "ASTR330/332"
+      blurb: "An introduction to the breadth of current research in astronomy and astrophysics through readings from the literature, seminars and colloquia, open-ended discussion, and journal-club talks given by the students."
+      terms: [Spring 2016, Spring 2018, Spring 2020]
+    - title: "Astronomy"
+      code: "ASTR010"
+      blurb: "An introductory survey of the universe, from the solar system to stars, galaxies, and cosmology, for students across campus as part of Siena's core curriculum."
+      terms: [Spring 2014, Spring 2018]
+
+- group: "Physics"
+  courses:
+    - title: "General Physics I and II"
+      code: "PHYS130/140"
+      blurb: "The two-semester calculus-based introductory physics sequence, with laboratories and review sessions."
+      terms: [Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2014, Spring 2015, Spring 2016, Fall 2017, Fall 2019, Fall 2023, Spring 2024, Fall 2025, Spring 2026, Fall 2026]
+    - title: "Modern Physics"
+      code: "PHYS220"
+      blurb: "Special relativity, quantum mechanics, and their applications to atoms, nuclei, and particles, with laboratory."
+      terms: [Fall 2020, Fall 2021, Fall 2022]
+    - title: "Mechanics I"
+      code: "PHYS310"
+      blurb: "Intermediate classical mechanics, with laboratory."
+      terms: [Fall 2015, Fall 2016, Fall 2017]
+    - title: "Electromagnetic Theory I"
+      code: "PHYS410"
+      blurb: "Electrostatics, magnetostatics, and Maxwell's equations."
+      terms: [Spring 2021, Spring 2022, Spring 2023]
+    - title: "Capstone Research I and II"
+      code: "PHYS470/472"
+      blurb: "The independent research experience required of all physics and astrophysics majors, culminating in a research paper and presentation."
+      terms: [Spring 2014, Fall 2021]
+
+- group: "Engineering & Data Science"
+  courses:
+    - title: "Intro to Exploratory Data Analysis"
+      code: "SCDV110"
+      blurb: "Exploring, visualizing, and summarizing data with code."
+      terms: [Fall 2023, Spring 2024]
+    - title: "Fluids & Heat Transfer"
+      code: "ENGR320"
+      blurb: "Fluid mechanics and heat transfer for engineering students."
+      terms: [Spring 2026]
+    - title: "Intro to Engineering"
+      code: "SCDV020"
+      blurb: "An introduction to engineering problem solving and design for first-year students in Siena's dual-degree engineering programs."
+      terms: [Fall 2015]

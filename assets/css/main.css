@@ -72,6 +72,12 @@ h3 { font-size: 1.05rem; margin: 1.5rem 0 0.5rem; }
 .card-list li { background: var(--card); border: 1px solid var(--rule); border-radius: 6px; padding: 0.9rem 1.1rem; }
 .card-list a { font-family: var(--sans); font-weight: 600; }
 .card-list p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.course-title { font-family: var(--sans); font-weight: 600; }
+.course-code { font-family: var(--sans); font-size: 0.75rem; color: var(--muted); margin-left: 0.3rem; white-space: nowrap; }
+.card-list .course-meta { font-family: var(--sans); font-size: 0.8rem; margin-top: 0.1rem; }
+.approach ul { list-style: none; padding: 0; display: grid; gap: 0.75rem; }
+.approach li { background: var(--card); border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: 6px; padding: 0.75rem 1rem; }
+@media (min-width: 40rem) { .approach ul { grid-template-columns: 1fr 1fr; } }
 .card-thumb { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; align-items: center; }
 .card-thumb img { display: block; width: 100%; height: auto; border-radius: 4px; background: #ffffff; }
 

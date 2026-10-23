@@ -77,6 +77,9 @@ in `hugo.toml`, use `locale`, not `languageCode`.
   files named `<YY><author>_<a|b> <title>.pdf`). Crop a figure from the
   page with `pdftoppm -r 300 -x -y -W -H`, then `magick -trim`.
 - `data/group.yaml` — Group page members (`current`, `former`).
+- `data/courses.yaml` — Teaching page courses (group, title, code, blurb,
+  semesters taught from the CV), rendered as cards by
+  `layouts/shortcodes/courses.html`. Add a semester there each term.
 - `data/publications.json` — Publications page data (see below). Without it,
   the page shows only the ADS link.
 - `legacy/` — the WordPress XML export and downloaded media. **Gitignored**:
@@ -178,7 +181,13 @@ John reviews the text, and second highlights are added where useful.
 - Draft text still marked `<!-- DRAFT -->`/`<!-- TODO -->`: the research
   landing and theme pages (Galaxy Demographics, Chemical Evolution, and The
   First Galaxies are placeholders), one or two sentences per project on
-  Surveys and Data Releases, the Teaching statement, and a newer About photo.
+  Surveys and Data Releases, and a newer About photo.
+- Teaching: statement and "How I Teach" are drawn from the 2022 promotion
+  narrative; course blurbs describe course content only, not what John did in
+  a given year (that would read as dated and could misrepresent colleagues
+  who teach them now) (`~/research/papers/siena/professor-promotion/teaching.tex`).
+  Still to do: a photo highlight, and whether to publish student-evaluation
+  results (not published without John's OK).
 - Contact page: confirm office (225) and lab (113) room numbers.
 - Group page: add members once they agree to be listed.
 - Domain (pending with Siena IT): set `moustakas.siena.edu` in Settings →
