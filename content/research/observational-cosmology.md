@@ -24,8 +24,6 @@ Although there were provocative hints throughout the second half of the twentiet
 
 I have been a member of the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/) collaboration since 2014. DESI is building the most precise three-dimensional map of the universe ever made by measuring spectroscopic redshifts for tens of millions of galaxies and quasars.
 
-Within DESI, I co-chaired the Target Selection Working Group, was a member of the Data Systems core team from 2014 to 2025, and was the principal author of the first public data release (see [Surveys and Data Releases](/research/surveys-and-data-releases/)). My scientific interests include the astrophysical properties of the galaxies DESI uses to map the expansion history of the universe, tests of modified gravity, searches for rare and exotic sources such as gravitational lenses, and the use of DESI spectra of distant galaxies to probe the gas around foreground systems.
-
 ## Selected Papers
 
 {{< papers "selected" >}}

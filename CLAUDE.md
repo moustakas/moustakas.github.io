@@ -13,9 +13,10 @@ and Service & Outreach as secondary pages.
   small custom theme living directly in `layouts/` and `assets/`. No
   third-party theme, by design: like the CV, the site should not read as
   "used a template" (al-folio, Hugo Blox, etc.).
-- Hosting: GitHub Pages from a public repo, `moustakas/moustakas.github.io`
-  (to be created), deployed by `.github/workflows/hugo.yml` on every push to
-  `main`. A custom domain or a redirect from `moustakas.siena.edu` (pending
+- Hosting: live at https://moustakas.github.io from the public repo
+  `moustakas/moustakas.github.io`, deployed by `.github/workflows/hugo.yml`
+  on every push to `main` (Pages build type must stay "workflow", not the
+  "legacy" branch/Jekyll mode GitHub defaults to for `*.github.io` repos). A custom domain or a redirect from `moustakas.siena.edu` (pending
   with Siena IT) can be added later with a `static/CNAME` file plus a DNS
   change; no other site changes needed.
 
@@ -105,3 +106,56 @@ order (currently in-prep first), and the page builds its table of contents
 from the same list. `title`,
 `info`, and `heading` are HTML (converted from the CV's LaTeX by
 `latex_to_html()` in `parse_publications.py`; fix rendering glitches there).
+
+## Next steps
+
+### Research-page figures ("eye candy")
+
+Agreed approach (not yet built): synthesize each research page into a few
+major results rather than one figure per paper.
+
+- **Page layout:** a lead/banner image (also reused as that theme's thumbnail
+  on the Research landing page, which currently shows plain text cards), then
+  2–4 *highlights*, then the existing "Selected Papers" list as the complete
+  record.
+- **A highlight** = one figure + a bold headline stating the result + two or
+  three plain-language sentences + links to the paper(s) behind it. Several
+  papers can feed one highlight. Figure beside text on wide screens, stacked
+  on mobile.
+- **To build:** a `highlight` shortcode (using the `img` resizing), an
+  `image:` front-matter field shown as a thumbnail in `layouts/_default/list.html`,
+  and a first worked example on Observational Cosmology using the DESI map
+  already in `assets/images/software/desi-y5-butterfly.jpg`.
+- **Figure sources and credits:** arXiv versions of John's own paper figures
+  (AAS journals and MNRAS permit author reuse with citation); figures from
+  papers he didn't lead get an explicit credit or are swapped for a press
+  image; press/public images (DESI/Berkeley Lab visualizations, NASA/ESA
+  *Hubble* CLASH and Frontier Fields releases, Legacy Surveys viewer cutouts).
+  Every figure carries a credit line in its caption.
+- **Workflow:** John drops figures into `assets/images/research/` with a
+  one-line note on which result each illustrates; Claude drafts the headline
+  and text from the paper abstracts; John edits for emphasis.
+- **Candidate highlights** (from titles; John to choose):
+  - Observational Cosmology: the DESI map; selecting tens of millions of
+    targets (target-density map); DESI cosmology results (BAO or dark-energy
+    figure, credit DESI).
+  - Galaxy Demographics and Assembly: stellar mass function and quenching
+    since z∼1 (PRIMUS; Moustakas et al. 2013); environment and quiescent
+    fractions.
+  - Star Formation and Feedback: calibrating SFR indicators; 1000 km/s
+    outflows in compact starbursts (*Hubble* imaging).
+  - Chemical Evolution: nebular abundances of nearby galaxies; the most
+    metal-poor galaxies in DESI (Legacy Surveys cutout plus DESI spectrum).
+  - The First Galaxies: lensed galaxies within the first few hundred million
+    years (*Hubble* press images of MACS0647-JD and the MACS0329 quadruple).
+
+### Other open items
+
+- Draft text still marked `<!-- DRAFT -->`/`<!-- TODO -->`: the research
+  landing and theme pages (Galaxy Demographics, Chemical Evolution, and The
+  First Galaxies are placeholders), one or two sentences per project on
+  Surveys and Data Releases, the Teaching statement, and a newer About photo.
+- Contact page: confirm office (225) and lab (113) room numbers.
+- Group page: add members once they agree to be listed.
+- Domain: ask Siena IT about redirecting `moustakas.siena.edu`; a custom
+  domain needs only `static/CNAME` plus DNS.
