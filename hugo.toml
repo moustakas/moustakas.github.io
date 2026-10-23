@@ -1,0 +1,47 @@
+baseURL = "https://moustakas.github.io/"
+locale = "en-us"
+title = "John Moustakas"
+enableRobotsTXT = true
+
+[params]
+  description = "John Moustakas, Professor of Physics & Astronomy at Siena University."
+  email = "jmoustakas@siena.edu"
+  github = "https://github.com/moustakas"
+  ads = "https://ui.adsabs.harvard.edu/search/q=author%3A%22moustakas%2C%20john%22&sort=date%20desc%2C%20bibcode%20desc"
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 2
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML (e.g., <!-- TODO --> comments, figures) in content files
+
+[menus]
+  [[menus.main]]
+    name = "Research"
+    pageRef = "/research"
+    weight = 10
+  [[menus.main]]
+    name = "Group"
+    pageRef = "/group"
+    weight = 20
+  [[menus.main]]
+    name = "Publications"
+    pageRef = "/publications"
+    weight = 30
+  [[menus.main]]
+    name = "Software"
+    pageRef = "/software"
+    weight = 40
+  [[menus.main]]
+    name = "Teaching"
+    pageRef = "/teaching"
+    weight = 50
+  [[menus.main]]
+    name = "Service & Outreach"
+    pageRef = "/service"
+    weight = 60
+  [[menus.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 70

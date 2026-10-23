@@ -1,0 +1,55 @@
+{{/*
+List a group of papers from the page's `papers:` front matter, pulling titles,
+authors, and links from data/publications.json:
+
+  {{< papers "selected" >}}
+
+Front matter (each entry is an ADS bibcode, the start of the title of a paper
+without one (e.g., in preparation), or a map with `id` plus an optional
+`note`; a map with `title` and `info` (and optionally `bibcode`) instead of
+`id` is a paper not in the website's publication data, written out by hand):
+
+  papers:
+    - key: selected
+      entries:
+        - 2013ApJ...767...50M
+        - {id: 2026AJ....171..285D, note: "Principal author"}
+
+Papers where J. Moustakas is first author are marked "Lead author" unless a
+`note` says otherwise.
+*/}}
+{{ $key := .Get 0 }}
+{{ $all := slice }}
+{{ range hugo.Data.publications.sections }}{{ $all = $all | append .entries }}{{ end }}
+{{ with where .Page.Params.papers "key" $key }}
+<ol class="pubs selected-pubs">
+  {{ range (index . 0).entries }}
+  {{ $item := cond (reflect.IsMap .) . (dict "id" .) }}
+  {{ $entry := dict }}
+  {{ with $item.title }}
+    {{ $entry = $item }}
+  {{ else }}
+    {{ with where $all "bibcode" $item.id }}{{ $entry = index . 0 }}{{ end }}
+    {{ if not $entry.title }}
+      {{ range $all }}{{ if and (not $entry.title) (hasPrefix .title $item.id) }}{{ $entry = . }}{{ end }}{{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $entry.title }}
+  <li>
+    <span class="pub-title">{{ $entry.title | safeHTML }}</span>
+    {{ with $item.note }}<span class="pub-badge">{{ . }}</span>{{ else }}{{ if hasPrefix $entry.info "<strong>J. Moustakas" }}<span class="pub-badge">Lead author</span>{{ end }}{{ end }}<br>
+    {{ $entry.info | safeHTML }}
+    <span class="pub-links">
+      {{ with $entry.bibcode }}<a href="https://ui.adsabs.harvard.edu/abs/{{ . }}">ADS</a>{{ end }}
+      {{ with $entry.arxiv }}<a href="https://arxiv.org/abs/{{ . }}">arXiv</a>{{ end }}
+      {{ with $entry.doi }}<a href="https://doi.org/{{ . }}">DOI</a>{{ end }}
+    </span>
+  </li>
+  {{ else }}
+  {{ warnf "papers shortcode: %q not found in data/publications.json (%s)" $item.id $.Position }}
+  {{ end }}
+  {{ end }}
+</ol>
+{{ else }}
+{{ errorf "papers shortcode: no papers group %q in front matter (%s)" $key .Position }}
+{{ end }}

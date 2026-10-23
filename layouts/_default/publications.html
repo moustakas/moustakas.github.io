@@ -1,0 +1,51 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ with hugo.Data.publications }}
+{{ $data := . }}
+{{/* Sections appear in the order listed in the page's `sections:` front matter (default: JSON order). */}}
+{{ $sections := slice }}
+{{ with $.Params.sections }}
+  {{ range . }}{{ range where $data.sections "key" . }}{{ $sections = $sections | append . }}{{ end }}{{ end }}
+{{ else }}
+  {{ $sections = $data.sections }}
+{{ end }}
+
+<div class="stats">
+  {{ range .summary }}
+  <div class="stat"><span class="stat-number">{{ .value }}</span><span class="stat-label">{{ .label }}</span></div>
+  {{ end }}
+</div>
+<p class="muted">As of {{ .date }}, from <a href="{{ site.Params.ads }}">NASA ADS</a>.</p>
+
+{{ $.Content }}
+
+<nav class="toc" aria-label="Contents">
+  <ul>
+    {{ range $sections }}
+    <li><a href="#pubs-{{ .key }}">{{ .heading | safeHTML }}</a> <span class="muted">({{ len .entries }})</span></li>
+    {{ end }}
+  </ul>
+</nav>
+
+{{ range $sections }}
+<h2 id="pubs-{{ .key }}">{{ .heading | safeHTML }}</h2>
+<ol class="pubs" reversed>
+  {{ range .entries }}
+  <li>
+    <span class="pub-title">{{ .title | safeHTML }}</span><br>
+    {{ .info | safeHTML }}
+    <span class="pub-links">
+      {{ with .bibcode }}<a href="https://ui.adsabs.harvard.edu/abs/{{ . }}">ADS</a>{{ end }}
+      {{ with .arxiv }}<a href="https://arxiv.org/abs/{{ . }}">arXiv</a>{{ end }}
+      {{ with .doi }}<a href="https://doi.org/{{ . }}">DOI</a>{{ end }}
+    </span>
+  </li>
+  {{ end }}
+</ol>
+<p class="back-to-top"><a href="#top">Back to top ↑</a></p>
+{{ end }}
+{{ else }}
+{{ .Content }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,7 @@
+{{/* Table of contents from the page's own headings; shown when there are at
+least two level-2 headings, unless the page sets `toc: false`. */}}
+{{ if and (ne .Params.toc false) (ge (len (findRE `<h2[ >]` .Content)) 2) }}
+<div class="toc">
+  {{ .TableOfContents }}
+</div>
+{{ end }}

@@ -1,0 +1,4518 @@
+{
+ "date": "2026 October 13",
+ "summary": [
+  {
+   "label": "Refereed Publications",
+   "value": "447"
+  },
+  {
+   "label": "Citations",
+   "value": "38,677"
+  },
+  {
+   "label": "h-index",
+   "value": "94"
+  },
+  {
+   "label": "i10-index",
+   "value": "322"
+  },
+  {
+   "label": "As 1st, 2nd, or 3rd Author",
+   "value": "42"
+  }
+ ],
+ "sections": [
+  {
+   "key": "top",
+   "heading": "Refereed Publications As First, Second, or Third Author",
+   "entries": [
+    {
+     "number": 42,
+     "title": "FastSpecFit: Spectrophotometric Modeling of 38 Million Extragalactic Targets from the Dark Energy Spectroscopic Instrument Second Data Release",
+     "info": "<strong>J. Moustakas</strong>, J. Buhler, D. Scholte et al. 2026, The Astronomical Journal, submitted"
+    },
+    {
+     "number": 41,
+     "title": "Electron temperature relations and the direct N, O, Ne, S, and Ar abundances of 49 959 star-forming galaxies in DESI data release 2",
+     "info": "D. Scholte, F. Cullen, <strong>J. Moustakas</strong> et al. 2026, MNRAS, 551, 1381",
+     "bibcode": "2026MNRAS.551g1381S",
+     "doi": "10.1093/mnras/stag1381",
+     "arxiv": "2601.02463",
+     "citations": 11
+    },
+    {
+     "number": 40,
+     "title": "The atomic gas sequence and mass-metallicity relation from dwarfs to massive galaxies",
+     "info": "D. Scholte, A. Saintonge, <strong>J. Moustakas</strong> et al. 2024, MNRAS, 535, 2341–2356",
+     "bibcode": "2024MNRAS.535.2341S",
+     "doi": "10.1093/mnras/stae2477",
+     "arxiv": "2408.03996",
+     "citations": 29
+    },
+    {
+     "number": 39,
+     "title": "DESI Emission-line Galaxies: Unveiling the Diversity of [O II] Profiles and Its Links to Star Formation and Morphology",
+     "info": "T. Lan, J. Prochaska, <strong>J. Moustakas</strong> et al. 2024, ApJ, 977, 225",
+     "bibcode": "2024ApJ...977..225L",
+     "doi": "10.3847/1538-4357/ad8f33",
+     "arxiv": "2410.07601",
+     "citations": 5
+    },
+    {
+     "number": 38,
+     "title": "Mid-infrared Variability in Nearby Galaxies from the MaNGA Sample",
+     "info": "A. Pai, M. Blanton, &amp; <strong>J. Moustakas</strong> 2024, ApJ, 977, 102",
+     "bibcode": "2024ApJ...977..102P",
+     "doi": "10.3847/1538-4357/ad89b8",
+     "arxiv": "2407.05508",
+     "citations": 7
+    },
+    {
+     "number": 37,
+     "title": "Siena Galaxy Atlas 2020",
+     "info": "<strong>J. Moustakas</strong>, D. Lang, A. Dey et al. 2023, ApJS, 269, 3",
+     "bibcode": "2023ApJS..269....3M",
+     "doi": "10.3847/1538-4365/acfaa2",
+     "arxiv": "2307.04888",
+     "citations": 93
+    },
+    {
+     "number": 36,
+     "title": "Target Selection and Validation of DESI Emission Line Galaxies",
+     "info": "A. Raichoor, <strong>J. Moustakas</strong>, J. Newman et al. 2023, AJ, 165, 126",
+     "bibcode": "2023AJ....165..126R",
+     "doi": "10.3847/1538-3881/acb213",
+     "arxiv": "2208.08513",
+     "citations": 216
+    },
+    {
+     "number": 35,
+     "title": "The Target-selection Pipeline for the Dark Energy Spectroscopic Instrument",
+     "info": "A. Myers, <strong>J. Moustakas</strong>, S. Bailey et al. 2023, AJ, 165, 50",
+     "bibcode": "2023AJ....165...50M",
+     "doi": "10.3847/1538-3881/aca5f9",
+     "arxiv": "2208.08518",
+     "citations": 178
+    },
+    {
+     "number": 34,
+     "title": "Compact Starburst Galaxies with Fast Outflows: Central Escape Velocities and Stellar Mass Surface Densities from Multiband Hubble Space Telescope Imaging",
+     "info": "A. Diamond-Stanic, <strong>J. Moustakas</strong>, P. Sell et al. 2021, ApJ, 912, 11",
+     "bibcode": "2021ApJ...912...11D",
+     "doi": "10.3847/1538-4357/abe935",
+     "arxiv": "2102.11287",
+     "citations": 25
+    },
+    {
+     "number": 33,
+     "title": "Determining the Halo Mass Scale Where Galaxies Lose Their Gas",
+     "info": "G. Rudnick, P. Jablonka, <strong>J. Moustakas</strong> et al. 2017, ApJ, 850, 181",
+     "bibcode": "2017ApJ...850..181R",
+     "doi": "10.3847/1538-4357/aa866c",
+     "arxiv": "1709.03691",
+     "citations": 21
+    },
+    {
+     "number": 32,
+     "title": "Calibration of Ultraviolet, Mid-infrared, and Radio Star Formation Rate Indicators",
+     "info": "M. Brown, <strong>J. Moustakas</strong>, R. C. Kennicutt, Jr. et al. 2017, ApJ, 847, 136",
+     "bibcode": "2017ApJ...847..136B",
+     "doi": "10.3847/1538-4357/aa8ad2",
+     "arxiv": "1709.00183",
+     "citations": 65
+    },
+    {
+     "number": 31,
+     "title": "Galaxies Probing Galaxies at High Resolution: Co-rotating Gas Associated with a Milky Way Analog at z=0.4",
+     "info": "A. Diamond-Stanic, A. Coil, <strong>J. Moustakas</strong> et al. 2016, ApJ, 824, 24",
+     "bibcode": "2016ApJ...824...24D",
+     "doi": "10.3847/0004-637X/824/1/24",
+     "arxiv": "1507.01945",
+     "citations": 53
+    },
+    {
+     "number": 30,
+     "title": "PRIMUS: Effects of Galaxy Environment on the Quiescent Fraction Evolution at z&lt;0.8",
+     "info": "C. Hahn, M. Blanton, <strong>J. Moustakas</strong> et al. 2015, ApJ, 806, 162",
+     "bibcode": "2015ApJ...806..162H",
+     "doi": "10.1088/0004-637X/806/2/162",
+     "arxiv": "1412.7162",
+     "citations": 24
+    },
+    {
+     "number": 29,
+     "title": "Young Galaxy Candidates in the Hubble Frontier Fields. I. A2744",
+     "info": "W. Zheng, X. Shu, <strong>J. Moustakas</strong> et al. 2014, ApJ, 795, 93",
+     "bibcode": "2014ApJ...795...93Z",
+     "doi": "10.1088/0004-637X/795/1/93",
+     "arxiv": "1402.6743",
+     "citations": 78
+    },
+    {
+     "number": 28,
+     "title": "The Assembly Histories of Quiescent Galaxies since z = 0.7 from Absorption Line Spectroscopy",
+     "info": "J. Choi, C. Conroy, <strong>J. Moustakas</strong> et al. 2014, ApJ, 792, 95",
+     "bibcode": "2014ApJ...792...95C",
+     "doi": "10.1088/0004-637X/792/2/95",
+     "arxiv": "1403.4932",
+     "citations": 157
+    },
+    {
+     "number": 27,
+     "title": "An Atlas of Galaxy Spectral Energy Distributions from the Ultraviolet to the Mid-infrared",
+     "info": "M. Brown, <strong>J. Moustakas</strong>, J. Smith et al. 2014, ApJS, 212, 18",
+     "bibcode": "2014ApJS..212...18B",
+     "doi": "10.1088/0067-0049/212/2/18",
+     "arxiv": "1312.3029",
+     "citations": 249
+    },
+    {
+     "number": 26,
+     "title": "PRIMUS: An Observationally Motivated Model to Connect the Evolution of the Active Galactic Nucleus and Galaxy Populations out to z∼1",
+     "info": "J. Aird, A. Coil, <strong>J. Moustakas</strong> et al. 2013, ApJ, 775, 41",
+     "bibcode": "2013ApJ...775...41A",
+     "doi": "10.1088/0004-637X/775/1/41",
+     "arxiv": "1301.1689",
+     "citations": 55
+    },
+    {
+     "number": 25,
+     "title": "The PRIsm MUlti-object Survey (PRIMUS). II. Data Reduction and Redshift Fitting",
+     "info": "R. Cool, <strong>J. Moustakas</strong>, M. Blanton et al. 2013, ApJ, 767, 118",
+     "bibcode": "2013ApJ...767..118C",
+     "doi": "10.1088/0004-637X/767/2/118",
+     "arxiv": "1303.2672",
+     "citations": 204
+    },
+    {
+     "number": 24,
+     "title": "PRIMUS: Constraints on Star Formation Quenching and Galaxy Merging, and the Evolution of the Stellar Mass Function from z = 0-1",
+     "info": "<strong>J. Moustakas</strong>, A. Coil, J. Aird et al. 2013, ApJ, 767, 50",
+     "bibcode": "2013ApJ...767...50M",
+     "doi": "10.1088/0004-637X/767/1/50",
+     "arxiv": "1301.1688",
+     "citations": 539
+    },
+    {
+     "number": 23,
+     "title": "High-velocity Outflows without AGN Feedback: Eddington-limited Star Formation in Compact Massive Galaxies",
+     "info": "A. Diamond-Stanic, <strong>J. Moustakas</strong>, C. Tremonti et al. 2012, ApJL, 755, 26",
+     "bibcode": "2012ApJ...755L..26D",
+     "doi": "10.1088/2041-8205/755/2/L26",
+     "arxiv": "1205.2368",
+     "citations": 128
+    },
+    {
+     "number": 22,
+     "title": "Star Cluster Populations in the Outer Disks of nearby Galaxies",
+     "info": "S. Herbert-Fort, D. Zaritsky, <strong>J. Moustakas</strong> et al. 2012, ApJ, 754, 110",
+     "bibcode": "2012ApJ...754..110H",
+     "doi": "10.1088/0004-637X/754/2/110",
+     "arxiv": "1205.5072",
+     "citations": 11
+    },
+    {
+     "number": 21,
+     "title": "CLASH: Discovery of a Bright z∼6.2 Dwarf Galaxy Quadruply Lensed by MACS J0329.6-0211",
+     "info": "A. Zitrin, <strong>J. Moustakas</strong>, L. Bradley et al. 2012, ApJL, 747, 9",
+     "bibcode": "2012ApJ...747L...9Z",
+     "doi": "10.1088/2041-8205/747/1/L9",
+     "arxiv": "1111.5006",
+     "citations": 45
+    },
+    {
+     "number": 20,
+     "title": "Calibrating the Star Formation Rate at z∼1 from Optical Data",
+     "info": "N. Mostek, A. Coil, <strong>J. Moustakas</strong> et al. 2012, ApJ, 746, 124",
+     "bibcode": "2012ApJ...746..124M",
+     "doi": "10.1088/0004-637X/746/2/124",
+     "arxiv": "1108.2503",
+     "citations": 27
+    },
+    {
+     "number": 19,
+     "title": "PRIMUS: The Dependence of AGN Accretion on Host Stellar Mass and Color",
+     "info": "J. Aird, A. Coil, <strong>J. Moustakas</strong> et al. 2012, ApJ, 746, 90",
+     "bibcode": "2012ApJ...746...90A",
+     "doi": "10.1088/0004-637X/746/1/90",
+     "arxiv": "1107.4368",
+     "citations": 299
+    },
+    {
+     "number": 18,
+     "title": "Dust Extinction and Metallicities of Star-forming Lyα Emitting Galaxies at Low Redshift",
+     "info": "S. Finkelstein, S. Cohen, <strong>J. Moustakas</strong> et al. 2011, ApJ, 733, 117",
+     "bibcode": "2011ApJ...733..117F",
+     "doi": "10.1088/0004-637X/733/2/117",
+     "arxiv": "1012.4010",
+     "citations": 48
+    },
+    {
+     "number": 17,
+     "title": "The Aromatic Features in Very Faint Dwarf Galaxies",
+     "info": "R. Wu, D. Hogg, &amp; <strong>J. Moustakas</strong> 2011, ApJ, 730, 111",
+     "bibcode": "2011ApJ...730..111W",
+     "doi": "10.1088/0004-637X/730/2/111",
+     "arxiv": "0907.1783",
+     "citations": 16
+    },
+    {
+     "number": 16,
+     "title": "Optical Spectroscopy and Nebular Oxygen Abundances of the Spitzer/SINGS Galaxies",
+     "info": "<strong>J. Moustakas</strong>, R. C. Kennicutt, Jr., C. Tremonti et al. 2010, ApJS, 190, 233–266",
+     "bibcode": "2010ApJS..190..233M",
+     "doi": "10.1088/0067-0049/190/2/233",
+     "arxiv": "1007.4547",
+     "citations": 504
+    },
+    {
+     "number": 15,
+     "title": "Stellar Populations of Elliptical Galaxies in the Local Universe",
+     "info": "G. Zhu, M. Blanton, &amp; <strong>J. Moustakas</strong> 2010, ApJ, 722, 491–519",
+     "bibcode": "2010ApJ...722..491Z",
+     "doi": "10.1088/0004-637X/722/1/491",
+     "arxiv": "1006.5055",
+     "citations": 60
+    },
+    {
+     "number": 14,
+     "title": "Enhanced Dense Gas Fraction in Ultraluminous Infrared Galaxies",
+     "info": "S. Juneau, D. Narayanan, <strong>J. Moustakas</strong> et al. 2009, ApJ, 707, 1217–1232",
+     "bibcode": "2009ApJ...707.1217J",
+     "doi": "10.1088/0004-637X/707/2/1217",
+     "arxiv": "0911.0413",
+     "citations": 116
+    },
+    {
+     "number": 13,
+     "title": "A Spectroscopically Confirmed Excess of 24 μm Sources in a Super Galaxy Group at z = 0.37: Enhanced Dusty Star Formation Relative to the Cluster and Field Environment",
+     "info": "K. Tran, A. Saintonge, <strong>J. Moustakas</strong> et al. 2009, ApJ, 705, 809–820",
+     "bibcode": "2009ApJ...705..809T",
+     "doi": "10.1088/0004-637X/705/1/809",
+     "arxiv": "0909.4079",
+     "citations": 54
+    },
+    {
+     "number": 12,
+     "title": "Active Galactic Nuclei and the Truncation of Star Formation in K+A Galaxies",
+     "info": "M. Brown, <strong>J. Moustakas</strong>, N. Caldwell et al. 2009, ApJ, 703, 150–158",
+     "bibcode": "2009ApJ...703..150B",
+     "doi": "10.1088/0004-637X/703/1/150",
+     "arxiv": "0907.3185",
+     "citations": 29
+    },
+    {
+     "number": 11,
+     "title": "Physical Properties and Environments of Nearby Galaxies",
+     "info": "M. Blanton &amp; <strong>J. Moustakas</strong> 2009, ARA&amp;A, 47, 159–210",
+     "bibcode": "2009ARA&A..47..159B",
+     "doi": "10.1146/annurev-astro-082708-101734",
+     "arxiv": "0908.3017",
+     "citations": 511
+    },
+    {
+     "number": 10,
+     "title": "The [O II] λ3727 Luminosity Function at z∼1",
+     "info": "G. Zhu, <strong>J. Moustakas</strong>, &amp; M. Blanton 2009, ApJ, 701, 86–93",
+     "bibcode": "2009ApJ...701...86Z",
+     "doi": "10.1088/0004-637X/701/1/86",
+     "arxiv": "0811.3035",
+     "citations": 57
+    },
+    {
+     "number": 9,
+     "title": "Spatially Correlated Cluster Populations in the Outer Disk of NGC 3184",
+     "info": "S. Herbert-Fort, D. Zaritsky, <strong>J. Moustakas</strong> et al. 2009, ApJ, 700, 1977–1987",
+     "bibcode": "2009ApJ...700.1977H",
+     "doi": "10.1088/0004-637X/700/2/1977",
+     "arxiv": "0906.1211",
+     "citations": 7
+    },
+    {
+     "number": 8,
+     "title": "The Origin of the 24 μm Excess in Red Galaxies",
+     "info": "K. Brand, <strong>J. Moustakas</strong>, L. Armus et al. 2009, ApJ, 693, 340–346",
+     "bibcode": "2009ApJ...693..340B",
+     "doi": "10.1088/0004-637X/693/1/340",
+     "arxiv": "0811.1398",
+     "citations": 21
+    },
+    {
+     "number": 7,
+     "title": "The Transparency of Galaxy Clusters",
+     "info": "J. Bovy, D. Hogg, &amp; <strong>J. Moustakas</strong> 2008, ApJ, 688, 198–207",
+     "bibcode": "2008ApJ...688..198B",
+     "doi": "10.1086/592187",
+     "arxiv": "0805.1200",
+     "citations": 25
+    },
+    {
+     "number": 6,
+     "title": "The Late Stellar Assembly of Massive Cluster Galaxies via Major Merging",
+     "info": "K. Tran, <strong>J. Moustakas</strong>, A. Gonzalez et al. 2008, ApJL, 683, L17",
+     "bibcode": "2008ApJ...683L..17T",
+     "doi": "10.1086/591422",
+     "arxiv": "0806.4387",
+     "citations": 50
+    },
+    {
+     "number": 5,
+     "title": "The Discovery of 1000 km s<sup>-1</sup> Outflows in Massive Poststarburst Galaxies at z=0.6",
+     "info": "C. Tremonti, <strong>J. Moustakas</strong>, &amp; A. Diamond-Stanic 2007, ApJL, 663, L77–L80",
+     "bibcode": "2007ApJ...663L..77T",
+     "doi": "10.1086/520083",
+     "arxiv": "0706.0527",
+     "citations": 339
+    },
+    {
+     "number": 4,
+     "title": "Integrated Nebular Abundances of Disk Galaxies",
+     "info": "<strong>J. Moustakas</strong> &amp; R. C. Kennicutt, Jr. 2006, ApJ, 651, 155–166",
+     "bibcode": "2006ApJ...651..155M",
+     "doi": "10.1086/507570",
+     "arxiv": "astro-ph/0511731",
+     "citations": 88
+    },
+    {
+     "number": 3,
+     "title": "An Integrated Spectrophotometric Survey of Nearby Star-forming Galaxies",
+     "info": "<strong>J. Moustakas</strong> &amp; R. C. Kennicutt, Jr. 2006, ApJS, 164, 81–98",
+     "bibcode": "2006ApJS..164...81M",
+     "doi": "10.1086/500971",
+     "arxiv": "astro-ph/0511729",
+     "citations": 302
+    },
+    {
+     "number": 2,
+     "title": "Optical Star Formation Rate Indicators",
+     "info": "<strong>J. Moustakas</strong>, R. C. Kennicutt, Jr., &amp; C. Tremonti 2006, ApJ, 642, 775–796",
+     "bibcode": "2006ApJ...642..775M",
+     "doi": "10.1086/500964",
+     "arxiv": "astro-ph/0511730",
+     "citations": 305
+    },
+    {
+     "number": 1,
+     "title": "Deviations from the Local Hubble Flow. I. The Tip of the Red Giant Branch as a Distance Indicator",
+     "info": "B. Méndez, M. Davis, <strong>J. Moustakas</strong> et al. 2002, AJ, 124, 213–233",
+     "bibcode": "2002AJ....124..213M",
+     "doi": "10.1086/341168",
+     "arxiv": "astro-ph/0204192",
+     "citations": 180
+    }
+   ]
+  },
+  {
+   "key": "prep",
+   "heading": "First-author Papers in Preparation",
+   "entries": [
+    {
+     "number": 2,
+     "title": "DESI Discovery of the Two Most Metal-Poor Star-Forming Galaxies in the Nearby Universe",
+     "info": "<strong>J. Moustakas</strong>, D. Scholte et al. 2026, to be submitted to The Astrophysical Journal"
+    },
+    {
+     "number": 1,
+     "title": "Siena Galaxy Atlas 2025",
+     "info": "<strong>J. Moustakas</strong>, D. Lang et al. 2026, to be submitted to The Astrophysical Journal"
+    }
+   ]
+  },
+  {
+   "key": "other",
+   "heading": "Additional Refereed Publications",
+   "entries": [
+    {
+     "number": 405,
+     "title": "Radio Quasars in the Cosmic Dawn: A Spectroscopic Sample from the DESI Survey",
+     "info": "A. Gloudemans, J. Yang, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2026, in press (arXiv:2609.26931)",
+     "bibcode": "2026arXiv260926931G",
+     "doi": "10.48550/arXiv.2609.26931",
+     "arxiv": "2609.26931",
+     "citations": 0
+    },
+    {
+     "number": 404,
+     "title": "Model-Independent Measurement of Baryon Gas Fractions through Galaxy-Galaxy Lensing and the Kinematic Sunyaev-Zel'dovich Effect",
+     "info": "R. Liu, U. Seljak, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.22466)",
+     "bibcode": "2026arXiv260922466L",
+     "doi": "10.48550/arXiv.2609.22466",
+     "arxiv": "2609.22466",
+     "citations": 0
+    },
+    {
+     "number": 403,
+     "title": "What Drives Galaxy-Galaxy Differences In The Selective Attenuation Curve? New Perspectives from DESI DR1",
+     "info": "A. Mizener, D. Calzetti, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.21010)",
+     "bibcode": "2026arXiv260921010M",
+     "doi": "10.48550/arXiv.2609.21010",
+     "arxiv": "2609.21010",
+     "citations": 0
+    },
+    {
+     "number": 402,
+     "title": "Sizing the Universe with DESI Galaxy Sizes: Plain Fundamentals of Fundamental-Plane Lensing",
+     "info": "K. Xu, J. Wang, (<strong>J. Moustakas</strong>, 29<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.09151)",
+     "bibcode": "2026arXiv260909151X",
+     "doi": "10.48550/arXiv.2609.09151",
+     "arxiv": "2609.09151",
+     "citations": 0
+    },
+    {
+     "number": 401,
+     "title": "Extending the Stellar-to-Halo Mass Relation to Dwarf Galaxies with DESI DR1",
+     "info": "Z. Shao, Y. Zu, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.04351)",
+     "bibcode": "2026arXiv260904351S",
+     "doi": "10.48550/arXiv.2609.04351",
+     "arxiv": "2609.04351",
+     "citations": 0
+    },
+    {
+     "number": 400,
+     "title": "Linking neutral gas inflows and outflows to offsets in the star-forming main sequence and mass-metallicity relation",
+     "info": "S. Weng, M. Pieri, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.01707)",
+     "bibcode": "2026arXiv260901707W",
+     "doi": "10.48550/arXiv.2609.01707",
+     "arxiv": "2609.01707",
+     "citations": 0
+    },
+    {
+     "number": 399,
+     "title": "Weak evolution of cosmic atomic hydrogen over the past 4.5 billion years",
+     "info": "C. Zhang, H. Guo, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2026, Nature Astronomy, in press (arXiv:2607.05326)",
+     "bibcode": "2026NatAs.tmp..188Z",
+     "doi": "10.1038/s41550-026-02965-9",
+     "arxiv": "2607.05326",
+     "citations": 5
+    },
+    {
+     "number": 398,
+     "title": "The DESI Data Release 1 white dwarf catalogue",
+     "info": "A. Swan, B. Gänsicke, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2026, MNRAS, in press (arXiv:2609.04314)",
+     "bibcode": "2026MNRAS.tmp.1582S",
+     "doi": "10.1093/mnras/stag1701",
+     "arxiv": "2609.04314",
+     "citations": 0
+    },
+    {
+     "number": 397,
+     "title": "ELVES-Dwarf. II. A Systematic Search for Satellite Systems of Dwarf Galaxies in the Local Volume",
+     "info": "J. Li, J. Greene, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2609.00283)",
+     "bibcode": "2026arXiv260900283L",
+     "doi": "10.48550/arXiv.2609.00283",
+     "arxiv": "2609.00283",
+     "citations": 0
+    },
+    {
+     "number": 396,
+     "title": "Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI Sky Fibers",
+     "info": "A. Saydjari, B. Draine, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2608.28740)",
+     "bibcode": "2026arXiv260828740S",
+     "doi": "10.48550/arXiv.2608.28740",
+     "arxiv": "2608.28740",
+     "citations": 0
+    },
+    {
+     "number": 395,
+     "title": "A Unified Tracer Analysis of DESI DR2 Baryon Acoustic Oscillations",
+     "info": "N. Sanders, H. Seo, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2608.27830)",
+     "bibcode": "2026arXiv260827830S",
+     "doi": "10.48550/arXiv.2608.27830",
+     "arxiv": "2608.27830",
+     "citations": 0
+    },
+    {
+     "number": 394,
+     "title": "Systematic uncertainties on DESI Tully-Fisher distances constrained with Integral Field Spectroscopy",
+     "info": "U. Siwakoti, L. Galbany, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2026, in press (arXiv:2608.26459)",
+     "bibcode": "2026arXiv260826459S",
+     "doi": "10.48550/arXiv.2608.26459",
+     "arxiv": "2608.26459",
+     "citations": 0
+    },
+    {
+     "number": 393,
+     "title": "Luminosity function of quasars at 1.0&lt;z&lt;3.5 from SDSS and DESI",
+     "info": "G. Yin, L. Jiang, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2608.06000)",
+     "bibcode": "2026arXiv260806000Y",
+     "doi": "10.48550/arXiv.2608.06000",
+     "arxiv": "2608.06000",
+     "citations": 0
+    },
+    {
+     "number": 392,
+     "title": "Validation of the DESI DR2 Lyα forest full-shape analysis",
+     "info": "M. Herbold, A. Cuceu, (<strong>J. Moustakas</strong>, 67<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2607.27411)",
+     "bibcode": "2026arXiv260727411H",
+     "doi": "10.48550/arXiv.2607.27411",
+     "arxiv": "2607.27411",
+     "citations": 0
+    },
+    {
+     "number": 391,
+     "title": "DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints",
+     "info": "DESI Collaboration, A. Adame, (<strong>J. Moustakas</strong>, 101<sup>st</sup> coauthor) et al. 2026, in press (arXiv:2607.27410)",
+     "bibcode": "2026arXiv260727410D",
+     "doi": "10.48550/arXiv.2607.27410",
+     "arxiv": "2607.27410",
+     "citations": 0
+    },
+    {
+     "number": 390,
+     "title": "Cosmic Pairs: A DESI Census of Dual and Offset AGN as Precursors to Massive Black Hole Binaries",
+     "info": "E. Dadiani, A. Palmese, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2607.27390)",
+     "bibcode": "2026arXiv260727390D",
+     "doi": "10.48550/arXiv.2607.27390",
+     "arxiv": "2607.27390",
+     "citations": 0
+    },
+    {
+     "number": 389,
+     "title": "1000 cataclysmic variables identified from DESI spectroscopy",
+     "info": "K. Inight, B. Gänsicke, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2607.22836)",
+     "bibcode": "2026arXiv260722836I",
+     "doi": "10.48550/arXiv.2607.22836",
+     "arxiv": "2607.22836",
+     "citations": 0
+    },
+    {
+     "number": 388,
+     "title": "Probing the matter-dominated expansion with multi-redshift Lyman-α BAO from DESI DR2",
+     "info": "H. Herrera-Alcantar, J. Guy, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2607.19619)",
+     "bibcode": "2026arXiv260719619H",
+     "doi": "10.48550/arXiv.2607.19619",
+     "arxiv": "2607.19619",
+     "citations": 0
+    },
+    {
+     "number": 387,
+     "title": "The largest sample of AGN outflows in dwarf galaxies using DESI DR1",
+     "info": "V. Rodríguez Morales, M. Mezcua, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2026, in press (arXiv:2607.02655)",
+     "bibcode": "2026arXiv260702655R",
+     "doi": "10.48550/arXiv.2607.02655",
+     "arxiv": "2607.02655",
+     "citations": 1
+    },
+    {
+     "number": 386,
+     "title": "Clustering of high-redshift quasars with DESI DR2",
+     "info": "M. Charles, P. Martini, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2606.27115)",
+     "bibcode": "2026arXiv260627115C",
+     "doi": "10.48550/arXiv.2606.27115",
+     "arxiv": "2606.27115",
+     "citations": 1
+    },
+    {
+     "number": 385,
+     "title": "Cosmological constraints from the DESI DR1 Bispectrum Full-Shape and DR2 BAO",
+     "info": "D. Forero-Sánchez, S. Novell-Masot, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2606.23936)",
+     "bibcode": "2026arXiv260623936F",
+     "doi": "10.48550/arXiv.2606.23936",
+     "arxiv": "2606.23936",
+     "citations": 2
+    },
+    {
+     "number": 384,
+     "title": "Quality Assessment of Spectroscopic Data Reduction Pipelines Using Artificial Intelligence: Scrutinizing Data Release 2 from the DESI Survey",
+     "info": "V. Torres-Gomez, J. Suarez-Perez, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2026, in press (arXiv:2606.21035)",
+     "bibcode": "2026arXiv260621035T",
+     "doi": "10.48550/arXiv.2606.21035",
+     "arxiv": "2606.21035",
+     "citations": 0
+    },
+    {
+     "number": 383,
+     "title": "DESI Data Release 2 ELGs: Property-dependent subsamples, imaging systematics, and clustering",
+     "info": "T. Hagen, K. Dawson, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2606.18581)",
+     "bibcode": "2026arXiv260618581H",
+     "doi": "10.48550/arXiv.2606.18581",
+     "arxiv": "2606.18581",
+     "citations": 0
+    },
+    {
+     "number": 382,
+     "title": "Mapping the nuclear environments of extreme coronal line emitting galaxies",
+     "info": "D. Kynoch, O. Graur, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2606.04090)",
+     "bibcode": "2026arXiv260604090K",
+     "doi": "10.48550/arXiv.2606.04090",
+     "arxiv": "2606.04090",
+     "citations": 0
+    },
+    {
+     "number": 381,
+     "title": "Unveiling Hidden Lyman Alpha Emitters in the DESI DR1 Data",
+     "info": "J. Chan, T. Lan, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2605.12503)",
+     "bibcode": "2026arXiv260512503C",
+     "doi": "10.48550/arXiv.2605.12503",
+     "arxiv": "2605.12503",
+     "citations": 0
+    },
+    {
+     "number": 380,
+     "title": "Satellite Metallicity Enhancement I: Suppressed Star Formation, Stellar Mass Loss, and Enriched Inflow of DESI and EAGLE Galaxies around Massive Clusters",
+     "info": "Y. Lin, Y. Zu, (<strong>J. Moustakas</strong>, 18<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2605.08342)",
+     "bibcode": "2026arXiv260508342L",
+     "doi": "10.48550/arXiv.2605.08342",
+     "arxiv": "2605.08342",
+     "citations": 1
+    },
+    {
+     "number": 379,
+     "title": "Peering down the barrel with DESI DR2: 10 000+ inflows at z &lt; 0.6 reveal how galaxies accrete cold gas",
+     "info": "S. Weng, A. Saintonge, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2605.02999)",
+     "bibcode": "2026arXiv260502999W",
+     "doi": "10.48550/arXiv.2605.02999",
+     "arxiv": "2605.02999",
+     "citations": 0
+    },
+    {
+     "number": 378,
+     "title": "Cosmological constraints from a joint DESI DR1 Full-Shape and DR2 BAO",
+     "info": "D. Forero-Sánchez, H. Gil-Marín, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2602.18761)",
+     "bibcode": "2026arXiv260218761F",
+     "doi": "10.48550/arXiv.2602.18761",
+     "arxiv": "2602.18761",
+     "citations": 3
+    },
+    {
+     "number": 377,
+     "title": "Baryon Acoustic Oscillations from the C IV Forest with DESI DR2",
+     "info": "A. Bault, A. Cuceu, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2026, in press (arXiv:2601.08103)",
+     "bibcode": "2026arXiv260108103B",
+     "doi": "10.48550/arXiv.2601.08103",
+     "arxiv": "2601.08103",
+     "citations": 2
+    },
+    {
+     "number": 376,
+     "title": "The Composite Spectrum of QSO Absorption Line Systems in DESI DR2",
+     "info": "L. Napolitano, A. Myers, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2026, AJ, 172, 250",
+     "bibcode": "2026AJ....172..250N",
+     "doi": "10.3847/1538-3881/aea6da",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 375,
+     "title": "Intrinsic alignment demographics for next-generation lensing: revealing galaxy property trends with DESI Y1 direct measurements",
+     "info": "J. Siegel, J. McCullough, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2026, MNRAS, 552, 1691",
+     "bibcode": "2026MNRAS.552g1691S",
+     "doi": "10.1093/mnras/stag1691",
+     "arxiv": "2507.11530",
+     "citations": 0
+    },
+    {
+     "number": 374,
+     "title": "Mapping the nuclear environments of extreme coronal line emitting galaxies",
+     "info": "D. Kynoch, O. Graur, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2026, MNRAS, 552, 1681",
+     "bibcode": "2026MNRAS.552g1681K",
+     "doi": "10.1093/mnras/stag1681",
+     "arxiv": "2606.04090",
+     "citations": 0
+    },
+    {
+     "number": 373,
+     "title": "Baryon Acoustic Oscillations from the C IV Forest with DESI DR2",
+     "info": "A. Bault, A. Cuceu, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2026, ApJ, 1010, 14",
+     "bibcode": "2026ApJ..1010...14B",
+     "doi": "10.3847/1538-4357/ae9ec1",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 372,
+     "title": "A New Record Census of Dwarf AGN and a Bimodal M<sub>BH</sub> - M<sub>⋆</sub> Scaling Relation with DESI DR1",
+     "info": "R. Pucha, S. Juneau, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2026, ApJ, 1009, 150",
+     "bibcode": "2026ApJ..1009..150P",
+     "doi": "10.3847/1538-4357/ae9859",
+     "arxiv": "2606.02699",
+     "citations": 1
+    },
+    {
+     "number": 371,
+     "title": "Peering down the barrel with DESI DR2: 10 000+ inflows at z &lt; 0.6 reveal how galaxies accrete cold gas",
+     "info": "S. Weng, A. Saintonge, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2026, A&amp;A, 714, 133",
+     "bibcode": "2026A&A...714A.133W",
+     "doi": "10.1051/0004-6361/202660785",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 370,
+     "title": "CORRECTION - DESI Data Release 1: Stellar Catalogue",
+     "info": "S. Koposov, T. Li, (<strong>J. Moustakas</strong>, 51<sup>st</sup> coauthor) et al. 2026, OJAp, 9, 69445",
+     "bibcode": "2026OJAp....969445K",
+     "doi": "10.33232/001c.169445",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 369,
+     "title": "The Power of DESI for Photometric Redshift Calibration: A Case Study with KiDS-1000",
+     "info": "D. Blanco, A. Leauthaud, (<strong>J. Moustakas</strong>, 48<sup>th</sup> coauthor) et al. 2026, OJAp, 9, 63965",
+     "bibcode": "2026OJAp....963965B",
+     "doi": "10.33232/001c.163965",
+     "arxiv": "2512.15964",
+     "citations": 3
+    },
+    {
+     "number": 368,
+     "title": "PAC in DESI. II. Galaxy-halo connection into the 10<sup>6</sup>M<sub>⊙</sub> frontier",
+     "info": "K. Xu, C. Frenk, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2026, MNRAS, 551, 1487",
+     "bibcode": "2026MNRAS.551g1487X",
+     "doi": "10.1093/mnras/stag1487",
+     "arxiv": "2603.29331",
+     "citations": 1
+    },
+    {
+     "number": 367,
+     "title": "Stacked reverberation mapping of high-redshift quasars in DESI. I. Feasibility analysis",
+     "info": "R. Alfarsy, R. Canning, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2026, MNRAS, 551, 1418",
+     "bibcode": "2026MNRAS.551g1418A",
+     "doi": "10.1093/mnras/stag1418",
+     "arxiv": "2607.21869",
+     "citations": 0
+    },
+    {
+     "number": 366,
+     "title": "First planetesimals from DESI DR1: 12 highly metal-rich white dwarfs",
+     "info": "P. Izquierdo, A. Swan, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2026, MNRAS, 551, 1353",
+     "bibcode": "2026MNRAS.551g1353I",
+     "doi": "10.1093/mnras/stag1353",
+     "arxiv": "2607.14251",
+     "citations": 0
+    },
+    {
+     "number": 365,
+     "title": "Reconstructing Quasar Spectra and Measuring the Lyα Forest with SPENDERQ",
+     "info": "C. Hahn, S. Gontcho, (<strong>J. Moustakas</strong>, 25<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 042",
+     "bibcode": "2026JCAP...09..042H",
+     "doi": "10.1088/1475-7516/2026/09/042",
+     "arxiv": "2506.18986",
+     "citations": 6
+    },
+    {
+     "number": 364,
+     "title": "ODIN: Characterizing the Three-dimensional Structure of Two Protocluster Complexes at z = 3.1",
+     "info": "V. Ramakrishnan, A. Ortiz, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2026, ApJ, 1008, 220",
+     "bibcode": "2026ApJ..1008..220R",
+     "doi": "10.3847/1538-4357/ae8091",
+     "arxiv": "2511.11826",
+     "citations": 6
+    },
+    {
+     "number": 363,
+     "title": "ODIN: Spectroscopic Validation of Lyα-emitting Galaxy Samples with DESI",
+     "info": "E. Pinarski, G. Ramgopal, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, ApJ, 1008, 116",
+     "bibcode": "2026ApJ..1008..116P",
+     "doi": "10.3847/1538-4357/ae8f2e",
+     "arxiv": "2603.09905",
+     "citations": 5
+    },
+    {
+     "number": 362,
+     "title": "Strong Lens Discoveries in DESI Legacy Imaging Surveys DR10 with Two Deep Learning Architectures",
+     "info": "J. Inchausti, C. Storfer, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2026, ApJ, 1008, 102",
+     "bibcode": "2026ApJ..1008..102I",
+     "doi": "10.3847/1538-4357/ae884d",
+     "arxiv": "2508.20087",
+     "citations": 4
+    },
+    {
+     "number": 361,
+     "title": "ODIN: Confirmation and 3D Reconstruction of Six Massive Protoclusters at Cosmic Noon",
+     "info": "A. Ortiz, V. Ramakrishnan, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2026, ApJ, 1008, 85",
+     "bibcode": "2026ApJ..1008...85O",
+     "doi": "10.3847/1538-4357/ae899d",
+     "arxiv": "2603.09739",
+     "citations": 2
+    },
+    {
+     "number": 360,
+     "title": "Luminosity Function of Quasars at 1.0 &lt; z &lt; 3.5 from SDSS and DESI",
+     "info": "G. Yin, L. Jiang, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2026, ApJ, 1008, 60",
+     "bibcode": "2026ApJ..1008...60Y",
+     "doi": "10.3847/1538-4357/ae9302",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 359,
+     "title": "Beyond traditional emission-line diagnostics: Using autoencoders to uncover active galactic nuclei in DESI spectra",
+     "info": "J. Alcolea, M. Siudek, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2026, A&amp;A, 713, 133",
+     "bibcode": "2026A&A...713A.133A",
+     "doi": "10.1051/0004-6361/202660335",
+     "arxiv": "2607.07329",
+     "citations": 1
+    },
+    {
+     "number": 358,
+     "title": "Quiescent Host Galaxies of Extended Quasars Revealed by Spectrophotometric Decomposition",
+     "info": "S. Sun, L. Jiang, (<strong>J. Moustakas</strong>, 21<sup>st</sup> coauthor) et al. 2026, ApJ, 1004, 13",
+     "bibcode": "2026ApJ..1004...13S",
+     "doi": "10.3847/1538-4357/ae6e35",
+     "arxiv": "2607.28732",
+     "citations": 0
+    },
+    {
+     "number": 357,
+     "title": "The DESI DR1 peculiar velocity survey: Fundamental Plane catalogue",
+     "info": "C. Ross, C. Howlett, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2026, PASA, 43, 114",
+     "bibcode": "2026PASA...43..114R",
+     "doi": "10.1017/pasa.2026.10204",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 356,
+     "title": "The DESI DR1 Peculiar Velocity Survey: growth rate measurements from galaxy and momentum correlation functions",
+     "info": "R. Turner, C. Blake, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2026, OJAp, 9, 64736",
+     "bibcode": "2026OJAp....964736T",
+     "doi": "10.33232/001c.164736",
+     "arxiv": "2512.03230",
+     "citations": 7
+    },
+    {
+     "number": 355,
+     "title": "Early results in the search for extreme coronal line emitters with the Dark Energy Spectroscopic Instrument",
+     "info": "P. Clark, J. Callow, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2026, MNRAS, 549, 887",
+     "bibcode": "2026MNRAS.549ag887C",
+     "doi": "10.1093/mnras/stag887",
+     "arxiv": "2601.20964",
+     "citations": 1
+    },
+    {
+     "number": 354,
+     "title": "The DESI Transients Survey: Legacy Classifications and Methodology",
+     "info": "X. Hall, A. Palmese, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2026, ApJS, 285, 10",
+     "bibcode": "2026ApJS..285...10H",
+     "doi": "10.3847/1538-4365/ae6509",
+     "arxiv": "2601.12611",
+     "citations": 8
+    },
+    {
+     "number": 353,
+     "title": "The Velocity Field of Our Milky Way Outer Stellar Halo Based on DESI DR2",
+     "info": "S. Li, W. Wang, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2026, ApJ, 1005, 19",
+     "bibcode": "2026ApJ..1005...19L",
+     "doi": "10.3847/1538-4357/ae7346",
+     "arxiv": "2604.01628",
+     "citations": 5
+    },
+    {
+     "number": 352,
+     "title": "Deep Spectroscopy with DESI for Photometric Redshift Training and Calibration",
+     "info": "B. Dey, J. Newman, (<strong>J. Moustakas</strong>, 44<sup>th</sup> coauthor) et al. 2026, AJ, 172, 65",
+     "bibcode": "2026AJ....172...65D",
+     "doi": "10.3847/1538-3881/ae7441",
+     "arxiv": "2604.06143",
+     "citations": 1
+    },
+    {
+     "number": 351,
+     "title": "Highly Efficient Selection of High-redshift Emission-line Galaxies for Future DESI-like Surveys with Deep Multiband Imaging",
+     "info": "Y. Salcedo Hernandez, J. Newman, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2026, AJ, 172, 11",
+     "bibcode": "2026AJ....172...11S",
+     "doi": "10.3847/1538-3881/ae6b7c",
+     "arxiv": "2602.20405",
+     "citations": 0
+    },
+    {
+     "number": 350,
+     "title": "DESI DR2 Galaxy luminosity functions",
+     "info": "S. Moore, S. Cole, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2026, MNRAS, 549, 866",
+     "bibcode": "2026MNRAS.549ag866M",
+     "doi": "10.1093/mnras/stag866",
+     "arxiv": "2511.01803",
+     "citations": 6
+    },
+    {
+     "number": 349,
+     "title": "Cosmological constraints from a joint DESI DR1 Full-Shape and DR2 BAO",
+     "info": "D. Forero-Sánchez, H. Gil-Marín, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 043",
+     "bibcode": "2026JCAP...06..043F",
+     "doi": "10.1088/1475-7516/2026/06/043",
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 348,
+     "title": "Cosmological analysis of the DESI DR1 Lyα 1D power spectrum",
+     "info": "J. Chaves-Montero, A. Font-Ribera, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 040",
+     "bibcode": "2026JCAP...06..040C",
+     "doi": "10.1088/1475-7516/2026/06/040",
+     "arxiv": "2601.21432",
+     "citations": 10
+    },
+    {
+     "number": 347,
+     "title": "Fiducial-cosmology-dependent systematics for the DESI 2024 full-shape analysis",
+     "info": "R. Gsponer, S. Ramirez-Solano, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 010",
+     "bibcode": "2026JCAP...06..010G",
+     "doi": "10.1088/1475-7516/2026/06/010",
+     "arxiv": "2509.08057",
+     "citations": 1
+    },
+    {
+     "number": 346,
+     "title": "The DESI DR1 Peculiar Velocity Survey: Global Zero-point and H<sub>0</sub> Constraints",
+     "info": "A. Carr, C. Howlett, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2026, ApJ, 1004, 235",
+     "bibcode": "2026ApJ..1004..235C",
+     "doi": "10.3847/1538-4357/ae6866",
+     "arxiv": "2512.03232",
+     "citations": 5
+    },
+    {
+     "number": 345,
+     "title": "A Natural ≳100× Telescope: Discovery of the Strongly Lensed Type II SN 2025mkn at z = 1.37",
+     "info": "C. Lemon, A. Goobar, (<strong>J. Moustakas</strong>, 75<sup>th</sup> coauthor) et al. 2026, ApJL, 1003, 47",
+     "bibcode": "2026ApJ..1003L..47L",
+     "doi": "10.3847/2041-8213/ae6780",
+     "arxiv": "2604.07983",
+     "citations": 4
+    },
+    {
+     "number": 344,
+     "title": "The Backup Program of the Dark Energy Spectroscopic Instrument's Milky Way Survey",
+     "info": "A. Dey, S. Koposov, (<strong>J. Moustakas</strong>, 55<sup>th</sup> coauthor) et al. 2026, AJ, 171, 348",
+     "bibcode": "2026AJ....171..348D",
+     "doi": "10.3847/1538-3881/ae5dd0",
+     "arxiv": "2505.17230",
+     "citations": 11
+    },
+    {
+     "number": 343,
+     "title": "The Eddington Ratio Distribution of Narrow-line Active Galactic Nuclei",
+     "info": "M. Blanton, A. Suresh, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2026, AJ, 171, 335",
+     "bibcode": "2026AJ....171..335B",
+     "doi": "10.3847/1538-3881/ae5a1e",
+     "arxiv": "2511.14575",
+     "citations": 3
+    },
+    {
+     "number": 342,
+     "title": "Joint cosmological fits to DESI-DR1 full-shape clustering and weak gravitational lensing in configuration space",
+     "info": "A. Semenaite, C. Blake, (<strong>J. Moustakas</strong>, 49<sup>th</sup> coauthor) et al. 2026, OJAp, 9, 62334",
+     "bibcode": "2026OJAp....962334S",
+     "doi": "10.33232/001c.162334",
+     "arxiv": "2512.15961",
+     "citations": 5
+    },
+    {
+     "number": 341,
+     "title": "DESI DR2 reference mocks: clustering results from UCHUU-BGS and LRG",
+     "info": "E. Fernández-García, F. Prada, (<strong>J. Moustakas</strong>, 54<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 002",
+     "bibcode": "2026JCAP...05..002F",
+     "doi": "10.1088/1475-7516/2026/05/002",
+     "arxiv": "2507.01593",
+     "citations": 3
+    },
+    {
+     "number": 340,
+     "title": "Extensive analysis of reconstruction algorithms for DESI 2024 baryon acoustic oscillations",
+     "info": "X. Chen, Z. Ding, (<strong>J. Moustakas</strong>, 46<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 001",
+     "bibcode": "2026JCAP...05..001C",
+     "doi": "10.1088/1475-7516/2026/05/001",
+     "arxiv": "2411.19738",
+     "citations": 24
+    },
+    {
+     "number": 339,
+     "title": "Signatures of a Tidally Induced Spiral Arm at the Anticenter of the Milky Way and a Kinematically Extended Anticenter Stream Using DESI Data Release 2",
+     "info": "M. Lambert, C. Rockosi, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2026, AJ, 171, 292",
+     "bibcode": "2026AJ....171..292L",
+     "doi": "10.3847/1538-3881/ae5100",
+     "arxiv": "2601.14562",
+     "citations": 2
+    },
+    {
+     "number": 338,
+     "title": "Data Release 1 of the Dark Energy Spectroscopic Instrument",
+     "info": "DESI Collaboration, M. Abdul Karim, (<strong>J. Moustakas</strong>, 187<sup>th</sup> coauthor) et al. 2026, AJ, 171, 285",
+     "bibcode": "2026AJ....171..285D",
+     "doi": "10.3847/1538-3881/ae4c43",
+     "arxiv": "2503.14745",
+     "citations": 556
+    },
+    {
+     "number": 337,
+     "title": "Identifying Anomalous DESI Galaxy Spectra with a Variational Autoencoder",
+     "info": "C. Nicolaou, R. Nathan, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2026, MNRAS, 547, 010",
+     "bibcode": "2026MNRAS.547ag010N",
+     "doi": "10.1093/mnras/stag010",
+     "arxiv": "2506.17376",
+     "citations": 3
+    },
+    {
+     "number": 336,
+     "title": "Inference of the linear matter power spectrum at z = 0 using DESI DR1 Full-Shape data",
+     "info": "R. Cereskaite, E. Mueller, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2026, JCAP, 2026, 080",
+     "bibcode": "2026JCAP...04..080C",
+     "doi": "10.1088/1475-7516/2026/04/080",
+     "arxiv": "2507.16590",
+     "citations": 4
+    },
+    {
+     "number": 335,
+     "title": "Combined tracer analysis for DESI 2024 BAO",
+     "info": "D. Valcin, M. Rashkovetskyi, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 058",
+     "bibcode": "2026JCAP...04..058V",
+     "doi": "10.1088/1475-7516/2026/04/058",
+     "arxiv": "2508.05467",
+     "citations": 3
+    },
+    {
+     "number": 334,
+     "title": "The DESI DR1 peculiar velocity survey: growth rate measurements from the maximum likelihood fields method",
+     "info": "Y. Lai, C. Howlett, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2026, JCAP, 2026, 026",
+     "bibcode": "2026JCAP...04..026L",
+     "doi": "10.1088/1475-7516/2026/04/026",
+     "arxiv": "2512.03229",
+     "citations": 7
+    },
+    {
+     "number": 333,
+     "title": "H <sub>0</sub> without the sound horizon (or supernovae): A 2% measurement in DESI DR1",
+     "info": "E. Zaborowski, P. Taylor, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2026, JCAP, 2026, 004",
+     "bibcode": "2026JCAP...04..004Z",
+     "doi": "10.1088/1475-7516/2026/04/004",
+     "arxiv": "2510.19149",
+     "citations": 8
+    },
+    {
+     "number": 332,
+     "title": "AT2025ulz and S250818k: Leveraging DESI Spectroscopy in the Hunt for a Kilonova Associated with a Subsolar-mass Gravitational-wave Candidate",
+     "info": "X. Hall, A. Palmese, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2026, ApJL, 1001, 20",
+     "bibcode": "2026ApJ..1001L..20H",
+     "doi": "10.3847/2041-8213/ae4338",
+     "arxiv": "2510.23723",
+     "citations": 11
+    },
+    {
+     "number": 331,
+     "title": "DESI Strong Lens Foundry. III. Keck Spectroscopy for Strong Lenses Discovered Using Residual Neural Networks",
+     "info": "S. Agarwal, X. Huang, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2026, ApJ, 1001, 162",
+     "bibcode": "2026ApJ..1001..162A",
+     "doi": "10.3847/1538-4357/ae4a9a",
+     "arxiv": "2509.18086",
+     "citations": 5
+    },
+    {
+     "number": 330,
+     "title": "Probing the Environment around GW170817 with DESI: Insights on Galaxy Group Peculiar Velocities for Standard Siren Measurements",
+     "info": "A. Amsellem, A. Palmese, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2026, ApJ, 1001, 157",
+     "bibcode": "2026ApJ..1001..157A",
+     "doi": "10.3847/1538-4357/ae4b37",
+     "arxiv": "2512.08818",
+     "citations": 3
+    },
+    {
+     "number": 329,
+     "title": "DESI EDR: Calibrating the Tully—Fisher Relationship with the DESI Peculiar Velocity Survey",
+     "info": "K. Douglass, S. BenZvi, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2026, ApJ, 1001, 20",
+     "bibcode": "2026ApJ..1001...20D",
+     "doi": "10.3847/1538-4357/ae517b",
+     "arxiv": "2507.11765",
+     "citations": 6
+    },
+    {
+     "number": 328,
+     "title": "The DESI DR1 peculiar velocity survey: Growth rate measurements from the galaxy power spectrum",
+     "info": "F. Qin, C. Blake, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2026, A&amp;A, 708, 219",
+     "bibcode": "2026A&A...708A.219Q",
+     "doi": "10.1051/0004-6361/202558368",
+     "arxiv": "2512.03231",
+     "citations": 15
+    },
+    {
+     "number": 327,
+     "title": "Clustering analysis of medium-band selected high-redshift galaxies",
+     "info": "H. Ebina, M. White, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2026, JCAP, 2026, 019",
+     "bibcode": "2026JCAP...03..019E",
+     "doi": "10.1088/1475-7516/2026/03/019",
+     "arxiv": "2509.26467",
+     "citations": 3
+    },
+    {
+     "number": 326,
+     "title": "Bayesian Component Separation for DESI LAE Automated Spectroscopic Redshifts and Photometric Targeting",
+     "info": "A. Uzsoy, A. Saydjari, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2026, ApJ, 999, 241",
+     "bibcode": "2026ApJ...999..241U",
+     "doi": "10.3847/1538-4357/ae3f9a",
+     "arxiv": "2504.06870",
+     "citations": 4
+    },
+    {
+     "number": 325,
+     "title": "The DESI Single Fiber Lens Search. I. Four Thousand Spectroscopically Selected Galaxy—Galaxy Gravitational Lens Candidates",
+     "info": "J. Karp, D. Schlegel, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2026, ApJ, 999, 198",
+     "bibcode": "2026ApJ...999..198K",
+     "doi": "10.3847/1538-4357/ae3f06",
+     "arxiv": "2512.04275",
+     "citations": 1
+    },
+    {
+     "number": 324,
+     "title": "Erratum: DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 117<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 02",
+     "bibcode": "2026JCAP...02E..02A",
+     "doi": "10.1088/1475-7516/2026/02/E02",
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 323,
+     "title": "A New Way to Discover Strong Gravitational Lenses: Pairwise Spectroscopic Search from DESI DR1",
+     "info": "Y. Hsu, X. Huang, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2026, ApJS, 282, 41",
+     "bibcode": "2026ApJS..282...41H",
+     "doi": "10.3847/1538-4365/ae27ce",
+     "arxiv": "2509.16033",
+     "citations": 2
+    },
+    {
+     "number": 322,
+     "title": "A Unified Photometric Redshift Calibration for Weak Lensing Surveys Using the Dark Energy Spectroscopic Instrument",
+     "info": "J. Lange, D. Blanco, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2026, ApJ, 998, 263",
+     "bibcode": "2026ApJ...998..263L",
+     "doi": "10.3847/1538-4357/ae3165",
+     "arxiv": "2510.25419",
+     "citations": 7
+    },
+    {
+     "number": 321,
+     "title": "DESI Strong Lens Foundry. I. HST Observations and Modeling with GIGA-Lens",
+     "info": "X. Huang, S. Baltasar, (<strong>J. Moustakas</strong>, 44<sup>th</sup> coauthor) et al. 2026, ApJ, 998, 69",
+     "bibcode": "2026ApJ...998...69H",
+     "doi": "10.3847/1538-4357/ae22d2",
+     "arxiv": "2502.03455",
+     "citations": 20
+    },
+    {
+     "number": 320,
+     "title": "The Compilation and Validation of the Spectroscopic Redshift Catalogs for the DESI-COSMOS and DESI-XMM-LSS Fields",
+     "info": "J. Ratajczak, K. Dawson, (<strong>J. Moustakas</strong>, 54<sup>th</sup> coauthor) et al. 2026, AJ, 171, 71",
+     "bibcode": "2026AJ....171...71R",
+     "doi": "10.3847/1538-3881/ae1fde",
+     "arxiv": "2508.09286",
+     "citations": 13
+    },
+    {
+     "number": 319,
+     "title": "Validation of the DESI DR2 Lyα BAO analysis using synthetic datasets",
+     "info": "L. Casas, H. Herrera-Alcantar, (<strong>J. Moustakas</strong>, 67<sup>th</sup> coauthor) et al. 2026, PRD, 113, 023520",
+     "bibcode": "2026PhRvD.113b3520C",
+     "doi": "10.1103/fvgh-kswf",
+     "arxiv": "2503.14741",
+     "citations": 25
+    },
+    {
+     "number": 318,
+     "title": "DESI Data Release 1: Stellar Catalogue",
+     "info": "S. Koposov, T. Li, (<strong>J. Moustakas</strong>, 51<sup>st</sup> coauthor) et al. 2026, OJAp, 9, 55260",
+     "bibcode": "2026OJAp....955260K",
+     "doi": "10.33232/001c.155260",
+     "arxiv": "2505.14787",
+     "citations": 37
+    },
+    {
+     "number": 317,
+     "title": "Modelling the impact of quasar redshift errors on the full-shape analysis of correlations in the Lyα forest",
+     "info": "C. Gordon, A. Cuceu, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2026, MNRAS, 545, 2035",
+     "bibcode": "2026MNRAS.545f2035G",
+     "doi": "10.1093/mnras/staf2035",
+     "arxiv": "2505.08789",
+     "citations": 5
+    },
+    {
+     "number": 316,
+     "title": "Cosmological neutrino mass: a frequentist overview in light of DESI",
+     "info": "D. Chebat, C. Yèche, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2026, JCAP, 2026, 041",
+     "bibcode": "2026JCAP...01..041C",
+     "doi": "10.1088/1475-7516/2026/01/041",
+     "arxiv": "2507.12401",
+     "citations": 13
+    },
+    {
+     "number": 315,
+     "title": "Clustering redshift distribution calibration of weak lensing surveys using the DESI-DR1 spectroscopic dataset",
+     "info": "R. Ruggeri, C. Blake, (<strong>J. Moustakas</strong>, 44<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2512.15963)",
+     "bibcode": "2025arXiv251215963R",
+     "doi": "10.48550/arXiv.2512.15963",
+     "arxiv": "2512.15963",
+     "citations": 6
+    },
+    {
+     "number": 314,
+     "title": "Cosmological Constraints from Full-Scale Clustering and Galaxy-Galaxy Lensing with DESI DR1",
+     "info": "J. Lange, A. Wells, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2512.15962)",
+     "bibcode": "2025arXiv251215962L",
+     "doi": "10.48550/arXiv.2512.15962",
+     "arxiv": "2512.15962",
+     "citations": 5
+    },
+    {
+     "number": 313,
+     "title": "The DESI DR1 Peculiar Velocity Survey: Mock Catalog",
+     "info": "J. Bautista, A. Amsellem, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2512.03228)",
+     "bibcode": "2025arXiv251203228B",
+     "doi": "10.48550/arXiv.2512.03228",
+     "arxiv": "2512.03228",
+     "citations": 6
+    },
+    {
+     "number": 312,
+     "title": "The DESI DR1 Peculiar Velocity Survey: The Tully-Fisher Distance Catalog",
+     "info": "K. Douglass, S. BenZvi, (<strong>J. Moustakas</strong>, 44<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2512.03227)",
+     "bibcode": "2025arXiv251203227D",
+     "doi": "10.48550/arXiv.2512.03227",
+     "arxiv": "2512.03227",
+     "citations": 9
+    },
+    {
+     "number": 311,
+     "title": "The DESI DR1 Peculiar Velocity Survey: Fundamental Plane Catalogue",
+     "info": "C. Ross, C. Howlett, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2025, in press (arXiv:2512.03226)",
+     "bibcode": "2025arXiv251203226R",
+     "doi": "10.48550/arXiv.2512.03226",
+     "arxiv": "2512.03226",
+     "citations": 7
+    },
+    {
+     "number": 310,
+     "title": "The Composite Spectrum of QSO Absorption Line Systems in DESI DR2",
+     "info": "L. Napolitano, A. Myers, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2025, in press (arXiv:2512.02992)",
+     "bibcode": "2025arXiv251202992N",
+     "doi": "10.48550/arXiv.2512.02992",
+     "arxiv": "2512.02992",
+     "citations": 1
+    },
+    {
+     "number": 309,
+     "title": "A measurement of H<sub>0</sub> from DESI DR1 using energy densities",
+     "info": "A. Krolewski, A. Crespi, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2025, in press (arXiv:2511.23432)",
+     "bibcode": "2025arXiv251123432K",
+     "doi": "10.48550/arXiv.2511.23432",
+     "arxiv": "2511.23432",
+     "citations": 8
+    },
+    {
+     "number": 308,
+     "title": "Effect of local environment on Lyα line profile in DESI/ODIN LAEs",
+     "info": "A. Uzsoy, A. Dey, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2511.17498)",
+     "bibcode": "2025arXiv251117498U",
+     "doi": "10.48550/arXiv.2511.17498",
+     "arxiv": "2511.17498",
+     "citations": 3
+    },
+    {
+     "number": 307,
+     "title": "The Multi-Phase Circumgalactic Medium of DESI Emission-Line Galaxies at z∼1.5",
+     "info": "T. Lan, J. Prochaska, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2511.03195)",
+     "bibcode": "2025arXiv251103195L",
+     "doi": "10.48550/arXiv.2511.03195",
+     "arxiv": "2511.03195",
+     "citations": 5
+    },
+    {
+     "number": 306,
+     "title": "Direct Measurement of Galaxy Assembly Bias using DESI DR1 Data",
+     "info": "Z. Shao, Y. Zu, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2025, in press (arXiv:2510.20896)",
+     "bibcode": "2025arXiv251020896S",
+     "doi": "10.48550/arXiv.2510.20896",
+     "arxiv": "2510.20896",
+     "citations": 3
+    },
+    {
+     "number": 305,
+     "title": "Dwarf galaxy halo masses from spectroscopic and photometric lensing in DESI and DES",
+     "info": "H. Treiber, A. Amon, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2509.20434)",
+     "bibcode": "2025arXiv250920434T",
+     "doi": "10.48550/arXiv.2509.20434",
+     "arxiv": "2509.20434",
+     "citations": 2
+    },
+    {
+     "number": 304,
+     "title": "DESI Strong Lens Foundry II: DESI Spectroscopy for Strong Lens Candidates",
+     "info": "X. Huang, J. Inchausti, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2509.18089)",
+     "bibcode": "2025arXiv250918089H",
+     "doi": "10.48550/arXiv.2509.18089",
+     "arxiv": "2509.18089",
+     "citations": 7
+    },
+    {
+     "number": 303,
+     "title": "DESI DR1 Lyα forest: 3D full-shape analysis and cosmological constraints",
+     "info": "A. Cuceu, H. Herrera-Alcantar, (<strong>J. Moustakas</strong>, 54<sup>th</sup> coauthor) et al. 2025, in press (arXiv:2509.15308)",
+     "bibcode": "2025arXiv250915308C",
+     "doi": "10.48550/arXiv.2509.15308",
+     "arxiv": "2509.15308",
+     "citations": 20
+    },
+    {
+     "number": 302,
+     "title": "Intrinsic alignment demographics for next-generation lensing: Revealing galaxy property trends with DESI Y1 direct measurements",
+     "info": "J. Siegel, J. McCullough, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2025, in press (arXiv:2507.11530)",
+     "bibcode": "2025arXiv250711530S",
+     "doi": "10.48550/arXiv.2507.11530",
+     "arxiv": "2507.11530",
+     "citations": 0
+    },
+    {
+     "number": 301,
+     "title": "The Spectroscopic Stage-5 Experiment",
+     "info": "R. Besuner, A. Dey, (<strong>J. Moustakas</strong>, 81<sup>st</sup> coauthor) et al. 2025, in press (arXiv:2503.07923)",
+     "bibcode": "2025arXiv250307923B",
+     "doi": "10.48550/arXiv.2503.07923",
+     "arxiv": "2503.07923",
+     "citations": 63
+    },
+    {
+     "number": 300,
+     "title": "Author Correction: Dynamical dark energy in light of the DESI DR2 baryonic acoustic oscillations measurements",
+     "info": "G. Gu, X. Wang, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2025, Nature Astronomy, 9, 1898–1898",
+     "bibcode": "2025NatAs...9.1898G",
+     "doi": "10.1038/s41550-025-02698-1",
+     "arxiv": null,
+     "citations": 9
+    },
+    {
+     "number": 299,
+     "title": "Dynamical dark energy in light of the DESI DR2 baryonic acoustic oscillations measurements",
+     "info": "G. Gu, X. Wang, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2025, Nature Astronomy, 9, 1879–1889",
+     "bibcode": "2025NatAs...9.1879G",
+     "doi": "10.1038/s41550-025-02669-6",
+     "arxiv": "2504.06118",
+     "citations": 134
+    },
+    {
+     "number": 298,
+     "title": "Spectroscopic Characterization of redMaPPer Galaxy Clusters with DESI",
+     "info": "J. Myles, D. Gruen, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2025, MNRAS, 544, 2080–2097",
+     "bibcode": "2025MNRAS.544.2080M",
+     "doi": "10.1093/mnras/staf1831",
+     "arxiv": "2506.06249",
+     "citations": 6
+    },
+    {
+     "number": 297,
+     "title": "DESI Spectroscopy of HETDEX Emission-line Candidates. I. Line Discrimination Validation",
+     "info": "M. Landriau, E. Mentuch Cooper, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, ApJ, 995, 220",
+     "bibcode": "2025ApJ...995..220L",
+     "doi": "10.3847/1538-4357/ae1ae6",
+     "arxiv": "2503.02229",
+     "citations": 7
+    },
+    {
+     "number": 296,
+     "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. IV. Broad Emission-line Evolution Sequence among Hα, Mg II, and Hβ",
+     "info": "W. Guo, V. Fawcett, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2025, ApJ, 995, 139",
+     "bibcode": "2025ApJ...995..139G",
+     "doi": "10.3847/1538-4357/ae1d7b",
+     "arxiv": "2511.15275",
+     "citations": 6
+    },
+    {
+     "number": 295,
+     "title": "ODIN: Probing the LAE Lyα Luminosity Function across Cosmic Time and Different Environments",
+     "info": "G. Nagaraj, R. Ciardullo, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2025, ApJ, 995, 126",
+     "bibcode": "2025ApJ...995..126N",
+     "doi": "10.3847/1538-4357/ae1969",
+     "arxiv": "2506.14510",
+     "citations": 6
+    },
+    {
+     "number": 294,
+     "title": "Backlighting extended gas halos around luminous red galaxies: Kinematic Sunyaev-Zel'dovich effect from DESI Y1 and ACT data",
+     "info": "B. Ried Guachalla, E. Schaan, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2025, PRD, 112, 103512",
+     "bibcode": "2025PhRvD.112j3512R",
+     "doi": "10.1103/lqbj-wcqj",
+     "arxiv": "2503.19870",
+     "citations": 49
+    },
+    {
+     "number": 293,
+     "title": "Updated cosmological constraints on axion dark energy with DESI",
+     "info": "L. Ureña-López, F. Lozano-Rodríguez, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2025, PRD, 112, 103505",
+     "bibcode": "2025PhRvD.112j3505U",
+     "doi": "10.1103/6pqs-xjln",
+     "arxiv": "2503.20178",
+     "citations": 29
+    },
+    {
+     "number": 292,
+     "title": "Enhancing DESI DR1 full-shape analyses using HOD-informed priors",
+     "info": "H. Zhang, M. Bonici, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 049",
+     "bibcode": "2025JCAP...11..049Z",
+     "doi": "10.1088/1475-7516/2025/11/049",
+     "arxiv": "2504.10407",
+     "citations": 19
+    },
+    {
+     "number": 291,
+     "title": "The Draco Dwarf Spheroidal Galaxy in the First Year of Dark Energy Spectroscopic Instrument Data",
+     "info": "J. Ding, C. Rockosi, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2025, ApJ, 994, 134",
+     "bibcode": "2025ApJ...994..134D",
+     "doi": "10.3847/1538-4357/ae0a37",
+     "arxiv": "2509.21822",
+     "citations": 6
+    },
+    {
+     "number": 290,
+     "title": "A Comprehensive Characterization of Galaxy-cool CGM Connections at z &lt; 0.4 with DESI Year 1 Data",
+     "info": "Y. Ng, T. Lan, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2025, ApJ, 993, 92",
+     "bibcode": "2025ApJ...993...92N",
+     "doi": "10.3847/1538-4357/ae0613",
+     "arxiv": "2503.11139",
+     "citations": 7
+    },
+    {
+     "number": 289,
+     "title": "Cosmological implications of DESI DR2 BAO measurements in light of the latest ACT DR6 CMB data",
+     "info": "C. Garcia-Quintero, H. Noriega, (<strong>J. Moustakas</strong>, 65<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083529",
+     "bibcode": "2025PhRvD.112h3529G",
+     "doi": "10.1103/d6yc-xpqb",
+     "arxiv": "2504.18464",
+     "citations": 54
+    },
+    {
+     "number": 288,
+     "title": "DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints",
+     "info": "M. Abdul Karim, J. Aguilar, (<strong>J. Moustakas</strong>, 115<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083515",
+     "bibcode": "2025PhRvD.112h3515A",
+     "doi": "10.1103/tr6y-kpc6",
+     "arxiv": "2503.14738",
+     "citations": 1417
+    },
+    {
+     "number": 287,
+     "title": "DESI DR2 results. I. Baryon acoustic oscillations from the Lyman alpha forest",
+     "info": "M. Abdul Karim, J. Aguilar, (<strong>J. Moustakas</strong>, 102<sup>nd</sup> coauthor) et al. 2025, PRD, 112, 083514",
+     "bibcode": "2025PhRvD.112h3514A",
+     "doi": "10.1103/2wwn-xjm5",
+     "arxiv": "2503.14739",
+     "citations": 266
+    },
+    {
+     "number": 286,
+     "title": "Constraints on neutrino physics from DESI DR2 BAO and DR1 full shape",
+     "info": "W. Elbers, A. Aviles, (<strong>J. Moustakas</strong>, 80<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083513",
+     "bibcode": "2025PhRvD.112h3513E",
+     "doi": "10.1103/w9pk-xsk7",
+     "arxiv": "2503.14744",
+     "citations": 158
+    },
+    {
+     "number": 285,
+     "title": "Validation of the DESI DR2 measurements of baryon acoustic oscillations from galaxies and quasars",
+     "info": "U. Andrade, E. Paillas, (<strong>J. Moustakas</strong>, 85<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083512",
+     "bibcode": "2025PhRvD.112h3512A",
+     "doi": "10.1103/kdys-w8vl",
+     "arxiv": "2503.14742",
+     "citations": 64
+    },
+    {
+     "number": 284,
+     "title": "Extended dark energy analysis using DESI DR2 BAO measurements",
+     "info": "K. Lodha, R. Calderon, (<strong>J. Moustakas</strong>, 87<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083511",
+     "bibcode": "2025PhRvD.112h3511L",
+     "doi": "10.1103/w4c6-1r5j",
+     "arxiv": "2503.14743",
+     "citations": 418
+    },
+    {
+     "number": 283,
+     "title": "Construction of the damped Lyα absorber catalog for DESI DR2 Lyα BAO",
+     "info": "A. Brodzeller, M. Wolfson, (<strong>J. Moustakas</strong>, 70<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083510",
+     "bibcode": "2025PhRvD.112h3510B",
+     "doi": "10.1103/wxyv-46kb",
+     "arxiv": "2503.14740",
+     "citations": 24
+    },
+    {
+     "number": 282,
+     "title": "Evidence for large baryonic feedback at low and intermediate redshifts from kinematic Sunyaev-Zel'dovich observations with ACT and DESI photometric galaxies",
+     "info": "B. Hadzhiyska, S. Ferraro, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2025, PRD, 112, 083509",
+     "bibcode": "2025PhRvD.112h3509H",
+     "doi": "10.1103/kclp-x5j1",
+     "arxiv": "2407.07152",
+     "citations": 125
+    },
+    {
+     "number": 281,
+     "title": "Using active learning to improve quasar identification for the DESI spectra processing pipeline",
+     "info": "D. Green, D. Kirkby, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 087",
+     "bibcode": "2025JCAP...10..087G",
+     "doi": "10.1088/1475-7516/2025/10/087",
+     "arxiv": "2505.01596",
+     "citations": 11
+    },
+    {
+     "number": 280,
+     "title": "DESI Emission-line Galaxies: Clustering Dependence on Stellar Mass and [O II] Luminosity",
+     "info": "T. Hagen, K. Dawson, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2025, ApJ, 992, 121",
+     "bibcode": "2025ApJ...992..121H",
+     "doi": "10.3847/1538-4357/ae0036",
+     "arxiv": "2505.20430",
+     "citations": 2
+    },
+    {
+     "number": 279,
+     "title": "Model-independent measurement of the matter-radiation equality scale in DESI 2024",
+     "info": "B. Bahr-Kalus, D. Parkinson, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2025, PRD, 112, 063553",
+     "bibcode": "2025PhRvD.112f3553B",
+     "doi": "10.1103/yqm1-ybbv",
+     "arxiv": "2505.16153",
+     "citations": 16
+    },
+    {
+     "number": 278,
+     "title": "Early time solution as an alternative to the late time evolving dark energy with DESI DR2 BAO",
+     "info": "E. Chaussidon, M. White, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2025, PRD, 112, 063548",
+     "bibcode": "2025PhRvD.112f3548C",
+     "doi": "10.1103/xtql-wh3h",
+     "arxiv": "2503.24343",
+     "citations": 77
+    },
+    {
+     "number": 277,
+     "title": "STag. II. Classification of Serendipitous Supernovae Observed by Galaxy Redshift Surveys",
+     "info": "W. Davison, D. Parkinson, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2025, PASP, 137, 094001",
+     "bibcode": "2025PASP..137i4001D",
+     "doi": "10.1088/1538-3873/ae015d",
+     "arxiv": "2406.17204",
+     "citations": 2
+    },
+    {
+     "number": 276,
+     "title": "Exploring the interaction between the MW and LMC with a large sample of blue horizontal branch stars from the DESI survey",
+     "info": "A. Byström, S. Koposov, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, MNRAS, 542, 560–582",
+     "bibcode": "2025MNRAS.542..560B",
+     "doi": "10.1093/mnras/staf1219",
+     "arxiv": "2410.09149",
+     "citations": 38
+    },
+    {
+     "number": 275,
+     "title": "Modified gravity constraints from the full shape modeling of clustering measurements from DESI 2024",
+     "info": "M. Ishak, J. Pan, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 053",
+     "bibcode": "2025JCAP...09..053I",
+     "doi": "10.1088/1475-7516/2025/09/053",
+     "arxiv": "2411.12026",
+     "citations": 94
+    },
+    {
+     "number": 274,
+     "title": "DESI 2024 V: Full-Shape galaxy clustering from galaxies and quasars",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 117<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 008",
+     "bibcode": "2025JCAP...09..008A",
+     "doi": "10.1088/1475-7516/2025/09/008",
+     "arxiv": "2411.12021",
+     "citations": 184
+    },
+    {
+     "number": 273,
+     "title": "Exploring HOD-dependent systematics for the DESI 2024 Full-Shape galaxy clustering analysis",
+     "info": "N. Findlay, S. Nadathur, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2025, JCAP, 2025, 007",
+     "bibcode": "2025JCAP...09..007F",
+     "doi": "10.1088/1475-7516/2025/09/007",
+     "arxiv": "2411.12023",
+     "citations": 11
+    },
+    {
+     "number": 272,
+     "title": "Erratum: ``Tripling the Census of Dwarf AGN Candidates Using DESI Early Data'' (2025, ApJ, 982, 10)",
+     "info": "R. Pucha, S. Juneau, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2025, ApJ, 990, 231",
+     "bibcode": "2025ApJ...990..231P",
+     "doi": "10.3847/1538-4357/adfee0",
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 271,
+     "title": "The Cosmic Evolution of C IV Absorbers at 1.4 &lt; z &lt; 4.5: Insights from 100,000 Systems in DESI Quasars",
+     "info": "A. Anand, J. Aguilar, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2025, ApJ, 990, 151",
+     "bibcode": "2025ApJ...990..151A",
+     "doi": "10.3847/1538-4357/adef3c",
+     "arxiv": "2504.20299",
+     "citations": 7
+    },
+    {
+     "number": 270,
+     "title": "JWST Discovery of Warm Dust in the Circumgalactic Medium of the Makani Galaxy",
+     "info": "S. Veilleux, S. Shockley, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2025, ApJ, 990, 57",
+     "bibcode": "2025ApJ...990...57V",
+     "doi": "10.3847/1538-4357/adee91",
+     "arxiv": "2507.08098",
+     "citations": 8
+    },
+    {
+     "number": 269,
+     "title": "SpecDis: Value Added Distance Catalog for 4 Million Stars from DESI Year-1 Data",
+     "info": "S. Li, W. Wang, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2025, AJ, 170, 171",
+     "bibcode": "2025AJ....170..171L",
+     "doi": "10.3847/1538-3881/adf1a0",
+     "arxiv": "2503.02291",
+     "citations": 13
+    },
+    {
+     "number": 268,
+     "title": "Missing components in ΛCDM from DESI Y1 baryonic acoustic oscillation measurements: Insights from redshift remapping",
+     "info": "E. Fernández-García, R. Wojtak, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2025, A&amp;A, 701, 237",
+     "bibcode": "2025A&A...701A.237F",
+     "doi": "10.1051/0004-6361/202555033",
+     "arxiv": "2503.22469",
+     "citations": 1
+    },
+    {
+     "number": 267,
+     "title": "Positive Neutrino Masses with DESI DR2 via Matter Conversion to Dark Energy",
+     "info": "S. Ahlen, A. Aviles, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2025, PRL, 135, 081003",
+     "bibcode": "2025PhRvL.135h1003A",
+     "doi": "10.1103/yb2k-kn7h",
+     "arxiv": "2504.20338",
+     "citations": 28
+    },
+    {
+     "number": 266,
+     "title": "Beyond traditional diagnostics: Identifying active galactic nuclei using spectral energy distribution fitting in DESI data",
+     "info": "M. Siudek, M. Mezcua, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2025, A&amp;A, 700, 209",
+     "bibcode": "2025A&A...700A.209S",
+     "doi": "10.1051/0004-6361/202555463",
+     "arxiv": "2506.09143",
+     "citations": 8
+    },
+    {
+     "number": 265,
+     "title": "The imprint of cosmic voids from the DESI Legacy Survey DR9 Luminous Red Galaxies in the Planck 2018 lensing map through spectroscopically calibrated mocks",
+     "info": "S. Sartori, P. Vielzeuf, (<strong>J. Moustakas</strong>, 25<sup>th</sup> coauthor) et al. 2025, A&amp;A, 700, 17",
+     "bibcode": "2025A&A...700A..17S",
+     "doi": "10.1051/0004-6361/202453562",
+     "arxiv": "2412.02761",
+     "citations": 7
+    },
+    {
+     "number": 264,
+     "title": "Stellar reddening map from DESI imaging and spectroscopy",
+     "info": "R. Zhou, J. Guy, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2025, OJAp, 8, 83",
+     "bibcode": "2025OJAp....8E..83Z",
+     "doi": "10.33232/001c.141680",
+     "arxiv": "2409.05140",
+     "citations": 18
+    },
+    {
+     "number": 263,
+     "title": "DESI 2024 VII: cosmological constraints from the full-shape modeling of clustering measurements",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 126<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 028",
+     "bibcode": "2025JCAP...07..028A",
+     "doi": "10.1088/1475-7516/2025/07/028",
+     "arxiv": "2411.12022",
+     "citations": 341
+    },
+    {
+     "number": 262,
+     "title": "Mitigating imaging systematics for DESI 2024 emission Line Galaxies and beyond",
+     "info": "A. Rosado-Marín, A. Ross, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2025, JCAP, 2025, 018",
+     "bibcode": "2025JCAP...07..018R",
+     "doi": "10.1088/1475-7516/2025/07/018",
+     "arxiv": "2411.12024",
+     "citations": 16
+    },
+    {
+     "number": 261,
+     "title": "DESI 2024 II: sample definitions, characteristics, and two-point clustering statistics",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 120<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 017",
+     "bibcode": "2025JCAP...07..017A",
+     "doi": "10.1088/1475-7516/2025/07/017",
+     "arxiv": "2411.12020",
+     "citations": 132
+    },
+    {
+     "number": 260,
+     "title": "Iron-corrected Single-epoch Black Hole Masses of DESI Quasars at Low Redshift",
+     "info": "Z. Pan, L. Jiang, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2025, ApJ, 987, 48",
+     "bibcode": "2025ApJ...987...48P",
+     "doi": "10.3847/1538-4357/add7dd",
+     "arxiv": "2502.03684",
+     "citations": 16
+    },
+    {
+     "number": 259,
+     "title": "DESI Mg II Absorbers: Extinction Characteristics and Quasar Redshift Accuracy",
+     "info": "L. Napolitano, A. Myers, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2025, AJ, 170, 16",
+     "bibcode": "2025AJ....170...16N",
+     "doi": "10.3847/1538-3881/adc389",
+     "arxiv": "2412.15383",
+     "citations": 5
+    },
+    {
+     "number": 258,
+     "title": "The JWST EXCELS survey: probing strong-line diagnostics and the chemical evolution of galaxies over cosmic time using T<sub>e</sub>-metallicities",
+     "info": "D. Scholte, F. Cullen, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2025, MNRAS, 540, 1800–1826",
+     "bibcode": "2025MNRAS.540.1800S",
+     "doi": "10.1093/mnras/staf834",
+     "arxiv": "2502.10499",
+     "citations": 57
+    },
+    {
+     "number": 257,
+     "title": "PAC in DESI. I. Galaxy stellar mass function into the 10<sup>6</sup> M<sub>⊙</sub> frontier",
+     "info": "K. Xu, Y. Jing, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2025, MNRAS, 540, 1635–1667",
+     "bibcode": "2025MNRAS.540.1635X",
+     "doi": "10.1093/mnras/staf782",
+     "arxiv": "2503.01948",
+     "citations": 12
+    },
+    {
+     "number": 256,
+     "title": "AT 2018dyk: tidal disruption event or active galactic nucleus? Follow-up observations of an extreme coronal line emitter with the Dark Energy Spectroscopic Instrument",
+     "info": "P. Clark, J. Callow, (<strong>J. Moustakas</strong>, 25<sup>th</sup> coauthor) et al. 2025, MNRAS, 540, 871–906",
+     "bibcode": "2025MNRAS.540..871C",
+     "doi": "10.1093/mnras/staf724",
+     "arxiv": "2502.04080",
+     "citations": 13
+    },
+    {
+     "number": 255,
+     "title": "Nearby stellar substructures in the Galactic halo from DESI Milky Way Survey Year 1 Data Release",
+     "info": "B. Kim, S. Koposov, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2025, MNRAS, 540, 264–288",
+     "bibcode": "2025MNRAS.540..264K",
+     "doi": "10.1093/mnras/staf705",
+     "arxiv": "2504.20327",
+     "citations": 9
+    },
+    {
+     "number": 254,
+     "title": "DESI peculiar velocity survey — Fundamental Plane",
+     "info": "K. Said, C. Howlett, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2025, MNRAS, 539, 3627–3644",
+     "bibcode": "2025MNRAS.539.3627S",
+     "doi": "10.1093/mnras/staf700",
+     "arxiv": "2408.13842",
+     "citations": 67
+    },
+    {
+     "number": 253,
+     "title": "Constraining primordial non-Gaussianity with DESI 2024 LRG and QSO samples",
+     "info": "E. Chaussidon, C. Yèche, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 029",
+     "bibcode": "2025JCAP...06..029C",
+     "doi": "10.1088/1475-7516/2025/06/029",
+     "arxiv": "2411.17623",
+     "citations": 72
+    },
+    {
+     "number": 252,
+     "title": "A sound horizon-free measurement of H <sub>0</sub> in DESI 2024",
+     "info": "E. Zaborowski, P. Taylor, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2025, JCAP, 2025, 020",
+     "bibcode": "2025JCAP...06..020Z",
+     "doi": "10.1088/1475-7516/2025/06/020",
+     "arxiv": "2411.16677",
+     "citations": 21
+    },
+    {
+     "number": 251,
+     "title": "Cosmological constraints from the cross-correlation of DESI Luminous Red Galaxies with CMB lensing from Planck PR4 and ACT DR6",
+     "info": "N. Sailer, J. Kim, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2025, JCAP, 2025, 008",
+     "bibcode": "2025JCAP...06..008S",
+     "doi": "10.1088/1475-7516/2025/06/008",
+     "arxiv": "2407.04607",
+     "citations": 64
+    },
+    {
+     "number": 250,
+     "title": "Full-Shape analysis of the power spectrum and bispectrum of DESI DR1 LRG and QSO samples",
+     "info": "S. Novell-Masot, H. Gil-Marín, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 005",
+     "bibcode": "2025JCAP...06..005N",
+     "doi": "10.1088/1475-7516/2025/06/005",
+     "arxiv": "2503.09714",
+     "citations": 19
+    },
+    {
+     "number": 249,
+     "title": "Luminosity and Stellar Mass Functions of Faint Photometric Satellites around Spectroscopic Central Galaxies from DESI Year-1 Bright Galaxy Survey",
+     "info": "W. Wang, X. Yang, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2025, ApJ, 986, 218",
+     "bibcode": "2025ApJ...986..218W",
+     "doi": "10.3847/1538-4357/add5df",
+     "arxiv": "2503.03317",
+     "citations": 8
+    },
+    {
+     "number": 248,
+     "title": "Deep Ultraviolet, Emission-line Imaging of the Makani Galactic Wind",
+     "info": "T. Ha, D. Rupke, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2025, ApJ, 986, 87",
+     "bibcode": "2025ApJ...986...87H",
+     "doi": "10.3847/1538-4357/add0b5",
+     "arxiv": "2503.20042",
+     "citations": 9
+    },
+    {
+     "number": 247,
+     "title": "Constraints on primordial non-Gaussianity from the cross-correlation of DESI luminous red galaxies and Planck CMB lensing",
+     "info": "J. Bermejo-Climent, R. Demina, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2025, A&amp;A, 698, 177",
+     "bibcode": "2025A&A...698A.177B",
+     "doi": "10.1051/0004-6361/202453446",
+     "arxiv": "2412.10279",
+     "citations": 16
+    },
+    {
+     "number": 246,
+     "title": "The DESI One-Percent Survey: Modelling the clustering and halo occupation of all four DESI tracers with UCHUU",
+     "info": "F. Prada, J. Ereza, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2025, A&amp;A, 698, 170",
+     "bibcode": "2025A&A...698A.170P",
+     "doi": "10.1051/0004-6361/202451022",
+     "arxiv": "2306.06315",
+     "citations": 33
+    },
+    {
+     "number": 245,
+     "title": "Atacama Cosmology Telescope DR6 and DESI: Structure growth measurements from the cross-correlation of DESI legacy imaging galaxies and CMB lensing from ACT DR6 and Planck PR4",
+     "info": "F. Qu, Q. Hang, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2025, PRD, 111, 103503",
+     "bibcode": "2025PhRvD.111j3503Q",
+     "doi": "10.1103/PhysRevD.111.103503",
+     "arxiv": "2410.10808",
+     "citations": 26
+    },
+    {
+     "number": 244,
+     "title": "The rate of extreme coronal line emitters in the Baryon Oscillation Spectroscopic Survey LOWZ sample",
+     "info": "J. Callow, O. Graur, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2025, MNRAS, 539, 231–245",
+     "bibcode": "2025MNRAS.539..231C",
+     "doi": "10.1093/mnras/staf496",
+     "arxiv": "2501.14022",
+     "citations": 5
+    },
+    {
+     "number": 243,
+     "title": "Selection of high-redshift Lyman-Break Galaxies from broadband and wide photometric surveys",
+     "info": "C. Payerne, W. d'Assignies Doumerg, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2025, JCAP, 2025, 031",
+     "bibcode": "2025JCAP...05..031P",
+     "doi": "10.1088/1475-7516/2025/05/031",
+     "arxiv": "2410.08062",
+     "citations": 8
+    },
+    {
+     "number": 242,
+     "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. II. Statistical Properties from the First Data Release",
+     "info": "W. Guo, H. Zou, (<strong>J. Moustakas</strong>, 26<sup>th</sup> coauthor) et al. 2025, ApJS, 278, 28",
+     "bibcode": "2025ApJS..278...28G",
+     "doi": "10.3847/1538-4365/adc124",
+     "arxiv": "2408.00402",
+     "citations": 42
+    },
+    {
+     "number": 241,
+     "title": "Virgo Filaments. V. Disrupting the Baryon Cycle in the NGC 5364 Galaxy Group",
+     "info": "R. Finn, G. Rudnick, (<strong>J. Moustakas</strong>, 17<sup>th</sup> coauthor) et al. 2025, ApJ, 985, 81",
+     "bibcode": "2025ApJ...985...81F",
+     "doi": "10.3847/1538-4357/adc566",
+     "arxiv": "2505.09782",
+     "citations": 9
+    },
+    {
+     "number": 240,
+     "title": "Unraveling emission line galaxy conformity at z∼1 with DESI early data",
+     "info": "S. Yuan, R. Wechsler, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2025, MNRAS, 538, 1216–1240",
+     "bibcode": "2025MNRAS.538.1216Y",
+     "doi": "10.1093/mnras/staf368",
+     "arxiv": "2310.09329",
+     "citations": 36
+    },
+    {
+     "number": 239,
+     "title": "Characterization of DESI fiber assignment incompleteness effect on 2-point clustering and mitigation methods for DR1 analysis",
+     "info": "D. Bianchi, M. Hanif, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 074",
+     "bibcode": "2025JCAP...04..074B",
+     "doi": "10.1088/1475-7516/2025/04/074",
+     "arxiv": "2411.12025",
+     "citations": 29
+    },
+    {
+     "number": 238,
+     "title": "Analytical and EZmock covariance validation for the DESI 2024 results",
+     "info": "D. Forero-Sánchez, M. Rashkovetskyi, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 055",
+     "bibcode": "2025JCAP...04..055F",
+     "doi": "10.1088/1475-7516/2025/04/055",
+     "arxiv": "2411.12027",
+     "citations": 32
+    },
+    {
+     "number": 237,
+     "title": "DESI 2024 III: baryon acoustic oscillations from galaxies and quasars",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 116<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 012",
+     "bibcode": "2025JCAP...04..012A",
+     "doi": "10.1088/1475-7516/2025/04/012",
+     "arxiv": "2404.03000",
+     "citations": 549
+    },
+    {
+     "number": 236,
+     "title": "Tracing the Evolution of the Cool Gas in CGM and IGM Environments through Mg II Absorption from Redshift z = 0.75 to z = 1.65 Using DESI-Y1 Data",
+     "info": "X. Wu, Z. Cai, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2025, ApJ, 983, 186",
+     "bibcode": "2025ApJ...983..186W",
+     "doi": "10.3847/1538-4357/adb28a",
+     "arxiv": "2407.17809",
+     "citations": 15
+    },
+    {
+     "number": 235,
+     "title": "The DESI-Lensing Mock Challenge: large-scale cosmological analysis of 3x2-pt statistics",
+     "info": "C. Blake, C. Garcia-Quintero, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2025, OJAp, 8, 24",
+     "bibcode": "2025OJAp....8E..24B",
+     "doi": "10.33232/001c.131903",
+     "arxiv": "2412.12548",
+     "citations": 9
+    },
+    {
+     "number": 234,
+     "title": "DESIVAST: Catalogs of Low-redshift Voids Using Data from the DESI Data Release 1 Bright Galaxy Survey",
+     "info": "H. Rincon, S. Benzvi, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2025, ApJ, 982, 38",
+     "bibcode": "2025ApJ...982...38R",
+     "doi": "10.3847/1538-4357/adb559",
+     "arxiv": "2411.00148",
+     "citations": 10
+    },
+    {
+     "number": 233,
+     "title": "Tripling the Census of Dwarf AGN Candidates Using DESI Early Data",
+     "info": "R. Pucha, S. Juneau, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2025, ApJ, 982, 10",
+     "bibcode": "2025ApJ...982...10P",
+     "doi": "10.3847/1538-4357/adb1dd",
+     "arxiv": "2411.00091",
+     "citations": 51
+    },
+    {
+     "number": 232,
+     "title": "Measuring the Mean Free Path of H I Ionizing Photons at 3.2≤ z≤ 4.6 with DESI Y1 Quasars",
+     "info": "A. Gao, J. Prochaska, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2025, ApJL, 981, 27",
+     "bibcode": "2025ApJ...981L..27G",
+     "doi": "10.3847/2041-8213/adb48f",
+     "arxiv": "2411.15838",
+     "citations": 3
+    },
+    {
+     "number": 231,
+     "title": "The First Identification of Lyα Changing-look Quasars at High Redshift in DESI",
+     "info": "W. Guo, Z. Pan, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2025, ApJL, 981, 8",
+     "bibcode": "2025ApJ...981L...8G",
+     "doi": "10.3847/2041-8213/adb426",
+     "arxiv": "2411.01949",
+     "citations": 9
+    },
+    {
+     "number": 230,
+     "title": "Identifying Missing Quasars from the DESI Bright Galaxy Survey",
+     "info": "S. Juneau, R. Canning, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2025, AJ, 169, 157",
+     "bibcode": "2025AJ....169..157J",
+     "doi": "10.3847/1538-3881/adabc9",
+     "arxiv": "2404.03621",
+     "citations": 18
+    },
+    {
+     "number": 229,
+     "title": "Measuring σ <sub>8</sub> using DESI Legacy Imaging Surveys Emission-Line galaxies and Planck CMB lensing, and the impact of dust on parameter inference",
+     "info": "T. Karim, S. Singh, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 045",
+     "bibcode": "2025JCAP...02..045K",
+     "doi": "10.1088/1475-7516/2025/02/045",
+     "arxiv": "2408.15909",
+     "citations": 26
+    },
+    {
+     "number": 228,
+     "title": "DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 118<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 021",
+     "bibcode": "2025JCAP...02..021A",
+     "doi": "10.1088/1475-7516/2025/02/021",
+     "arxiv": "2404.03002",
+     "citations": 1798
+    },
+    {
+     "number": 227,
+     "title": "GD-1 Stellar Stream and Cocoon in the DESI Early Data Release",
+     "info": "M. Valluri, P. Fagrelius, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2025, ApJ, 980, 71",
+     "bibcode": "2025ApJ...980...71V",
+     "doi": "10.3847/1538-4357/ada690",
+     "arxiv": "2407.06336",
+     "citations": 28
+    },
+    {
+     "number": 226,
+     "title": "Candidate strongly lensed type Ia supernovae in the Zwicky Transient Facility archive",
+     "info": "A. Townsend, J. Nordin, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2025, A&amp;A, 694, 146",
+     "bibcode": "2025A&A...694A.146T",
+     "doi": "10.1051/0004-6361/202451082",
+     "arxiv": "2405.18589",
+     "citations": 6
+    },
+    {
+     "number": 225,
+     "title": "DESI 2024: Constraints on physics-focused aspects of dark energy using DESI DR1 BAO data",
+     "info": "K. Lodha, A. Shafieloo, (<strong>J. Moustakas</strong>, 32<sup>nd</sup> coauthor) et al. 2025, PRD, 111, 023532",
+     "bibcode": "2025PhRvD.111b3532L",
+     "doi": "10.1103/PhysRevD.111.023532",
+     "arxiv": "2405.13588",
+     "citations": 206
+    },
+    {
+     "number": 224,
+     "title": "Validation of the DESI 2024 Lyα forest BAO analysis using synthetic datasets",
+     "info": "A. Cuceu, H. Herrera-Alcantar, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 148",
+     "bibcode": "2025JCAP...01..148C",
+     "doi": "10.1088/1475-7516/2025/01/148",
+     "arxiv": "2404.03004",
+     "citations": 17
+    },
+    {
+     "number": 223,
+     "title": "Impact and mitigation of spectroscopic systematics on DESI DR1 clustering measurements",
+     "info": "A. Krolewski, J. Yu, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 147",
+     "bibcode": "2025JCAP...01..147K",
+     "doi": "10.1088/1475-7516/2025/01/147",
+     "arxiv": "2405.17208",
+     "citations": 27
+    },
+    {
+     "number": 222,
+     "title": "Forward modeling fluctuations in the DESI LRGs target sample using image simulations",
+     "info": "H. Kong, A. Ross, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 146",
+     "bibcode": "2025JCAP...01..146K",
+     "doi": "10.1088/1475-7516/2025/01/146",
+     "arxiv": "2405.16299",
+     "citations": 15
+    },
+    {
+     "number": 221,
+     "title": "Fiducial-cosmology-dependent systematics for the DESI 2024 BAO analysis",
+     "info": "A. Pérez-Fernández, L. Medina-Varela, (<strong>J. Moustakas</strong>, 43<sup>rd</sup> coauthor) et al. 2025, JCAP, 2025, 144",
+     "bibcode": "2025JCAP...01..144P",
+     "doi": "10.1088/1475-7516/2025/01/144",
+     "arxiv": "2406.06085",
+     "citations": 34
+    },
+    {
+     "number": 220,
+     "title": "Optimal reconstruction of baryon acoustic oscillations for DESI 2024",
+     "info": "E. Paillas, Z. Ding, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 142",
+     "bibcode": "2025JCAP...01..142P",
+     "doi": "10.1088/1475-7516/2025/01/142",
+     "arxiv": "2404.03005",
+     "citations": 40
+    },
+    {
+     "number": 219,
+     "title": "Synthetic spectra for Lyα forest analysis in the Dark Energy Spectroscopic Instrument",
+     "info": "H. Herrera-Alcantar, A. Muñoz-Gutiérrez, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 141",
+     "bibcode": "2025JCAP...01..141H",
+     "doi": "10.1088/1475-7516/2025/01/141",
+     "arxiv": "2401.00303",
+     "citations": 31
+    },
+    {
+     "number": 218,
+     "title": "Characterization of contaminants in the Lyman-alpha forest auto-correlation with DESI",
+     "info": "J. Guy, S. Gontcho, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 140",
+     "bibcode": "2025JCAP...01..140G",
+     "doi": "10.1088/1475-7516/2025/01/140",
+     "arxiv": "2404.03003",
+     "citations": 16
+    },
+    {
+     "number": 217,
+     "title": "Validation of the DESI 2024 Lyman alpha forest BAL masking strategy",
+     "info": "P. Martini, A. Cuceu, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 137",
+     "bibcode": "2025JCAP...01..137M",
+     "doi": "10.1088/1475-7516/2025/01/137",
+     "arxiv": "2405.09737",
+     "citations": 11
+    },
+    {
+     "number": 216,
+     "title": "HOD-dependent systematics for luminous red galaxies in the DESI 2024 BAO analysis",
+     "info": "J. Mena-Fernández, C. Garcia-Quintero, (<strong>J. Moustakas</strong>, 51<sup>st</sup> coauthor) et al. 2025, JCAP, 2025, 133",
+     "bibcode": "2025JCAP...01..133M",
+     "doi": "10.1088/1475-7516/2025/01/133",
+     "arxiv": "2404.03008",
+     "citations": 22
+    },
+    {
+     "number": 215,
+     "title": "HOD-dependent systematics in Emission Line Galaxies for the DESI 2024 BAO analysis",
+     "info": "C. Garcia-Quintero, J. Mena-Fernández, (<strong>J. Moustakas</strong>, 51<sup>st</sup> coauthor) et al. 2025, JCAP, 2025, 132",
+     "bibcode": "2025JCAP...01..132G",
+     "doi": "10.1088/1475-7516/2025/01/132",
+     "arxiv": "2404.03009",
+     "citations": 27
+    },
+    {
+     "number": 214,
+     "title": "Mitigation of DESI fiber assignment incompleteness effect on two-point clustering with small angular scale truncated estimators",
+     "info": "M. Pinon, A. de Mattia, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 131",
+     "bibcode": "2025JCAP...01..131P",
+     "doi": "10.1088/1475-7516/2025/01/131",
+     "arxiv": "2406.04804",
+     "citations": 36
+    },
+    {
+     "number": 213,
+     "title": "Impact of systematic redshift errors on the cross-correlation of the Lyα forest with quasars at small scales using DESI Early Data",
+     "info": "A. Bault, D. Kirkby, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 130",
+     "bibcode": "2025JCAP...01..130B",
+     "doi": "10.1088/1475-7516/2025/01/130",
+     "arxiv": "2402.18009",
+     "citations": 23
+    },
+    {
+     "number": 212,
+     "title": "Validating the galaxy and quasar catalog-level blinding scheme for the DESI 2024 analysis",
+     "info": "U. Andrade, J. Mena-Fernández, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 128",
+     "bibcode": "2025JCAP...01..128A",
+     "doi": "10.1088/1475-7516/2025/01/128",
+     "arxiv": "2404.07282",
+     "citations": 19
+    },
+    {
+     "number": 211,
+     "title": "Production of alternate realizations of DESI fiber assignment for unbiased clustering measurement in data and simulations",
+     "info": "J. Lasker, A. Carnero Rosell, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 127",
+     "bibcode": "2025JCAP...01..127L",
+     "doi": "10.1088/1475-7516/2025/01/127",
+     "arxiv": "2404.03006",
+     "citations": 36
+    },
+    {
+     "number": 210,
+     "title": "ELG spectroscopic systematics analysis of the DESI Data Release 1",
+     "info": "J. Yu, A. Ross, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 126",
+     "bibcode": "2025JCAP...01..126Y",
+     "doi": "10.1088/1475-7516/2025/01/126",
+     "arxiv": "2405.16657",
+     "citations": 21
+    },
+    {
+     "number": 209,
+     "title": "The construction of large-scale structure catalogs for the Dark Energy Spectroscopic Instrument",
+     "info": "A. Ross, J. Aguilar, (<strong>J. Moustakas</strong>, 53<sup>rd</sup> coauthor) et al. 2025, JCAP, 2025, 125",
+     "bibcode": "2025JCAP...01..125R",
+     "doi": "10.1088/1475-7516/2025/01/125",
+     "arxiv": "2405.16593",
+     "citations": 59
+    },
+    {
+     "number": 208,
+     "title": "DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman alpha forest",
+     "info": "A. Adame, J. Aguilar, (<strong>J. Moustakas</strong>, 118<sup>th</sup> coauthor) et al. 2025, JCAP, 2025, 124",
+     "bibcode": "2025JCAP...01..124A",
+     "doi": "10.1088/1475-7516/2025/01/124",
+     "arxiv": "2404.03001",
+     "citations": 384
+    },
+    {
+     "number": 207,
+     "title": "Virgo Filaments. IV. Using WISE to Measure the Modification of Star-forming Disks in the Extended Regions Around the Virgo Cluster",
+     "info": "K. Conger, G. Rudnick, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2025, ApJ, 978, 113",
+     "bibcode": "2025ApJ...978..113C",
+     "doi": "10.3847/1538-4357/ad93ac",
+     "arxiv": "2411.02352",
+     "citations": 6
+    },
+    {
+     "number": 206,
+     "title": "The Atacama Cosmology Telescope DR6 and DESI: structure formation over cosmic time with a measurement of the cross-correlation of CMB lensing and luminous red galaxies",
+     "info": "J. Kim, N. Sailer, (<strong>J. Moustakas</strong>, 44<sup>th</sup> coauthor) et al. 2024, JCAP, 2024, 022",
+     "bibcode": "2024JCAP...12..022K",
+     "doi": "10.1088/1475-7516/2024/12/022",
+     "arxiv": "2407.04606",
+     "citations": 47
+    },
+    {
+     "number": 205,
+     "title": "The MOST Hosts Survey: Spectroscopic Observation of the Host Galaxies of ∼40,000 Transients Using DESI",
+     "info": "M. Soumagnac, P. Nugent, (<strong>J. Moustakas</strong>, 41<sup>st</sup> coauthor) et al. 2024, ApJS, 275, 22",
+     "bibcode": "2024ApJS..275...22S",
+     "doi": "10.3847/1538-4365/ad76ae",
+     "arxiv": "2405.03857",
+     "citations": 22
+    },
+    {
+     "number": 204,
+     "title": "Correcting Turbulence-induced Errors in Fiber Positioning for the Dark Energy Spectroscopic Instrument",
+     "info": "E. Schlafly, J. Guy, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2024, AJ, 168, 263",
+     "bibcode": "2024AJ....168..263S",
+     "doi": "10.3847/1538-3881/ad7e12",
+     "arxiv": "2407.08026",
+     "citations": 0
+    },
+    {
+     "number": 203,
+     "title": "Overview of the Fiber System for the Dark Energy Spectroscopic Instrument",
+     "info": "C. Poppett, L. Tyas, (<strong>J. Moustakas</strong>, 48<sup>th</sup> coauthor) et al. 2024, AJ, 168, 245",
+     "bibcode": "2024AJ....168..245P",
+     "doi": "10.3847/1538-3881/ad76a4",
+     "arxiv": null,
+     "citations": 146
+    },
+    {
+     "number": 202,
+     "title": "The rate of extreme coronal line emitting galaxies in the Sloan Digital Sky Survey and their relation to tidal disruption events",
+     "info": "J. Callow, O. Graur, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2024, MNRAS, 535, 1095–1122",
+     "bibcode": "2024MNRAS.535.1095C",
+     "doi": "10.1093/mnras/stae2384",
+     "arxiv": "2402.16951",
+     "citations": 14
+    },
+    {
+     "number": 201,
+     "title": "The DESI Early Data Release white dwarf catalogue",
+     "info": "C. Manser, P. Izquierdo, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2024, MNRAS, 535, 254–289",
+     "bibcode": "2024MNRAS.535..254M",
+     "doi": "10.1093/mnras/stae2205",
+     "arxiv": "2402.18641",
+     "citations": 31
+    },
+    {
+     "number": 200,
+     "title": "Detection of the large-scale tidal field with galaxy multiplet alignment in the DESI Y1 spectroscopic survey",
+     "info": "C. Lamman, D. Eisenstein, (<strong>J. Moustakas</strong>, 26<sup>th</sup> coauthor) et al. 2024, MNRAS, 534, 3540–3551",
+     "bibcode": "2024MNRAS.534.3540L",
+     "doi": "10.1093/mnras/stae2290",
+     "arxiv": "2408.11056",
+     "citations": 17
+    },
+    {
+     "number": 199,
+     "title": "New Measurements of the Lyα Forest Continuum and Effective Optical Depth with LyCAN and DESI Y1 Data",
+     "info": "W. Turner, P. Martini, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2024, ApJ, 976, 143",
+     "bibcode": "2024ApJ...976..143T",
+     "doi": "10.3847/1538-4357/ad8239",
+     "arxiv": "2405.06743",
+     "citations": 27
+    },
+    {
+     "number": 198,
+     "title": "DESI Massive Poststarburst Galaxies at z ∼ 1.2 Have Compact Structures and Dense Cores",
+     "info": "Y. Zhang, D. Setton, (<strong>J. Moustakas</strong>, 26<sup>th</sup> coauthor) et al. 2024, ApJ, 976, 36",
+     "bibcode": "2024ApJ...976...36Z",
+     "doi": "10.3847/1538-4357/ad7c45",
+     "arxiv": "2407.21257",
+     "citations": 10
+    },
+    {
+     "number": 197,
+     "title": "The Outflowing [O II] Nebulae of Compact Starburst Galaxies at z∼0.5",
+     "info": "S. Perrotta, A. Coil, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2024, ApJ, 975, 263",
+     "bibcode": "2024ApJ...975..263P",
+     "doi": "10.3847/1538-4357/ad7b0c",
+     "arxiv": "2409.10013",
+     "citations": 9
+    },
+    {
+     "number": 196,
+     "title": "Value-added catalog of physical properties for more than 1.3 million galaxies from the DESI survey",
+     "info": "M. Siudek, R. Pucha, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2024, A&amp;A, 691, 308",
+     "bibcode": "2024A&A...691A.308S",
+     "doi": "10.1051/0004-6361/202451761",
+     "arxiv": "2409.19066",
+     "citations": 54
+    },
+    {
+     "number": 195,
+     "title": "DESI 2024: reconstructing dark energy using crossing statistics with DESI DR1 BAO data",
+     "info": "R. Calderon, K. Lodha, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2024, JCAP, 2024, 048",
+     "bibcode": "2024JCAP...10..048C",
+     "doi": "10.1088/1475-7516/2024/10/048",
+     "arxiv": "2405.04216",
+     "citations": 215
+    },
+    {
+     "number": 194,
+     "title": "Probing the Impact of Radio-mode Feedback on the Properties of the Cool Circumgalactic Medium",
+     "info": "Y. Chang, T. Lan, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2024, ApJ, 974, 191",
+     "bibcode": "2024ApJ...974..191C",
+     "doi": "10.3847/1538-4357/ad6c44",
+     "arxiv": "2405.08314",
+     "citations": 9
+    },
+    {
+     "number": 193,
+     "title": "DESI Early Data Release Milky Way Survey value-added catalogue",
+     "info": "S. Koposov, C. Allende Prieto, (<strong>J. Moustakas</strong>, 32<sup>nd</sup> coauthor) et al. 2024, MNRAS, 533, 1012–1031",
+     "bibcode": "2024MNRAS.533.1012K",
+     "doi": "10.1093/mnras/stae1842",
+     "arxiv": "2407.06280",
+     "citations": 46
+    },
+    {
+     "number": 192,
+     "title": "New Strong Gravitational Lenses from the DESI Legacy Imaging Surveys Data Release 9",
+     "info": "C. Storfer, X. Huang, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2024, ApJS, 274, 16",
+     "bibcode": "2024ApJS..274...16S",
+     "doi": "10.3847/1538-4365/ad527e",
+     "arxiv": "2206.02764",
+     "citations": 57
+    },
+    {
+     "number": 191,
+     "title": "Archetype-based Redshift Estimation for the Dark Energy Spectroscopic Instrument Survey",
+     "info": "A. Anand, J. Guy, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2024, AJ, 168, 124",
+     "bibcode": "2024AJ....168..124A",
+     "doi": "10.3847/1538-3881/ad60c2",
+     "arxiv": "2405.19288",
+     "citations": 45
+    },
+    {
+     "number": 190,
+     "title": "Broad absorption line quasars in the Dark Energy Spectroscopic Instrument Early Data Release",
+     "info": "S. Filbert, P. Martini, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2024, MNRAS, 532, 3669–3681",
+     "bibcode": "2024MNRAS.532.3669F",
+     "doi": "10.1093/mnras/stae1610",
+     "arxiv": "2309.03434",
+     "citations": 29
+    },
+    {
+     "number": 189,
+     "title": "High redshift LBGs from deep broadband imaging for future spectroscopic surveys",
+     "info": "V. Ruhlmann-Kleider, C. Yèche, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2024, JCAP, 2024, 059",
+     "bibcode": "2024JCAP...08..059R",
+     "doi": "10.1088/1475-7516/2024/08/059",
+     "arxiv": "2404.03569",
+     "citations": 15
+    },
+    {
+     "number": 188,
+     "title": "Measuring the Conditional Luminosity and Stellar Mass Functions of Galaxies by Combining the Dark Energy Spectroscopic Instrument Legacy Imaging Surveys Data Release 9, Survey Validation 3, and Year 1 Data",
+     "info": "Y. Wang, X. Yang, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2024, ApJ, 971, 119",
+     "bibcode": "2024ApJ...971..119W",
+     "doi": "10.3847/1538-4357/ad5294",
+     "arxiv": "2312.17459",
+     "citations": 20
+    },
+    {
+     "number": 187,
+     "title": "CHAOS. VIII. Far-ultraviolet Spectra of M101 and the Impact of Wolf—Rayet Stars",
+     "info": "D. Berg, E. Skillman, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2024, ApJ, 971, 87",
+     "bibcode": "2024ApJ...971...87B",
+     "doi": "10.3847/1538-4357/ad5292",
+     "arxiv": "2405.19477",
+     "citations": 15
+    },
+    {
+     "number": 186,
+     "title": "The Optical Corrector for the Dark Energy Spectroscopic Instrument",
+     "info": "T. Miller, P. Doel, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2024, AJ, 168, 95",
+     "bibcode": "2024AJ....168...95M",
+     "doi": "10.3847/1538-3881/ad45fe",
+     "arxiv": "2306.06310",
+     "citations": 231
+    },
+    {
+     "number": 185,
+     "title": "The Early Data Release of the Dark Energy Spectroscopic Instrument",
+     "info": "DESI Collaboration, A. Adame, (<strong>J. Moustakas</strong>, 174<sup>th</sup> coauthor) et al. 2024, AJ, 168, 58",
+     "bibcode": "2024AJ....168...58D",
+     "doi": "10.3847/1538-3881/ad3217",
+     "arxiv": "2306.06308",
+     "citations": 582
+    },
+    {
+     "number": 184,
+     "title": "Systematic Effects in Galaxy-Galaxy Lensing with DESI",
+     "info": "J. Lange, C. Blake, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2024, OJAp, 7, 57",
+     "bibcode": "2024OJAp....7E..57L",
+     "doi": "10.33232/001c.121260",
+     "arxiv": "2404.09397",
+     "citations": 20
+    },
+    {
+     "number": 183,
+     "title": "Generating mock galaxy catalogues for flux-limited samples like the DESI Bright Galaxy Survey",
+     "info": "A. Smith, C. Grove, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2024, MNRAS, 532, 903–919",
+     "bibcode": "2024MNRAS.532..903S",
+     "doi": "10.1093/mnras/stae1503",
+     "arxiv": "2312.08792",
+     "citations": 23
+    },
+    {
+     "number": 182,
+     "title": "Measuring Fiber Positioning Accuracy and Throughput with Fiber Dithering for the Dark Energy Spectroscopic Instrument",
+     "info": "E. Schlafly, D. Schlegel, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2024, AJ, 168, 35",
+     "bibcode": "2024AJ....168...35S",
+     "doi": "10.3847/1538-3881/ad4d8c",
+     "arxiv": "2403.05688",
+     "citations": 3
+    },
+    {
+     "number": 181,
+     "title": "DESI complete calibration of the colour-redshift relation (DC3R2): results from early DESI data",
+     "info": "J. McCullough, D. Gruen, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2024, MNRAS, 531, 2582–2602",
+     "bibcode": "2024MNRAS.531.2582M",
+     "doi": "10.1093/mnras/stae1316",
+     "arxiv": "2309.13109",
+     "citations": 21
+    },
+    {
+     "number": 180,
+     "title": "Emission line predictions for mock galaxy catalogues: a new differentiable and empirical mapping from DESI",
+     "info": "A. Khederlarian, J. Newman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2024, MNRAS, 531, 1454–1470",
+     "bibcode": "2024MNRAS.531.1454K",
+     "doi": "10.1093/mnras/stae1189",
+     "arxiv": "2404.03055",
+     "citations": 7
+    },
+    {
+     "number": 179,
+     "title": "Constraints on the Spacetime Variation of the Fine-structure Constant Using DESI Emission-line Galaxies",
+     "info": "L. Jiang, Z. Pan, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2024, ApJ, 968, 120",
+     "bibcode": "2024ApJ...968..120J",
+     "doi": "10.3847/1538-4357/ad47b4",
+     "arxiv": "2404.03123",
+     "citations": 14
+    },
+    {
+     "number": 178,
+     "title": "The DESI one-per cent survey: exploring the halo occupation distribution of luminous red galaxies and quasi-stellar objects with ABACUSSUMMIT",
+     "info": "S. Yuan, H. Zhang, (<strong>J. Moustakas</strong>, 26<sup>th</sup> coauthor) et al. 2024, MNRAS, 530, 947–965",
+     "bibcode": "2024MNRAS.530..947Y",
+     "doi": "10.1093/mnras/stae359",
+     "arxiv": "2306.06314",
+     "citations": 116
+    },
+    {
+     "number": 177,
+     "title": "The Intrinsic Sizes of Odd Radio Circles",
+     "info": "D. Rupke, A. Coil, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2024, ApJ, 967, 51",
+     "bibcode": "2024ApJ...967...51R",
+     "doi": "10.3847/1538-4357/ad3934",
+     "arxiv": "2312.06387",
+     "citations": 12
+    },
+    {
+     "number": 176,
+     "title": "Long-term follow-up observations of extreme coronal line emitting galaxies",
+     "info": "P. Clark, O. Graur, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2024, MNRAS, 528, 7076–7102",
+     "bibcode": "2024MNRAS.528.7076C",
+     "doi": "10.1093/mnras/stae460",
+     "arxiv": "2307.03182",
+     "citations": 29
+    },
+    {
+     "number": 175,
+     "title": "The Lyα forest catalogue from the Dark Energy Spectroscopic Instrument Early Data Release",
+     "info": "C. Ramírez-Pérez, I. Pérez-Ràfols, (<strong>J. Moustakas</strong>, 56<sup>th</sup> coauthor) et al. 2024, MNRAS, 528, 6666–6679",
+     "bibcode": "2024MNRAS.528.6666R",
+     "doi": "10.1093/mnras/stad3781",
+     "arxiv": "2306.06312",
+     "citations": 48
+    },
+    {
+     "number": 174,
+     "title": "Optimal 1D Ly α forest power spectrum estimation - III. DESI early data",
+     "info": "N. Karaçaylı, P. Martini, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2024, MNRAS, 528, 3941–3963",
+     "bibcode": "2024MNRAS.528.3941K",
+     "doi": "10.1093/mnras/stae171",
+     "arxiv": "2306.06316",
+     "citations": 55
+    },
+    {
+     "number": 173,
+     "title": "The DESI One-percent Survey: Evidence for Assembly Bias from Low-redshift Counts-in-cylinders Measurements",
+     "info": "A. Pearl, A. Zentner, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2024, ApJ, 963, 116",
+     "bibcode": "2024ApJ...963..116P",
+     "doi": "10.3847/1538-4357/ad1ffd",
+     "arxiv": "2309.08675",
+     "citations": 12
+    },
+    {
+     "number": 172,
+     "title": "PROVABGS: The Probabilistic Stellar Mass Function of the BGS One-percent Survey",
+     "info": "C. Hahn, J. Aguilar, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2024, ApJ, 963, 56",
+     "bibcode": "2024ApJ...963...56H",
+     "doi": "10.3847/1538-4357/ad19c8",
+     "arxiv": null,
+     "citations": 9
+    },
+    {
+     "number": 171,
+     "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. I. Sample from the Early Data",
+     "info": "W. Guo, H. Zou, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2024, ApJS, 270, 26",
+     "bibcode": "2024ApJS..270...26G",
+     "doi": "10.3847/1538-4365/ad118a",
+     "arxiv": "2307.08289",
+     "citations": 61
+    },
+    {
+     "number": 170,
+     "title": "A Large Sample of Extremely Metal-poor Galaxies at z &lt; 1 Identified from the DESI Early Data",
+     "info": "H. Zou, J. Sui, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2024, ApJ, 961, 173",
+     "bibcode": "2024ApJ...961..173Z",
+     "doi": "10.3847/1538-4357/ad1409",
+     "arxiv": "2312.00300",
+     "citations": 45
+    },
+    {
+     "number": 169,
+     "title": "Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument",
+     "info": "DESI Collaboration, A. Adame, (<strong>J. Moustakas</strong>, 172<sup>nd</sup> coauthor) et al. 2024, AJ, 167, 62",
+     "bibcode": "2024AJ....167...62D",
+     "doi": "10.3847/1538-3881/ad0b08",
+     "arxiv": "2306.06307",
+     "citations": 309
+    },
+    {
+     "number": 168,
+     "title": "Ionized gas extends over 40 kpc in an odd radio circle host galaxy",
+     "info": "A. Coil, S. Perrotta, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2024, Nature, 625, 459–462",
+     "bibcode": "2024Natur.625..459C",
+     "doi": "10.1038/s41586-023-06752-8",
+     "arxiv": "2310.15162",
+     "citations": 24
+    },
+    {
+     "number": 167,
+     "title": "The DESI One-Percent Survey: exploring a generalized SHAM for multiple tracers with the UNIT simulation",
+     "info": "J. Yu, C. Zhao, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2024, MNRAS, 527, 6950–6969",
+     "bibcode": "2024MNRAS.527.6950Y",
+     "doi": "10.1093/mnras/stad3559",
+     "arxiv": "2306.06313",
+     "citations": 32
+    },
+    {
+     "number": 166,
+     "title": "DESI Survey Validation Data in the COSMOS/Hyper Suprime-Cam Field: Cool Gas Trace Main-sequence Star-forming Galaxies at the Cosmic Noon",
+     "info": "S. Zou, L. Jiang, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2024, ApJ, 960, 34",
+     "bibcode": "2024ApJ...960...34Z",
+     "doi": "10.3847/1538-4357/ad09b2",
+     "arxiv": "2302.13357",
+     "citations": 13
+    },
+    {
+     "number": 165,
+     "title": "PROVABGS: The Probabilistic Stellar Mass Function of the BGS One-Percent Survey",
+     "info": "C. Hahn, J. Aguilar, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2023, in press (arXiv:2306.06318)",
+     "bibcode": "2023arXiv230606318H",
+     "doi": "10.48550/arXiv.2306.06318",
+     "arxiv": "2306.06318",
+     "citations": 5
+    },
+    {
+     "number": 164,
+     "title": "The Dark Energy Spectroscopic Instrument: one-dimensional power spectrum from first Ly α forest samples with Fast Fourier Transform",
+     "info": "C. Ravoux, M. Abdul Karim, (<strong>J. Moustakas</strong>, 42<sup>nd</sup> coauthor) et al. 2023, MNRAS, 526, 5118–5140",
+     "bibcode": "2023MNRAS.526.5118R",
+     "doi": "10.1093/mnras/stad3008",
+     "arxiv": "2306.06311",
+     "citations": 56
+    },
+    {
+     "number": 163,
+     "title": "Analysis of the impact of broad absorption lines on quasar redshift measurements with synthetic observations",
+     "info": "L. García, P. Martini, (<strong>J. Moustakas</strong>, 16<sup>th</sup> coauthor) et al. 2023, MNRAS, 526, 4848–4859",
+     "bibcode": "2023MNRAS.526.4848G",
+     "doi": "10.1093/mnras/stad2993",
+     "arxiv": "2304.05855",
+     "citations": 12
+    },
+    {
+     "number": 162,
+     "title": "Survey Operations for the Dark Energy Spectroscopic Instrument",
+     "info": "E. Schlafly, D. Kirkby, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2023, AJ, 166, 259",
+     "bibcode": "2023AJ....166..259S",
+     "doi": "10.3847/1538-3881/ad0832",
+     "arxiv": "2306.06309",
+     "citations": 254
+    },
+    {
+     "number": 161,
+     "title": "A striking relationship between dust extinction and radio detection in DESI QSOs: evidence for a dusty blow-out phase in red QSOs",
+     "info": "V. Fawcett, D. Alexander, (<strong>J. Moustakas</strong>, 31<sup>st</sup> coauthor) et al. 2023, MNRAS, 525, 5575–5596",
+     "bibcode": "2023MNRAS.525.5575F",
+     "doi": "10.1093/mnras/stad2603",
+     "arxiv": "2308.14790",
+     "citations": 41
+    },
+    {
+     "number": 160,
+     "title": "First detection of the BAO signal from early DESI data",
+     "info": "J. Moon, D. Valcin, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2023, MNRAS, 525, 5406–5422",
+     "bibcode": "2023MNRAS.525.5406M",
+     "doi": "10.1093/mnras/stad2618",
+     "arxiv": "2304.08427",
+     "citations": 56
+    },
+    {
+     "number": 159,
+     "title": "DESI luminous red galaxy samples for cross-correlations",
+     "info": "R. Zhou, S. Ferraro, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2023, JCAP, 2023, 097",
+     "bibcode": "2023JCAP...11..097Z",
+     "doi": "10.1088/1475-7516/2023/11/097",
+     "arxiv": "2309.06443",
+     "citations": 70
+    },
+    {
+     "number": 158,
+     "title": "DESI z&gt;5 Quasar Survey. I. A First Sample of 400 New Quasars at z 4.7-6.6",
+     "info": "J. Yang, X. Fan, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2023, ApJS, 269, 27",
+     "bibcode": "2023ApJS..269...27Y",
+     "doi": "10.3847/1538-4365/acf99b",
+     "arxiv": "2302.01777",
+     "citations": 55
+    },
+    {
+     "number": 157,
+     "title": "GTC Follow-up Observations of Very Metal-poor Star Candidates from DESI",
+     "info": "C. Allende Prieto, D. Aguado, (<strong>J. Moustakas</strong>, 36<sup>th</sup> coauthor) et al. 2023, ApJ, 957, 76",
+     "bibcode": "2023ApJ...957...76A",
+     "doi": "10.3847/1538-4357/acfa96",
+     "arxiv": "2306.06321",
+     "citations": 8
+    },
+    {
+     "number": 156,
+     "title": "Target selection for the DESI Peculiar Velocity Survey",
+     "info": "C. Saulder, C. Howlett, (<strong>J. Moustakas</strong>, 25<sup>th</sup> coauthor) et al. 2023, MNRAS, 525, 1106–1125",
+     "bibcode": "2023MNRAS.525.1106S",
+     "doi": "10.1093/mnras/stad2200",
+     "arxiv": "2302.13760",
+     "citations": 54
+    },
+    {
+     "number": 155,
+     "title": "The DESI One-Percent survey: exploring the Halo Occupation Distribution of Emission Line Galaxies with ABACUSSUMMIT simulations",
+     "info": "A. Rocher, V. Ruhlmann-Kleider, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2023, JCAP, 2023, 016",
+     "bibcode": "2023JCAP...10..016R",
+     "doi": "10.1088/1475-7516/2023/10/016",
+     "arxiv": "2306.06319",
+     "citations": 75
+    },
+    {
+     "number": 154,
+     "title": "Astrometric Calibration and Performance of the Dark Energy Spectroscopic Instrument Focal Plane",
+     "info": "S. Kent, E. Neilsen, (<strong>J. Moustakas</strong>, 35<sup>th</sup> coauthor) et al. 2023, AJ, 166, 177",
+     "bibcode": "2023AJ....166..177K",
+     "doi": "10.3847/1538-3881/acf7c3",
+     "arxiv": "2307.06238",
+     "citations": 4
+    },
+    {
+     "number": 153,
+     "title": "The DESI One-Percent Survey: Constructing Galaxy-Halo Connections for ELGs and LRGs Using Auto and Cross Correlations",
+     "info": "H. Gao, Y. Jing, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2023, ApJ, 954, 207",
+     "bibcode": "2023ApJ...954..207G",
+     "doi": "10.3847/1538-4357/ace90a",
+     "arxiv": "2306.06317",
+     "citations": 24
+    },
+    {
+     "number": 152,
+     "title": "Target Selection and Sample Characterization for the DESI LOW-Z Secondary Target Program",
+     "info": "E. Darragh-Ford, J. Wu, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2023, ApJ, 954, 149",
+     "bibcode": "2023ApJ...954..149D",
+     "doi": "10.3847/1538-4357/ace902",
+     "arxiv": "2212.07433",
+     "citations": 37
+    },
+    {
+     "number": 151,
+     "title": "Detecting and Characterizing Mg II Absorption in DESI Survey Validation Quasar Spectra",
+     "info": "L. Napolitano, A. Pandey, (<strong>J. Moustakas</strong>, 27<sup>th</sup> coauthor) et al. 2023, AJ, 166, 99",
+     "bibcode": "2023AJ....166...99N",
+     "doi": "10.3847/1538-3881/ace62c",
+     "arxiv": "2305.20016",
+     "citations": 31
+    },
+    {
+     "number": 150,
+     "title": "Performance of the Quasar Spectral Templates for the Dark Energy Spectroscopic Instrument",
+     "info": "A. Brodzeller, K. Dawson, (<strong>J. Moustakas</strong>, 34<sup>th</sup> coauthor) et al. 2023, AJ, 166, 66",
+     "bibcode": "2023AJ....166...66B",
+     "doi": "10.3847/1538-3881/ace35d",
+     "arxiv": "2305.10426",
+     "citations": 64
+    },
+    {
+     "number": 149,
+     "title": "Extending the Dynamic Range of Galaxy Outflow Scaling Relations: Massive Compact Galaxies with Extreme Outflows",
+     "info": "J. Davis, C. Tremonti, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2023, ApJ, 951, 105",
+     "bibcode": "2023ApJ...951..105D",
+     "doi": "10.3847/1538-4357/accbbf",
+     "arxiv": null,
+     "citations": 21
+    },
+    {
+     "number": 148,
+     "title": "Intrinsic alignment as an RSD contaminant in the DESI survey",
+     "info": "C. Lamman, D. Eisenstein, (<strong>J. Moustakas</strong>, 16<sup>th</sup> coauthor) et al. 2023, MNRAS, 522, 117–129",
+     "bibcode": "2023MNRAS.522..117L",
+     "doi": "10.1093/mnras/stad950",
+     "arxiv": "2209.03949",
+     "citations": 15
+    },
+    {
+     "number": 147,
+     "title": "The DESI Bright Galaxy Survey: Final Target Selection, Design, and Validation",
+     "info": "C. Hahn, M. Wilson, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2023, AJ, 165, 253",
+     "bibcode": "2023AJ....165..253H",
+     "doi": "10.3847/1538-3881/accff8",
+     "arxiv": "2208.08512",
+     "citations": 351
+    },
+    {
+     "number": 146,
+     "title": "Kinematics, Structure, and Mass Outflow Rates of Extreme Starburst Galactic Outflows",
+     "info": "S. Perrotta, A. Coil, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2023, ApJ, 949, 9",
+     "bibcode": "2023ApJ...949....9P",
+     "doi": "10.3847/1538-4357/acc660",
+     "arxiv": "2303.07448",
+     "citations": 25
+    },
+    {
+     "number": 145,
+     "title": "DESI Survey Validation Spectra Reveal an Increasing Fraction of Recently Quenched Galaxies at z   1",
+     "info": "D. Setton, B. Dey, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2023, ApJL, 947, 31",
+     "bibcode": "2023ApJ...947L..31S",
+     "doi": "10.3847/2041-8213/acc9b5",
+     "arxiv": "2212.05070",
+     "citations": 14
+    },
+    {
+     "number": 144,
+     "title": "Overview of the DESI Milky Way Survey",
+     "info": "A. Cooper, S. Koposov, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2023, ApJ, 947, 37",
+     "bibcode": "2023ApJ...947...37C",
+     "doi": "10.3847/1538-4357/acb3c0",
+     "arxiv": "2208.08514",
+     "citations": 202
+    },
+    {
+     "number": 143,
+     "title": "The Ionization and Dynamics of the Makani Galactic Wind",
+     "info": "D. Rupke, A. Coil, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2023, ApJ, 947, 33",
+     "bibcode": "2023ApJ...947...33R",
+     "doi": "10.3847/1538-4357/acbfae",
+     "arxiv": "2303.00194",
+     "citations": 18
+    },
+    {
+     "number": 142,
+     "title": "The Spectroscopic Data Processing Pipeline for the Dark Energy Spectroscopic Instrument",
+     "info": "J. Guy, S. Bailey, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2023, AJ, 165, 144",
+     "bibcode": "2023AJ....165..144G",
+     "doi": "10.3847/1538-3881/acb212",
+     "arxiv": "2209.14482",
+     "citations": 314
+    },
+    {
+     "number": 141,
+     "title": "The DESI PRObabilistic Value-added Bright Galaxy Survey (PROVABGS) Mock Challenge",
+     "info": "C. Hahn, K. Kwon, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2023, ApJ, 945, 16",
+     "bibcode": "2023ApJ...945...16H",
+     "doi": "10.3847/1538-4357/ac8983",
+     "arxiv": "2202.01809",
+     "citations": 34
+    },
+    {
+     "number": 140,
+     "title": "The DESI Survey Validation: Results from Visual Inspection of the Quasar Survey Spectra",
+     "info": "D. Alexander, T. Davis, (<strong>J. Moustakas</strong>, 50<sup>th</sup> coauthor) et al. 2023, AJ, 165, 124",
+     "bibcode": "2023AJ....165..124A",
+     "doi": "10.3847/1538-3881/acacfc",
+     "arxiv": "2208.08517",
+     "citations": 111
+    },
+    {
+     "number": 139,
+     "title": "Hidden depths in the local Universe: The Stellar Stream Legacy Survey",
+     "info": "D. Martínez-Delgado, A. Cooper, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2023, A&amp;A, 671, 141",
+     "bibcode": "2023A&A...671A.141M",
+     "doi": "10.1051/0004-6361/202245011",
+     "arxiv": "2104.06071",
+     "citations": 94
+    },
+    {
+     "number": 138,
+     "title": "Target Selection and Validation of DESI Quasars",
+     "info": "E. Chaussidon, C. Yèche, (<strong>J. Moustakas</strong>, 40<sup>th</sup> coauthor) et al. 2023, ApJ, 944, 107",
+     "bibcode": "2023ApJ...944..107C",
+     "doi": "10.3847/1538-4357/acb3c2",
+     "arxiv": "2208.08511",
+     "citations": 243
+    },
+    {
+     "number": 137,
+     "title": "DESI Observations of the Andromeda Galaxy: Revealing the Immigration History of Our Nearest Neighbor",
+     "info": "A. Dey, J. Najita, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2023, ApJ, 944, 1",
+     "bibcode": "2023ApJ...944....1D",
+     "doi": "10.3847/1538-4357/aca5f8",
+     "arxiv": "2208.11683",
+     "citations": 73
+    },
+    {
+     "number": 136,
+     "title": "Target Selection and Validation of DESI Luminous Red Galaxies",
+     "info": "R. Zhou, B. Dey, (<strong>J. Moustakas</strong>, 33<sup>rd</sup> coauthor) et al. 2023, AJ, 165, 58",
+     "bibcode": "2023AJ....165...58Z",
+     "doi": "10.3847/1538-3881/aca5fb",
+     "arxiv": "2208.08515",
+     "citations": 313
+    },
+    {
+     "number": 135,
+     "title": "The DESI Survey Validation: Results from Visual Inspection of Bright Galaxies, Luminous Red Galaxies, and Emission-line Galaxies",
+     "info": "T. Lan, R. Tojeiro, (<strong>J. Moustakas</strong>, 70<sup>th</sup> coauthor) et al. 2023, ApJ, 943, 68",
+     "bibcode": "2023ApJ...943...68L",
+     "doi": "10.3847/1538-4357/aca5fa",
+     "arxiv": "2208.08516",
+     "citations": 96
+    },
+    {
+     "number": 134,
+     "title": "The Robotic Multiobject Focal Plane System of the Dark Energy Spectroscopic Instrument (DESI)",
+     "info": "J. Silber, P. Fagrelius, (<strong>J. Moustakas</strong>, 85<sup>th</sup> coauthor) et al. 2023, AJ, 165, 9",
+     "bibcode": "2023AJ....165....9S",
+     "doi": "10.3847/1538-3881/ac9ab1",
+     "arxiv": "2205.09014",
+     "citations": 249
+    },
+    {
+     "number": 133,
+     "title": "CHAOS. VII. A Large-scale Direct Abundance Study in M33",
+     "info": "N. Rogers, E. Skillman, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2022, ApJ, 939, 44",
+     "bibcode": "2022ApJ...939...44R",
+     "doi": "10.3847/1538-4357/ac947d",
+     "arxiv": "2209.03962",
+     "citations": 52
+    },
+    {
+     "number": 132,
+     "title": "The Space Density of Intermediate-redshift, Extremely Compact, Massive Starburst Galaxies",
+     "info": "K. Whalen, R. Hickox, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2022, AJ, 164, 222",
+     "bibcode": "2022AJ....164..222W",
+     "doi": "10.3847/1538-3881/ac958f",
+     "arxiv": "2209.13632",
+     "citations": 10
+    },
+    {
+     "number": 131,
+     "title": "Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument",
+     "info": "DESI Collaboration, B. Abareshi, (<strong>J. Moustakas</strong>, 168<sup>th</sup> coauthor) et al. 2022, AJ, 164, 207",
+     "bibcode": "2022AJ....164..207D",
+     "doi": "10.3847/1538-3881/ac882b",
+     "arxiv": "2205.10939",
+     "citations": 609
+    },
+    {
+     "number": 130,
+     "title": "Reaching for the Edge I: probing the outskirts of massive galaxies with HSC, DECaLS, SDSS, and Dragonfly",
+     "info": "J. Li, S. Huang, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2022, MNRAS, 515, 5335–5357",
+     "bibcode": "2022MNRAS.515.5335L",
+     "doi": "10.1093/mnras/stac2121",
+     "arxiv": "2111.03557",
+     "citations": 36
+    },
+    {
+     "number": 129,
+     "title": "XMM-Newton and SRG/eROSITA observations of the isolated neutron star candidate 4XMM J022141.5—735632",
+     "info": "A. Pires, C. Motch, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2022, A&amp;A, 666, 148",
+     "bibcode": "2022A&A...666A.148P",
+     "doi": "10.1051/0004-6361/202244514",
+     "arxiv": "2208.07637",
+     "citations": 10
+    },
+    {
+     "number": 128,
+     "title": "Virgo Filaments. II. Catalog and First Results on the Effect of Filaments on Galaxy Properties",
+     "info": "G. Castignani, B. Vulcani, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2022, ApJS, 259, 43",
+     "bibcode": "2022ApJS..259...43C",
+     "doi": "10.3847/1538-4365/ac45f7",
+     "arxiv": "2110.13797",
+     "citations": 47
+    },
+    {
+     "number": 127,
+     "title": "H α-based star formation rates in and around z∼0.5 EDisCS clusters",
+     "info": "J. Cooper, G. Rudnick, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2022, MNRAS, 509, 5382–5398",
+     "bibcode": "2022MNRAS.509.5382C",
+     "doi": "10.1093/mnras/stab3184",
+     "arxiv": "2111.00263",
+     "citations": 6
+    },
+    {
+     "number": 126,
+     "title": "Preliminary clustering properties of the DESI BGS bright targets using DR9 Legacy Imaging Surveys",
+     "info": "P. Zarrouk, O. Ruiz-Macias, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2022, MNRAS, 509, 1478–1493",
+     "bibcode": "2022MNRAS.509.1478Z",
+     "doi": "10.1093/mnras/stab2814",
+     "arxiv": "2106.13120",
+     "citations": 15
+    },
+    {
+     "number": 125,
+     "title": "Physical Properties of Massive Compact Starburst Galaxies with Extreme Outflows",
+     "info": "S. Perrotta, E. George, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2021, ApJ, 923, 275",
+     "bibcode": "2021ApJ...923..275P",
+     "doi": "10.3847/1538-4357/ac2fa4",
+     "arxiv": "2106.02366",
+     "citations": 26
+    },
+    {
+     "number": 124,
+     "title": "CHAOS. VI. Direct Abundances in NGC 2403",
+     "info": "N. Rogers, E. Skillman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2021, ApJ, 915, 21",
+     "bibcode": "2021ApJ...915...21R",
+     "doi": "10.3847/1538-4357/abf8b9",
+     "arxiv": "2105.03437",
+     "citations": 72
+    },
+    {
+     "number": 123,
+     "title": "Baryon acoustic oscillations in the projected cross-correlation function between the eBOSS DR16 quasars and photometric galaxies from the DESI Legacy Imaging Surveys",
+     "info": "P. Zarrouk, M. Rezaie, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2021, MNRAS, 503, 2562–2582",
+     "bibcode": "2021MNRAS.503.2562Z",
+     "doi": "10.1093/mnras/stab298",
+     "arxiv": "2009.02308",
+     "citations": 15
+    },
+    {
+     "number": 122,
+     "title": "Characterizing the target selection pipeline for the Dark Energy Spectroscopic Instrument Bright Galaxy Survey",
+     "info": "O. Ruiz-Macias, P. Zarrouk, (<strong>J. Moustakas</strong>, 16<sup>th</sup> coauthor) et al. 2021, MNRAS, 502, 4328–4349",
+     "bibcode": "2021MNRAS.502.4328R",
+     "doi": "10.1093/mnras/stab292",
+     "arxiv": "2007.14950",
+     "citations": 28
+    },
+    {
+     "number": 121,
+     "title": "The clustering of DESI-like luminous red galaxies using photometric redshifts",
+     "info": "R. Zhou, J. Newman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2021, MNRAS, 501, 3309–3331",
+     "bibcode": "2021MNRAS.501.3309Z",
+     "doi": "10.1093/mnras/staa3764",
+     "arxiv": "2001.06018",
+     "citations": 219
+    },
+    {
+     "number": 120,
+     "title": "Discovering New Strong Gravitational Lenses in the DESI Legacy Imaging Surveys",
+     "info": "X. Huang, C. Storfer, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2021, ApJ, 909, 27",
+     "bibcode": "2021ApJ...909...27H",
+     "doi": "10.3847/1538-4357/abd62b",
+     "arxiv": "2005.04730",
+     "citations": 111
+    },
+    {
+     "number": 119,
+     "title": "The completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: large-scale structure catalogues and measurement of the isotropic BAO between redshift 0.6 and 1.1 for the Emission Line Galaxy Sample",
+     "info": "A. Raichoor, A. de Mattia, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2021, MNRAS, 500, 3254–3274",
+     "bibcode": "2021MNRAS.500.3254R",
+     "doi": "10.1093/mnras/staa3336",
+     "arxiv": "2007.09007",
+     "citations": 145
+    },
+    {
+     "number": 118,
+     "title": "Removing imaging systematics from galaxy clustering measurements with Obiwan: application to the SDSS-IV extended Baryon Oscillation Spectroscopic Survey emission-line galaxy sample",
+     "info": "H. Kong, K. Burleigh, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2020, MNRAS, 499, 3943–3960",
+     "bibcode": "2020MNRAS.499.3943K",
+     "doi": "10.1093/mnras/staa2742",
+     "arxiv": "2007.08992",
+     "citations": 26
+    },
+    {
+     "number": 117,
+     "title": "The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Large-scale structure catalogues for cosmological analysis",
+     "info": "A. Ross, J. Bautista, (<strong>J. Moustakas</strong>, 16<sup>th</sup> coauthor) et al. 2020, MNRAS, 498, 2354–2371",
+     "bibcode": "2020MNRAS.498.2354R",
+     "doi": "10.1093/mnras/staa2416",
+     "arxiv": "2007.09000",
+     "citations": 194
+    },
+    {
+     "number": 116,
+     "title": "Validation of emission-line galaxies target selection algorithms for the Dark Energy Spectroscopic Instrument using the MMT Binospec",
+     "info": "T. Karim, J. Lee, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2020, MNRAS, 497, 4587–4601",
+     "bibcode": "2020MNRAS.497.4587K",
+     "doi": "10.1093/mnras/staa2270",
+     "arxiv": "2007.14484",
+     "citations": 5
+    },
+    {
+     "number": 115,
+     "title": "Deviations from the Infrared-radio Correlation in Massive, Ultracompact Starburst Galaxies",
+     "info": "G. Petter, A. Kepley, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2020, ApJ, 901, 138",
+     "bibcode": "2020ApJ...901..138P",
+     "doi": "10.3847/1538-4357/abb19d",
+     "arxiv": "2009.03906",
+     "citations": 10
+    },
+    {
+     "number": 114,
+     "title": "Imaging systematics and clustering of DESI main targets",
+     "info": "E. Kitanidis, M. White, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2020, MNRAS, 496, 2262–2291",
+     "bibcode": "2020MNRAS.496.2262K",
+     "doi": "10.1093/mnras/staa1621",
+     "arxiv": "1911.05714",
+     "citations": 36
+    },
+    {
+     "number": 113,
+     "title": "Dynamic Observing and Tiling Strategies for the DESI Legacy Surveys",
+     "info": "K. Burleigh, M. Landriau, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2020, AJ, 160, 61",
+     "bibcode": "2020AJ....160...61B",
+     "doi": "10.3847/1538-3881/ab93b9",
+     "arxiv": "2002.05828",
+     "citations": 9
+    },
+    {
+     "number": 112,
+     "title": "CHAOS V: Recombination Line Carbon Abundances in M 101",
+     "info": "E. Skillman, D. Berg, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2020, ApJ, 894, 138",
+     "bibcode": "2020ApJ...894..138S",
+     "doi": "10.3847/1538-4357/ab86ae",
+     "arxiv": "2004.10765",
+     "citations": 17
+    },
+    {
+     "number": 111,
+     "title": "Finding Strong Gravitational Lenses in the DESI DECam Legacy Survey",
+     "info": "X. Huang, C. Storfer, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2020, ApJ, 894, 78",
+     "bibcode": "2020ApJ...894...78H",
+     "doi": "10.3847/1538-4357/ab7ffb",
+     "arxiv": "1906.00970",
+     "citations": 118
+    },
+    {
+     "number": 110,
+     "title": "CHAOS IV: Gas-phase Abundance Trends from the First Four CHAOS Galaxies",
+     "info": "D. Berg, R. Pogge, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2020, ApJ, 893, 96",
+     "bibcode": "2020ApJ...893...96B",
+     "doi": "10.3847/1538-4357/ab7eab",
+     "arxiv": "2001.05002",
+     "citations": 170
+    },
+    {
+     "number": 109,
+     "title": "Variations in the Width, Density, and Direction of the Palomar 5 Tidal Tails",
+     "info": "A. Bonaca, S. Pearson, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2020, ApJ, 889, 70",
+     "bibcode": "2020ApJ...889...70B",
+     "doi": "10.3847/1538-4357/ab5afe",
+     "arxiv": "1910.00592",
+     "citations": 76
+    },
+    {
+     "number": 108,
+     "title": "Preprocessing among the Infalling Galaxy Population of EDisCS Clusters",
+     "info": "D. Just, M. Kirby, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2019, ApJ, 885, 6",
+     "bibcode": "2019ApJ...885....6J",
+     "doi": "10.3847/1538-4357/ab44a0",
+     "arxiv": "1506.02051",
+     "citations": 30
+    },
+    {
+     "number": 107,
+     "title": "A 100-kiloparsec wind feeding the circumgalactic medium of a massive compact galaxy",
+     "info": "D. Rupke, A. Coil, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2019, Nature, 574, 643–646",
+     "bibcode": "2019Natur.574..643R",
+     "doi": "10.1038/s41586-019-1686-1",
+     "arxiv": "1910.13507",
+     "citations": 117
+    },
+    {
+     "number": 106,
+     "title": "PRIMUS: Clustering of Star-forming and Quiescent Central Galaxies at 0.2&lt;z&lt;0.9",
+     "info": "A. Berti, A. Coil, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2019, ApJ, 884, 76",
+     "bibcode": "2019ApJ...884...76B",
+     "doi": "10.3847/1538-4357/ab3b5d",
+     "arxiv": "1903.03127",
+     "citations": 9
+    },
+    {
+     "number": 105,
+     "title": "The time delay between star formation quenching and morphological transformation of galaxies in clusters: a phase-space view of EDisCS",
+     "info": "K. Kelkar, M. Gray, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2019, MNRAS, 486, 868–884",
+     "bibcode": "2019MNRAS.486..868K",
+     "doi": "10.1093/mnras/stz905",
+     "arxiv": "1904.00466",
+     "citations": 29
+    },
+    {
+     "number": 104,
+     "title": "Overview of the DESI Legacy Imaging Surveys",
+     "info": "A. Dey, D. Schlegel, (<strong>J. Moustakas</strong>, 16<sup>th</sup> coauthor) et al. 2019, AJ, 157, 168",
+     "bibcode": "2019AJ....157..168D",
+     "doi": "10.3847/1538-3881/ab089d",
+     "arxiv": "1804.08657",
+     "citations": 2241
+    },
+    {
+     "number": 103,
+     "title": "On the Origin of the Scatter in the Red Sequence: An Analysis of Four CLASH Clusters",
+     "info": "T. Connor, D. Kelson, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2019, ApJ, 875, 16",
+     "bibcode": "2019ApJ...875...16C",
+     "doi": "10.3847/1538-4357/ab0d84",
+     "arxiv": "1903.03618",
+     "citations": 13
+    },
+    {
+     "number": 102,
+     "title": "Correcting for fibre assignment incompleteness in the DESI Bright Galaxy Survey",
+     "info": "A. Smith, J. He, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2019, MNRAS, 484, 1285–1300",
+     "bibcode": "2019MNRAS.484.1285S",
+     "doi": "10.1093/mnras/stz059",
+     "arxiv": "1809.07355",
+     "citations": 39
+    },
+    {
+     "number": 101,
+     "title": "Calibrating the James Webb Space Telescope Filters as Star Formation Rate Indicators",
+     "info": "M. Senarath, M. Brown, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2018, ApJL, 869, 26",
+     "bibcode": "2018ApJ...869L..26S",
+     "doi": "10.3847/2041-8213/aaf4ff",
+     "arxiv": "1812.00534",
+     "citations": 7
+    },
+    {
+     "number": 100,
+     "title": "Tidal Interactions and Mergers in Intermediate-redshift EDisCS Clusters",
+     "info": "S. Deger, G. Rudnick, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2018, ApJ, 869, 6",
+     "bibcode": "2018ApJ...869....6D",
+     "doi": "10.3847/1538-4357/aaeb87",
+     "arxiv": "1810.01430",
+     "citations": 18
+    },
+    {
+     "number": 99,
+     "title": "Violent Quenching: Molecular Gas Blown to 1000 km s<sup>-1</sup> during a Major Merger",
+     "info": "J. Geach, C. Tremonti, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2018, ApJL, 864, 1",
+     "bibcode": "2018ApJ...864L...1G",
+     "doi": "10.3847/2041-8213/aad8b6",
+     "arxiv": "1807.09789",
+     "citations": 22
+    },
+    {
+     "number": 98,
+     "title": "The Local Cluster Survey. I. Evidence of Outside-in Quenching in Dense Environments",
+     "info": "R. Finn, V. Desai, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2018, ApJ, 862, 149",
+     "bibcode": "2018ApJ...862..149F",
+     "doi": "10.3847/1538-4357/aac32a",
+     "arxiv": "1807.03388",
+     "citations": 27
+    },
+    {
+     "number": 97,
+     "title": "Stellar Mass and 3.4 μm M/L Ratio Evolution of Brightest Cluster Galaxies in COSMOS since z ∼ 1.0",
+     "info": "K. Cooke, K. Fogarty, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2018, ApJ, 857, 122",
+     "bibcode": "2018ApJ...857..122C",
+     "doi": "10.3847/1538-4357/aab895",
+     "arxiv": "1804.02404",
+     "citations": 6
+    },
+    {
+     "number": 96,
+     "title": "Galaxies Probing Galaxies in PRIMUS. I. Sample, Spectroscopy, and Characteristics of the z∼0.5 Mg II-absorbing Circumgalactic Medium",
+     "info": "K. Rubin, A. Diamond-Stanic, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2018, ApJ, 853, 95",
+     "bibcode": "2018ApJ...853...95R",
+     "doi": "10.3847/1538-4357/aa9792",
+     "arxiv": "1711.08807",
+     "citations": 57
+    },
+    {
+     "number": 95,
+     "title": "The SDSS-IV extended Baryon Oscillation Spectroscopic Survey: final emission line galaxy target selection",
+     "info": "A. Raichoor, J. Comparat, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2017, MNRAS, 471, 3955–3973",
+     "bibcode": "2017MNRAS.471.3955R",
+     "doi": "10.1093/mnras/stx1790",
+     "arxiv": "1704.00338",
+     "citations": 79
+    },
+    {
+     "number": 94,
+     "title": "Crowded Field Galaxy Photometry: Precision Colors in the CLASH Clusters",
+     "info": "T. Connor, M. Donahue, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2017, ApJ, 848, 37",
+     "bibcode": "2017ApJ...848...37C",
+     "doi": "10.3847/1538-4357/aa8ad5",
+     "arxiv": "1709.01925",
+     "citations": 28
+    },
+    {
+     "number": 93,
+     "title": "The Relationship Between Brightest Cluster Galaxy Star Formation and the Intracluster Medium in CLASH",
+     "info": "K. Fogarty, M. Postman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2017, ApJ, 846, 103",
+     "bibcode": "2017ApJ...846..103F",
+     "doi": "10.3847/1538-4357/aa82b9",
+     "arxiv": "1701.05903",
+     "citations": 34
+    },
+    {
+     "number": 92,
+     "title": "PRIMUS+DEEP2: The Dependence of Galaxy Clustering on Stellar Mass and Specific Star Formation Rate at 0.2&lt;z&lt;1.2",
+     "info": "A. Coil, A. Mendez, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2017, ApJ, 838, 87",
+     "bibcode": "2017ApJ...838...87C",
+     "doi": "10.3847/1538-4357/aa63ec",
+     "arxiv": "1609.09090",
+     "citations": 56
+    },
+    {
+     "number": 91,
+     "title": "Young Galaxy Candidates in the Hubble Frontier Fields. IV. MACS J1149.5+2223",
+     "info": "W. Zheng, A. Zitrin, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2017, ApJ, 836, 210",
+     "bibcode": "2017ApJ...836..210Z",
+     "doi": "10.3847/1538-4357/aa5d55",
+     "arxiv": "1701.08484",
+     "citations": 28
+    },
+    {
+     "number": 90,
+     "title": "PRIMUS: One- and Two-halo Galactic Conformity at 0.2&lt;z&lt;1",
+     "info": "A. Berti, A. Coil, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2017, ApJ, 834, 87",
+     "bibcode": "2017ApJ...834...87B",
+     "doi": "10.3847/1538-4357/834/1/87",
+     "arxiv": "1608.05084",
+     "citations": 40
+    },
+    {
+     "number": 89,
+     "title": "Tidal stripping as a test of satellite quenching in redMaPPer clusters",
+     "info": "Y. Fang, J. Clampitt, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2016, MNRAS, 463, 1907–1915",
+     "bibcode": "2016MNRAS.463.1907F",
+     "doi": "10.1093/mnras/stw2108",
+     "arxiv": "1604.08611",
+     "citations": 11
+    },
+    {
+     "number": 88,
+     "title": "CHAOS III: Gas-phase Abundances in NGC 5457",
+     "info": "K. Croxall, R. Pogge, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2016, ApJ, 830, 4",
+     "bibcode": "2016ApJ...830....4C",
+     "doi": "10.3847/0004-637X/830/1/4",
+     "arxiv": "1605.01612",
+     "citations": 159
+    },
+    {
+     "number": 87,
+     "title": "Measuring subhalo mass in redMaPPer clusters with CFHT Stripe 82 Survey",
+     "info": "R. Li, H. Shan, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2016, MNRAS, 458, 2573–2583",
+     "bibcode": "2016MNRAS.458.2573L",
+     "doi": "10.1093/mnras/stw494",
+     "arxiv": "1507.01464",
+     "citations": 40
+    },
+    {
+     "number": 86,
+     "title": "PRIMUS + DEEP2: Clustering of X-Ray, Radio, and IR-AGNs at z∼0.7",
+     "info": "A. Mendez, A. Coil, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2016, ApJ, 821, 55",
+     "bibcode": "2016ApJ...821...55M",
+     "doi": "10.3847/0004-637X/821/1/55",
+     "arxiv": "1504.06284",
+     "citations": 69
+    },
+    {
+     "number": 85,
+     "title": "Young Galaxy Candidates in the Hubble Frontier Fields. III. MACS J0717.5+3745",
+     "info": "N. Laporte, L. Infante, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2016, ApJ, 820, 98",
+     "bibcode": "2016ApJ...820...98L",
+     "doi": "10.3847/0004-637X/820/2/98",
+     "arxiv": "1602.02775",
+     "citations": 61
+    },
+    {
+     "number": 84,
+     "title": "Evolution of Balmer jump selected galaxies in the ALHAMBRA survey",
+     "info": "P. Troncoso Iribarren, L. Infante, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2016, A&amp;A, 588, 132",
+     "bibcode": "2016A&A...588A.132T",
+     "doi": "10.1051/0004-6361/201527552",
+     "arxiv": "1601.05423",
+     "citations": 1
+    },
+    {
+     "number": 83,
+     "title": "A New Star Formation Rate Calibration from Polycyclic Aromatic Hydrocarbon Emission Features and Application to High-redshift Galaxies",
+     "info": "H. Shipley, C. Papovich, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2016, ApJ, 818, 60",
+     "bibcode": "2016ApJ...818...60S",
+     "doi": "10.3847/0004-637X/818/1/60",
+     "arxiv": "1601.01698",
+     "citations": 151
+    },
+    {
+     "number": 82,
+     "title": "CLASH-VLT: Environment-driven evolution of galaxies in the z=0.209 cluster Abell 209",
+     "info": "M. Annunziatella, A. Mercurio, (<strong>J. Moustakas</strong>, 18<sup>th</sup> coauthor) et al. 2016, A&amp;A, 585, 160",
+     "bibcode": "2016A&A...585A.160A",
+     "doi": "10.1051/0004-6361/201527399",
+     "arxiv": "1510.05659",
+     "citations": 78
+    },
+    {
+     "number": 81,
+     "title": "Young Galaxy Candidates in the Hubble Frontier Fields. II. MACS J0416-2403",
+     "info": "L. Infante, W. Zheng, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2015, ApJ, 815, 18",
+     "bibcode": "2015ApJ...815...18I",
+     "doi": "10.1088/0004-637X/815/1/18",
+     "arxiv": "1510.07084",
+     "citations": 37
+    },
+    {
+     "number": 80,
+     "title": "Star Formation Activity in CLASH Brightest Cluster Galaxies",
+     "info": "K. Fogarty, M. Postman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ApJ, 813, 117",
+     "bibcode": "2015ApJ...813..117F",
+     "doi": "10.1088/0004-637X/813/2/117",
+     "arxiv": "1509.00487",
+     "citations": 48
+    },
+    {
+     "number": 79,
+     "title": "PRIMUS: The Effect of Physical Scale on the Luminosity Dependence of Galaxy Clustering via Cross-correlations",
+     "info": "A. Bray, D. Eisenstein, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2015, ApJ, 811, 90",
+     "bibcode": "2015ApJ...811...90B",
+     "doi": "10.1088/0004-637X/811/2/90",
+     "arxiv": "1502.01348",
+     "citations": 7
+    },
+    {
+     "number": 78,
+     "title": "Mass distribution in an assembling super galaxy group at z = 0.37",
+     "info": "M. Smit, T. Schrabback, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2015, A&amp;A, 582, 82",
+     "bibcode": "2015A&A...582A..82S",
+     "doi": "10.1051/0004-6361/201525905",
+     "arxiv": "1507.07340",
+     "citations": 3
+    },
+    {
+     "number": 77,
+     "title": "CHAOS II. Gas-phase Abundances in NGC 5194",
+     "info": "K. Croxall, R. Pogge, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ApJ, 808, 42",
+     "bibcode": "2015ApJ...808...42C",
+     "doi": "10.1088/0004-637X/808/1/42",
+     "arxiv": "1501.02272",
+     "citations": 110
+    },
+    {
+     "number": 76,
+     "title": "Dark Matter Halo Models of Stellar Mass-dependent Galaxy Clustering in PRIMUS+DEEP2 at 0.2&lt;z&lt;1.2",
+     "info": "R. Skibba, A. Coil, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2015, ApJ, 807, 152",
+     "bibcode": "2015ApJ...807..152S",
+     "doi": "10.1088/0004-637X/807/2/152",
+     "arxiv": "1503.00731",
+     "citations": 44
+    },
+    {
+     "number": 75,
+     "title": "PRIMUS: The Relationship between Star Formation and AGN Accretion",
+     "info": "M. Azadi, J. Aird, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2015, ApJ, 806, 187",
+     "bibcode": "2015ApJ...806..187A",
+     "doi": "10.1088/0004-637X/806/2/187",
+     "arxiv": "1407.1975",
+     "citations": 98
+    },
+    {
+     "number": 74,
+     "title": "CHAOS I. Direct Chemical Abundances for H II Regions in NGC 628",
+     "info": "D. Berg, E. Skillman, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ApJ, 806, 16",
+     "bibcode": "2015ApJ...806...16B",
+     "doi": "10.1088/0004-637X/806/1/16",
+     "arxiv": "1501.02270",
+     "citations": 201
+    },
+    {
+     "number": 73,
+     "title": "CLASH: The Concentration-Mass Relation of Galaxy Clusters",
+     "info": "J. Merten, M. Meneghetti, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2015, ApJ, 806, 4",
+     "bibcode": "2015ApJ...806....4M",
+     "doi": "10.1088/0004-637X/806/1/4",
+     "arxiv": "1404.1376",
+     "citations": 256
+    },
+    {
+     "number": 72,
+     "title": "Ultraviolet Morphology and Unobscured UV Star Formation Rates of CLASH Brightest Cluster Galaxies",
+     "info": "M. Donahue, T. Connor, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2015, ApJ, 805, 177",
+     "bibcode": "2015ApJ...805..177D",
+     "doi": "10.1088/0004-637X/805/2/177",
+     "arxiv": "1504.00598",
+     "citations": 83
+    },
+    {
+     "number": 71,
+     "title": "Not In Our Backyard: Spectroscopic Support for the CLASH z=11 Candidate MACS 0647-JD",
+     "info": "N. Pirzkal, D. Coe, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ApJ, 804, 11",
+     "bibcode": "2015ApJ...804...11P",
+     "doi": "10.1088/0004-637X/804/1/11",
+     "arxiv": "1502.05681",
+     "citations": 14
+    },
+    {
+     "number": 70,
+     "title": "Hubble Space Telescope Combined Strong and Weak Lensing Analysis of the CLASH Sample: Mass and Magnification Models and Systematic Uncertainties",
+     "info": "A. Zitrin, A. Fabris, (<strong>J. Moustakas</strong>, 26<sup>th</sup> coauthor) et al. 2015, ApJ, 801, 44",
+     "bibcode": "2015ApJ...801...44Z",
+     "doi": "10.1088/0004-637X/801/1/44",
+     "arxiv": "1411.1414",
+     "citations": 313
+    },
+    {
+     "number": 69,
+     "title": "CLASH: Extreme Emission-line Galaxies and Their Implication on Selection of High-redshift Galaxies",
+     "info": "X. Huang, W. Zheng, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2015, ApJ, 801, 12",
+     "bibcode": "2015ApJ...801...12H",
+     "doi": "10.1088/0004-637X/801/1/12",
+     "arxiv": "1412.7909",
+     "citations": 11
+    },
+    {
+     "number": 68,
+     "title": "Spectroscopic needs for imaging dark energy experiments",
+     "info": "J. Newman, A. Abate, (<strong>J. Moustakas</strong>, 47<sup>th</sup> coauthor) et al. 2015, Astroparticle Physics, 63, 81–100",
+     "bibcode": "2015APh....63...81N",
+     "doi": "10.1016/j.astropartphys.2014.06.007",
+     "arxiv": "1309.5384",
+     "citations": 114
+    },
+    {
+     "number": 67,
+     "title": "Star Formation in High-redshift Cluster Ellipticals",
+     "info": "C. Wagner, M. Brodwin, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2015, ApJ, 800, 107",
+     "bibcode": "2015ApJ...800..107W",
+     "doi": "10.1088/0004-637X/800/2/107",
+     "arxiv": "1412.6717",
+     "citations": 15
+    },
+    {
+     "number": 66,
+     "title": "Maximizing LSST's Scientific Return: Ensuring Participation from Smaller Institutions",
+     "info": "C. Liu, B. Willman, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2014, in press (arXiv:1410.2526)",
+     "bibcode": "2014arXiv1410.2526L",
+     "doi": "10.48550/arXiv.1410.2526",
+     "arxiv": "1410.2526",
+     "citations": 0
+    },
+    {
+     "number": 65,
+     "title": "Stellar feedback as the origin of an extended molecular outflow in a starburst galaxy",
+     "info": "J. Geach, R. Hickox, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2014, Nature, 516, 68–70",
+     "bibcode": "2014Natur.516...68G",
+     "doi": "10.1038/nature14012",
+     "arxiv": "1412.1091",
+     "citations": 72
+    },
+    {
+     "number": 64,
+     "title": "The MUSIC of CLASH: Predictions on the Concentration-Mass Relation",
+     "info": "M. Meneghetti, E. Rasia, (<strong>J. Moustakas</strong>, 37<sup>th</sup> coauthor) et al. 2014, ApJ, 797, 34",
+     "bibcode": "2014ApJ...797...34M",
+     "doi": "10.1088/0004-637X/797/1/34",
+     "arxiv": "1404.1384",
+     "citations": 143
+    },
+    {
+     "number": 63,
+     "title": "CLASH: Weak-lensing Shear-and-magnification Analysis of 20 Galaxy Clusters",
+     "info": "K. Umetsu, E. Medezinski, (<strong>J. Moustakas</strong>, 22<sup>nd</sup> coauthor) et al. 2014, ApJ, 795, 163",
+     "bibcode": "2014ApJ...795..163U",
+     "doi": "10.1088/0004-637X/795/2/163",
+     "arxiv": "1404.1375",
+     "citations": 302
+    },
+    {
+     "number": 62,
+     "title": "A Census of Star-forming Galaxies in the z∼9–10 Universe based on HST+Spitzer Observations over 19 Clash Clusters: Three Candidate z∼9–10 Galaxies and Improved Constraints on the Star Formation Rate Density at z∼9.2",
+     "info": "R. Bouwens, L. Bradley, (<strong>J. Moustakas</strong>, 21<sup>st</sup> coauthor) et al. 2014, ApJ, 795, 126",
+     "bibcode": "2014ApJ...795..126B",
+     "doi": "10.1088/0004-637X/795/2/126",
+     "arxiv": "1211.2230",
+     "citations": 213
+    },
+    {
+     "number": 61,
+     "title": "CLASH-X: A Comparison of Lensing and X-Ray Techniques for Measuring the Mass Profiles of Galaxy Clusters",
+     "info": "M. Donahue, G. Voit, (<strong>J. Moustakas</strong>, 30<sup>th</sup> coauthor) et al. 2014, ApJ, 794, 136",
+     "bibcode": "2014ApJ...794..136D",
+     "doi": "10.1088/0004-637X/794/2/136",
+     "arxiv": "1405.7876",
+     "citations": 123
+    },
+    {
+     "number": 60,
+     "title": "A Geometrically Supported z∼10 Candidate Multiply Imaged by the Hubble Frontier Fields Cluster A2744",
+     "info": "A. Zitrin, W. Zheng, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2014, ApJL, 793, 12",
+     "bibcode": "2014ApJ...793L..12Z",
+     "doi": "10.1088/2041-8205/793/1/L12",
+     "arxiv": "1407.3769",
+     "citations": 130
+    },
+    {
+     "number": 59,
+     "title": "CLASH: A Census of Magnified Star-forming Galaxies at z∼6–8",
+     "info": "L. Bradley, A. Zitrin, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2014, ApJ, 792, 76",
+     "bibcode": "2014ApJ...792...76B",
+     "doi": "10.1088/0004-637X/792/1/76",
+     "arxiv": "1308.1692",
+     "citations": 117
+    },
+    {
+     "number": 58,
+     "title": "Massive compact galaxies with high-velocity outflows: morphological analysis and constraints on AGN activity",
+     "info": "P. Sell, C. Tremonti, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2014, MNRAS, 441, 3417–3443",
+     "bibcode": "2014MNRAS.441.3417S",
+     "doi": "10.1093/mnras/stu636",
+     "arxiv": "1404.0677",
+     "citations": 74
+    },
+    {
+     "number": 57,
+     "title": "A UV to Mid-IR Study of AGN Selection",
+     "info": "S. Chung, C. Kochanek, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2014, ApJ, 790, 54",
+     "bibcode": "2014ApJ...790...54C",
+     "doi": "10.1088/0004-637X/790/1/54",
+     "arxiv": "1402.5420",
+     "citations": 40
+    },
+    {
+     "number": 56,
+     "title": "CLASH: Extending Galaxy Strong Lensing to Small Physical Scales with Distant Sources Highly Magnified by Galaxy Cluster Members",
+     "info": "C. Grillo, R. Gobat, (<strong>J. Moustakas</strong>, 32<sup>nd</sup> coauthor) et al. 2014, ApJ, 786, 11",
+     "bibcode": "2014ApJ...786...11G",
+     "doi": "10.1088/0004-637X/786/1/11",
+     "arxiv": "1403.0573",
+     "citations": 15
+    },
+    {
+     "number": 55,
+     "title": "Three Gravitationally Lensed Supernovae behind CLASH Galaxy Clusters",
+     "info": "B. Patel, C. McCully, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2014, ApJ, 786, 9",
+     "bibcode": "2014ApJ...786....9P",
+     "doi": "10.1088/0004-637X/786/1/9",
+     "arxiv": "1312.0943",
+     "citations": 59
+    },
+    {
+     "number": 54,
+     "title": "Intracluster light properties in the CLASH-VLT cluster MACS J1206.2-0847",
+     "info": "V. Presotto, M. Girardi, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2014, A&amp;A, 565, 126",
+     "bibcode": "2014A&A...565A.126P",
+     "doi": "10.1051/0004-6361/201323251",
+     "arxiv": "1403.4979",
+     "citations": 82
+    },
+    {
+     "number": 53,
+     "title": "PRIMUS: Galaxy Clustering as a Function of Luminosity and Color at 0.2&lt;z&lt;1",
+     "info": "R. Skibba, M. Smith, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2014, ApJ, 784, 128",
+     "bibcode": "2014ApJ...784..128S",
+     "doi": "10.1088/0004-637X/784/2/128",
+     "arxiv": "1310.1093",
+     "citations": 64
+    },
+    {
+     "number": 52,
+     "title": "Evidence for Ubiquitous High-equivalent-width Nebular Emission in z∼7 Galaxies: Toward a Clean Measurement of the Specific Star-formation Rate Using a Sample of Bright, Magnified Galaxies",
+     "info": "R. Smit, R. Bouwens, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2014, ApJ, 784, 58",
+     "bibcode": "2014ApJ...784...58S",
+     "doi": "10.1088/0004-637X/784/1/58",
+     "arxiv": "1307.5847",
+     "citations": 293
+    },
+    {
+     "number": 51,
+     "title": "CLASH: z ∼ 6 young galaxy candidate quintuply lensed by the frontier field cluster RXC J2248.7-4431",
+     "info": "A. Monna, S. Seitz, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2014, MNRAS, 438, 1417–1434",
+     "bibcode": "2014MNRAS.438.1417M",
+     "doi": "10.1093/mnras/stt2284",
+     "arxiv": "1308.6280",
+     "citations": 70
+    },
+    {
+     "number": 50,
+     "title": "CLASH: Photometric redshifts with 16 HST bands in galaxy cluster fields",
+     "info": "S. Jouvel, O. Host, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2014, A&amp;A, 562, 86",
+     "bibcode": "2014A&A...562A..86J",
+     "doi": "10.1051/0004-6361/201322419",
+     "arxiv": "1308.0063",
+     "citations": 41
+    },
+    {
+     "number": 49,
+     "title": "The evolution of dust-obscured star formation activity in galaxy clusters relative to the field over the last 9 billion years",
+     "info": "S. Alberts, A. Pope, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2014, MNRAS, 437, 437–457",
+     "bibcode": "2014MNRAS.437..437A",
+     "doi": "10.1093/mnras/stt1897",
+     "arxiv": "1310.6040",
+     "citations": 106
+    },
+    {
+     "number": 48,
+     "title": "The Era of Star Formation in Galaxy Clusters",
+     "info": "M. Brodwin, S. Stanford, (<strong>J. Moustakas</strong>, 19<sup>th</sup> coauthor) et al. 2013, ApJ, 779, 138",
+     "bibcode": "2013ApJ...779..138B",
+     "doi": "10.1088/0004-637X/779/2/138",
+     "arxiv": "1310.6039",
+     "citations": 202
+    },
+    {
+     "number": 47,
+     "title": "Hα Star Formation Rates of z &gt; 1 Galaxy Clusters in the IRAC Shallow Cluster Survey",
+     "info": "G. Zeimann, S. Stanford, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2013, ApJ, 779, 137",
+     "bibcode": "2013ApJ...779..137Z",
+     "doi": "10.1088/0004-637X/779/2/137",
+     "arxiv": "1310.6037",
+     "citations": 55
+    },
+    {
+     "number": 46,
+     "title": "CLASH: Complete Lensing Analysis of the Largest Cosmic Lens MACS J0717.5+3745 and Surrounding Structures",
+     "info": "E. Medezinski, K. Umetsu, (<strong>J. Moustakas</strong>, 23<sup>rd</sup> coauthor) et al. 2013, ApJ, 777, 43",
+     "bibcode": "2013ApJ...777...43M",
+     "doi": "10.1088/0004-637X/777/1/43",
+     "arxiv": "1304.1223",
+     "citations": 89
+    },
+    {
+     "number": 45,
+     "title": "The Contribution of Halos with Different Mass Ratios to the Overall Growth of Cluster-sized Halos",
+     "info": "D. Lemze, M. Postman, (<strong>J. Moustakas</strong>, 38<sup>th</sup> coauthor) et al. 2013, ApJ, 776, 91",
+     "bibcode": "2013ApJ...776...91L",
+     "doi": "10.1088/0004-637X/776/2/91",
+     "arxiv": "1308.1675",
+     "citations": 37
+    },
+    {
+     "number": 44,
+     "title": "PRIMUS: Infrared and X-Ray AGN Selection Techniques at 0.2&lt;z&lt;1.2",
+     "info": "A. Mendez, A. Coil, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2013, ApJ, 770, 40",
+     "bibcode": "2013ApJ...770...40M",
+     "doi": "10.1088/0004-637X/770/1/40",
+     "arxiv": "1302.2920",
+     "citations": 86
+    },
+    {
+     "number": 43,
+     "title": "Spitzer Spectroscopy of Infrared-luminous Galaxies: Diagnostics of Active Galactic Nuclei and Star Formation and Contribution to Total Infrared Luminosity",
+     "info": "H. Shipley, C. Papovich, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2013, ApJ, 769, 75",
+     "bibcode": "2013ApJ...769...75S",
+     "doi": "10.1088/0004-637X/769/1/75",
+     "arxiv": "1304.5231",
+     "citations": 27
+    },
+    {
+     "number": 42,
+     "title": "A Redline Starburst: CO(2-1) Observations of an Eddington-limited Galaxy Reveal Star Formation at Its Most Extreme",
+     "info": "J. Geach, R. Hickox, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2013, ApJL, 767, 17",
+     "bibcode": "2013ApJ...767L..17G",
+     "doi": "10.1088/2041-8205/767/1/L17",
+     "arxiv": "1302.6236",
+     "citations": 16
+    },
+    {
+     "number": 41,
+     "title": "Progress in search for high-redshift galaxies magnified by gravitational lensing",
+     "info": "W. Zheng, L. Bradley, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2013, Astronomische Nachrichten, 334, 474",
+     "bibcode": "2013AN....334..474Z",
+     "doi": "10.1002/asna.201211884",
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 40,
+     "title": "CLASH: The Enhanced Lensing Efficiency of the Highly Elongated Merging Cluster MACS J0416.1-2403",
+     "info": "A. Zitrin, M. Meneghetti, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2013, ApJL, 762, 30",
+     "bibcode": "2013ApJ...762L..30Z",
+     "doi": "10.1088/2041-8205/762/2/L30",
+     "arxiv": "1211.2797",
+     "citations": 184
+    },
+    {
+     "number": 39,
+     "title": "CLASH: Three Strongly Lensed Images of a Candidate z ≈ 11 Galaxy",
+     "info": "D. Coe, A. Zitrin, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2013, ApJ, 762, 32",
+     "bibcode": "2013ApJ...762...32C",
+     "doi": "10.1088/0004-637X/762/1/32",
+     "arxiv": "1211.3663",
+     "citations": 359
+    },
+    {
+     "number": 38,
+     "title": "A magnified young galaxy from about 500 million years after the Big Bang",
+     "info": "W. Zheng, M. Postman, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2012, Nature, 489, 406–408",
+     "bibcode": "2012Natur.489..406Z",
+     "doi": "10.1038/nature11446",
+     "arxiv": "1204.2305",
+     "citations": 308
+    },
+    {
+     "number": 37,
+     "title": "CLASH: Precise New Constraints on the Mass Profile of the Galaxy Cluster A2261",
+     "info": "D. Coe, K. Umetsu, (<strong>J. Moustakas</strong>, 28<sup>th</sup> coauthor) et al. 2012, ApJ, 757, 22",
+     "bibcode": "2012ApJ...757...22C",
+     "doi": "10.1088/0004-637X/757/1/22",
+     "arxiv": "1201.1616",
+     "citations": 157
+    },
+    {
+     "number": 36,
+     "title": "A Brightest Cluster Galaxy with an Extremely Large Flat Core",
+     "info": "M. Postman, T. Lauer, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2012, ApJ, 756, 159",
+     "bibcode": "2012ApJ...756..159P",
+     "doi": "10.1088/0004-637X/756/2/159",
+     "arxiv": "1205.3839",
+     "citations": 76
+    },
+    {
+     "number": 35,
+     "title": "CLASH: Mass Distribution in and around MACS J1206.2-0847 from a Full Cluster Lensing Analysis",
+     "info": "K. Umetsu, E. Medezinski, (<strong>J. Moustakas</strong>, 45<sup>th</sup> coauthor) et al. 2012, ApJ, 755, 56",
+     "bibcode": "2012ApJ...755...56U",
+     "doi": "10.1088/0004-637X/755/1/56",
+     "arxiv": "1204.3630",
+     "citations": 121
+    },
+    {
+     "number": 34,
+     "title": "The Cluster Lensing and Supernova Survey with Hubble: An Overview",
+     "info": "M. Postman, D. Coe, (<strong>J. Moustakas</strong>, 39<sup>th</sup> coauthor) et al. 2012, ApJS, 199, 25",
+     "bibcode": "2012ApJS..199...25P",
+     "doi": "10.1088/0067-0049/199/2/25",
+     "arxiv": "1106.3328",
+     "citations": 852
+    },
+    {
+     "number": 33,
+     "title": "The Galaxy Optical Luminosity Function from the AGN and Galaxy Evolution Survey",
+     "info": "R. Cool, D. Eisenstein, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2012, ApJ, 748, 10",
+     "bibcode": "2012ApJ...748...10C",
+     "doi": "10.1088/0004-637X/748/1/10",
+     "arxiv": "1201.2954",
+     "citations": 49
+    },
+    {
+     "number": 32,
+     "title": "Dust-corrected Star Formation Rates of Galaxies. II. Combinations of Ultraviolet and Infrared Tracers",
+     "info": "C. Hao, R. C. Kennicutt, Jr., (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2011, ApJ, 741, 124",
+     "bibcode": "2011ApJ...741..124H",
+     "doi": "10.1088/0004-637X/741/2/124",
+     "arxiv": "1108.2837",
+     "citations": 600
+    },
+    {
+     "number": 31,
+     "title": "The PRIsm MUlti-object Survey (PRIMUS). I. Survey Overview and Characteristics",
+     "info": "A. Coil, M. Blanton, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2011, ApJ, 741, 8",
+     "bibcode": "2011ApJ...741....8C",
+     "doi": "10.1088/0004-637X/741/1/8",
+     "arxiv": "1011.4307",
+     "citations": 338
+    },
+    {
+     "number": 30,
+     "title": "A Search for Young Stars in the S0 Galaxies of a Super-group at z = 0.37",
+     "info": "D. Just, D. Zaritsky, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2011, ApJ, 740, 54",
+     "bibcode": "2011ApJ...740...54J",
+     "doi": "10.1088/0004-637X/740/2/54",
+     "arxiv": "1107.3838",
+     "citations": 8
+    },
+    {
+     "number": 29,
+     "title": "AEGIS: The Morphologies of Green Galaxies at 0.4 &lt; z &lt; 1.2",
+     "info": "A. Mendez, A. Coil, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2011, ApJ, 736, 110",
+     "bibcode": "2011ApJ...736..110M",
+     "doi": "10.1088/0004-637X/736/2/110",
+     "arxiv": "1101.3353",
+     "citations": 107
+    },
+    {
+     "number": 28,
+     "title": "Radial Distribution of Stars, Gas, and Dust in SINGS Galaxies. III. Modeling the Evolution of the Stellar Component in Galaxy Disks",
+     "info": "J. Muñoz-Mateos, S. Boissier, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2011, ApJ, 731, 10",
+     "bibcode": "2011ApJ...731...10M",
+     "doi": "10.1088/0004-637X/731/1/10",
+     "arxiv": "1102.1724",
+     "citations": 69
+    },
+    {
+     "number": 27,
+     "title": "PRIMUS: Enhanced Specific Star Formation Rates in Close Galaxy Pairs",
+     "info": "K. Wong, M. Blanton, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2011, ApJ, 728, 119",
+     "bibcode": "2011ApJ...728..119W",
+     "doi": "10.1088/0004-637X/728/2/119",
+     "arxiv": "1012.1324",
+     "citations": 46
+    },
+    {
+     "number": 26,
+     "title": "The Mid-IR- and X-ray-Selected QSO Luminosity Function",
+     "info": "R. Assef, C. Kochanek, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2011, ApJ, 728, 56",
+     "bibcode": "2011ApJ...728...56A",
+     "doi": "10.1088/0004-637X/728/1/56",
+     "arxiv": "1001.4529",
+     "citations": 90
+    },
+    {
+     "number": 25,
+     "title": "PRIMUS: Obscured Star Formation on the Red Sequence",
+     "info": "G. Zhu, M. Blanton, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2011, ApJ, 726, 110",
+     "bibcode": "2011ApJ...726..110Z",
+     "doi": "10.1088/0004-637X/726/2/110",
+     "arxiv": "1011.4308",
+     "citations": 18
+    },
+    {
+     "number": 24,
+     "title": "Spitzer 70 μm Emission as a Star Formation Rate Indicator for Sub-galactic Regions",
+     "info": "Y. Li, D. Calzetti, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2010, ApJ, 725, 677–691",
+     "bibcode": "2010ApJ...725..677L",
+     "doi": "10.1088/0004-637X/725/1/677",
+     "arxiv": "1010.0373",
+     "citations": 43
+    },
+    {
+     "number": 23,
+     "title": "Dust-obscured Star Formation in Intermediate Redshift Galaxy Clusters",
+     "info": "R. Finn, V. Desai, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2010, ApJ, 720, 87–98",
+     "bibcode": "2010ApJ...720...87F",
+     "doi": "10.1088/0004-637X/720/1/87",
+     "arxiv": "1010.5164",
+     "citations": 53
+    },
+    {
+     "number": 22,
+     "title": "The Evolution of the Star Formation Rate of Galaxies at 0.0≤ z≤1.2",
+     "info": "W. Rujopakarn, D. Eisenstein, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2010, ApJ, 718, 1171–1185",
+     "bibcode": "2010ApJ...718.1171R",
+     "doi": "10.1088/0004-637X/718/2/1171",
+     "arxiv": "1006.4359",
+     "citations": 68
+    },
+    {
+     "number": 21,
+     "title": "The Calibration of Monochromatic Far-Infrared Star Formation Rate Indicators",
+     "info": "D. Calzetti, S. Wu, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2010, ApJ, 714, 1256–1279",
+     "bibcode": "2010ApJ...714.1256C",
+     "doi": "10.1088/0004-637X/714/2/1256",
+     "arxiv": "1003.0961",
+     "citations": 334
+    },
+    {
+     "number": 20,
+     "title": "Low-Resolution Spectral Templates for Active Galactic Nuclei and Galaxies from 0.03 to 30 μm",
+     "info": "R. Assef, C. Kochanek, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2010, ApJ, 713, 970–985",
+     "bibcode": "2010ApJ...713..970A",
+     "doi": "10.1088/0004-637X/713/2/970",
+     "arxiv": "0909.3849",
+     "citations": 316
+    },
+    {
+     "number": 19,
+     "title": "Total Infrared Luminosity Estimation of Resolved and Unresolved Galaxies",
+     "info": "M. Boquien, G. Bendo, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2010, ApJ, 713, 626–636",
+     "bibcode": "2010ApJ...713..626B",
+     "doi": "10.1088/0004-637X/713/1/626",
+     "arxiv": "1003.1339",
+     "citations": 31
+    },
+    {
+     "number": 18,
+     "title": "Dust-corrected Star Formation Rates of Galaxies. I. Combinations of Hα and Infrared Tracers",
+     "info": "R. C. Kennicutt, Jr., C. Hao, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2009, ApJ, 703, 1672–1695",
+     "bibcode": "2009ApJ...703.1672K",
+     "doi": "10.1088/0004-637X/703/2/1672",
+     "arxiv": "0908.0203",
+     "citations": 548
+    },
+    {
+     "number": 17,
+     "title": "Radial Distribution of Stars, Gas, and Dust in SINGS Galaxies. I. Surface Photometry and Morphology",
+     "info": "J. Muñoz-Mateos, A. Gil de Paz, (<strong>J. Moustakas</strong>, 13<sup>th</sup> coauthor) et al. 2009, ApJ, 703, 1569–1596",
+     "bibcode": "2009ApJ...703.1569M",
+     "doi": "10.1088/0004-637X/703/2/1569",
+     "arxiv": "0909.2648",
+     "citations": 133
+    },
+    {
+     "number": 16,
+     "title": "Radial Distribution of Stars, Gas, and Dust in Sings Galaxies. II. Derived Dust Properties",
+     "info": "J. Muñoz-Mateos, A. Gil de Paz, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2009, ApJ, 701, 1965–1991",
+     "bibcode": "2009ApJ...701.1965M",
+     "doi": "10.1088/0004-637X/701/2/1965",
+     "arxiv": "0909.2658",
+     "citations": 220
+    },
+    {
+     "number": 15,
+     "title": "Evolution of red-sequence cluster galaxies from redshift 0.8 to 0.4: ages, metallicities, and morphologies",
+     "info": "P. Sánchez-Blázquez, P. Jablonka, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2009, A&amp;A, 499, 47–68",
+     "bibcode": "2009A&A...499...47S",
+     "doi": "10.1051/0004-6361/200811355",
+     "arxiv": "0902.3392",
+     "citations": 86
+    },
+    {
+     "number": 14,
+     "title": "The Spitzer Infrared Nearby Galaxies Survey: A High-Resolution Spectroscopy Anthology",
+     "info": "D. Dale, J. Smith, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2009, ApJ, 693, 1821–1834",
+     "bibcode": "2009ApJ...693.1821D",
+     "doi": "10.1088/0004-637X/693/2/1821",
+     "arxiv": "0811.4190",
+     "citations": 78
+    },
+    {
+     "number": 13,
+     "title": "Forming Early-Type Galaxies in Groups Prior to Cluster Assembly",
+     "info": "S. Kautsch, A. Gonzalez, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2008, ApJL, 688, L5",
+     "bibcode": "2008ApJ...688L...5K",
+     "doi": "10.1086/593978",
+     "arxiv": "0810.0708",
+     "citations": 34
+    },
+    {
+     "number": 12,
+     "title": "The relations among 8, 24 and 160 μm dust emission within nearby spiral galaxies",
+     "info": "G. Bendo, B. Draine, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2008, MNRAS, 389, 629–650",
+     "bibcode": "2008MNRAS.389..629B",
+     "doi": "10.1111/j.1365-2966.2008.13567.x",
+     "arxiv": "0806.2758",
+     "citations": 109
+    },
+    {
+     "number": 11,
+     "title": "The Star Formation Rate-Dense Gas Relation in Galaxies as Measured by HCN(3-2) Emission",
+     "info": "R. Bussmann, D. Narayanan, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2008, ApJL, 681, L73",
+     "bibcode": "2008ApJ...681L..73B",
+     "doi": "10.1086/590181",
+     "arxiv": "0805.4419",
+     "citations": 44
+    },
+    {
+     "number": 10,
+     "title": "Metallicity Effects on Dust Properties in Starbursting Galaxies",
+     "info": "C. Engelbracht, G. Rieke, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2008, ApJ, 678, 804–827",
+     "bibcode": "2008ApJ...678..804E",
+     "doi": "10.1086/529513",
+     "arxiv": "0801.1700",
+     "citations": 306
+    },
+    {
+     "number": 9,
+     "title": "Spectroscopy of clusters in the ESO distant cluster survey (EDisCS). II.. Redshifts, velocity dispersions, and substructure for clusters in the last 15 fields",
+     "info": "B. Milvang-Jensen, S. Noll, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2008, A&amp;A, 482, 419–449",
+     "bibcode": "2008A&A...482..419M",
+     "doi": "10.1051/0004-6361:20079148",
+     "arxiv": "0802.0149",
+     "citations": 80
+    },
+    {
+     "number": 8,
+     "title": "Star Formation in NGC 5194 (M51a). II. The Spatially Resolved Star Formation Law",
+     "info": "R. C. Kennicutt, Jr., D. Calzetti, (<strong>J. Moustakas</strong>, 20<sup>th</sup> coauthor) et al. 2007, ApJ, 671, 333–348",
+     "bibcode": "2007ApJ...671..333K",
+     "doi": "10.1086/522300",
+     "arxiv": "0708.0922",
+     "citations": 527
+    },
+    {
+     "number": 7,
+     "title": "The Incidence of Highly Obscured Star-forming Regions in SINGS Galaxies",
+     "info": "M. Prescott, R. C. Kennicutt, Jr., (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2007, ApJ, 668, 182–202",
+     "bibcode": "2007ApJ...668..182P",
+     "doi": "10.1086/521071",
+     "arxiv": "0706.3501",
+     "citations": 91
+    },
+    {
+     "number": 6,
+     "title": "The Calibration of Mid-Infrared Star Formation Rate Indicators",
+     "info": "D. Calzetti, R. C. Kennicutt, Jr., (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2007, ApJ, 666, 870–895",
+     "bibcode": "2007ApJ...666..870C",
+     "doi": "10.1086/520082",
+     "arxiv": "0705.3377",
+     "citations": 899
+    },
+    {
+     "number": 5,
+     "title": "Dust Masses, PAH Abundances, and Starlight Intensities in the SINGS Galaxy Sample",
+     "info": "B. Draine, D. Dale, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2007, ApJ, 663, 866–894",
+     "bibcode": "2007ApJ...663..866D",
+     "doi": "10.1086/518306",
+     "arxiv": "astro-ph/0703213",
+     "citations": 978
+    },
+    {
+     "number": 4,
+     "title": "Dust and Atomic Gas in Dwarf Irregular Galaxies of the M81 Group: The SINGS and THINGS View",
+     "info": "F. Walter, J. Cannon, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2007, ApJ, 661, 102–114",
+     "bibcode": "2007ApJ...661..102W",
+     "doi": "10.1086/514807",
+     "arxiv": "astro-ph/0702378",
+     "citations": 87
+    },
+    {
+     "number": 3,
+     "title": "The Mid-Infrared Spectrum of Star-forming Galaxies: Global Properties of Polycyclic Aromatic Hydrocarbon Emission",
+     "info": "J. Smith, B. Draine, (<strong>J. Moustakas</strong>, 4<sup>th</sup> coauthor) et al. 2007, ApJ, 656, 770–791",
+     "bibcode": "2007ApJ...656..770S",
+     "doi": "10.1086/510549",
+     "arxiv": "astro-ph/0610913",
+     "citations": 937
+    },
+    {
+     "number": 2,
+     "title": "The Opaque Nascent Starburst in NGC 1377: Spitzer SINGS Observations",
+     "info": "H. Roussel, G. Helou, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2006, ApJ, 646, 841–857",
+     "bibcode": "2006ApJ...646..841R",
+     "doi": "10.1086/505038",
+     "arxiv": "astro-ph/0604267",
+     "citations": 63
+    },
+    {
+     "number": 1,
+     "title": "Mid-Infrared Spectral Diagnostics of Nuclear and Extranuclear Regions in Nearby Galaxies",
+     "info": "D. Dale, J. Smith, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2006, ApJ, 646, 161–173",
+     "bibcode": "2006ApJ...646..161D",
+     "doi": "10.1086/504835",
+     "arxiv": "astro-ph/0604007",
+     "citations": 144
+    }
+   ]
+  },
+  {
+   "key": "conf",
+   "heading": "Conference Proceedings &amp; Astronomical Telegrams",
+   "entries": [
+    {
+     "number": 37,
+     "title": "DESI Spectrum of SN 2023ixf",
+     "info": "S. BenZvi, D. Brout, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2023, TNSAN, 140, 1",
+     "bibcode": "2023TNSAN.140....1B",
+     "doi": null,
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 36,
+     "title": "DESI Spectrum of SN 2023ixf",
+     "info": "S. BenZvi, D. Brout, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2023, TNSAN, 137, 1",
+     "bibcode": "2023TNSAN.137....1B",
+     "doi": null,
+     "arxiv": null,
+     "citations": 3
+    },
+    {
+     "number": 35,
+     "title": "Public DECam Deep Drilling Program for COSMOS and the Galactic Bulge",
+     "info": "M. Graham, P. Nugent, (<strong>J. Moustakas</strong>, 24<sup>th</sup> coauthor) et al. 2021, TNSAN, 104, 1–104",
+     "bibcode": "2021TNSAN.104....1G",
+     "doi": null,
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 34,
+     "title": "The CHAOS Survey",
+     "info": "D. Berg, R. Pogge, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2020, IAU General Assembly",
+     "bibcode": "2020IAUGA..30..246B",
+     "doi": "10.1017/S1743921319004186",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 33,
+     "title": "Spectroscopic Classification of AT2016cvw as a normal Type Ia Supernova",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2016, ATel, 9173, 1",
+     "bibcode": "2016ATel.9173....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 32,
+     "title": "Spectroscopic Classification of AT2016cvv as a normal Type Ia Supernova",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2016, ATel, 9171, 1",
+     "bibcode": "2016ATel.9171....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 31,
+     "title": "Supernova 2015Z in NGC 5837 = Psn J15044078+1237436",
+     "info": "G. Masi, R. Arbour, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2015, CBET, 4171, 1",
+     "bibcode": "2015CBET.4171....1M",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 30,
+     "title": "Not In Our Backyard: Spectroscopic Support for the CLASH z=11 Candidate MACS0647-JD",
+     "info": "N. Pirzkal, D. Coe, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, IAU General Assembly",
+     "bibcode": "2015IAUGA..2255442P",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 29,
+     "title": "Supernova 2015Q in NGC 3888 = Psn J11473508+5558147",
+     "info": "P. Wiggins, G. Masi, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2015, CBET, 4128, 1",
+     "bibcode": "2015CBET.4128....1W",
+     "doi": null,
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 28,
+     "title": "ASASSN-15lu is a Type Ia Supernova",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ATel, 7707, 1",
+     "bibcode": "2015ATel.7707....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 27,
+     "title": "Optical Spectroscopy of PSN J15044078+1237436",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ATel, 7690, 1",
+     "bibcode": "2015ATel.7690....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 4
+    },
+    {
+     "number": 26,
+     "title": "PSN J11473508+5558147 is a Type Ib Supernova Near Maximum Light",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ATel, 7680, 1",
+     "bibcode": "2015ATel.7680....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 25,
+     "title": "ASASSN-15lo is a Post-Maximum Normal Type Ia Supernova",
+     "info": "D. Leonard, P. Sheehan, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2015, ATel, 7675, 1",
+     "bibcode": "2015ATel.7675....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 7
+    },
+    {
+     "number": 24,
+     "title": "Spectroscopic observations of PSN J12355235+2755563: Another likely LBV outburst",
+     "info": "P. Sheehan, K. Follette, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2014, ATel, 6303, 1",
+     "bibcode": "2014ATel.6303....1S",
+     "doi": null,
+     "arxiv": null,
+     "citations": 3
+    },
+    {
+     "number": 23,
+     "title": "Supernova 2014bv in NGC 4386 = Psn J12243098+7532086",
+     "info": "G. Cortini, N. James, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2014, CBET, 3911, 1",
+     "bibcode": "2014CBET.3911....1C",
+     "doi": null,
+     "arxiv": null,
+     "citations": 9
+    },
+    {
+     "number": 22,
+     "title": "Supernova 2014bu in NGC 694 = Psn J01505845+2159598",
+     "info": "L. Monard, G. Masi, (<strong>J. Moustakas</strong>, 9<sup>th</sup> coauthor) et al. 2014, CBET, 3910, 1",
+     "bibcode": "2014CBET.3910....1M",
+     "doi": null,
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 21,
+     "title": "Spectroscopic classification of CSS140620:171007+610911 and CORRECTION of ATel #6263",
+     "info": "D. Leonard, K. Follette, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2014, ATel, 6264, 1",
+     "bibcode": "2014ATel.6264....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 20,
+     "title": "Spectroscopic classification of CSS140620:145423+013141",
+     "info": "D. Leonard, K. Follette, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2014, ATel, 6263, 1",
+     "bibcode": "2014ATel.6263....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 19,
+     "title": "Spectroscopic classifications of ASASSN-14co and PSN J01505845+2159598",
+     "info": "D. Leonard, K. Follette, (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2014, ATel, 6255, 1",
+     "bibcode": "2014ATel.6255....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 9
+    },
+    {
+     "number": 18,
+     "title": "Galaxy spectra from the UV to the mid-IR",
+     "info": "M. Brown, <strong>J. Moustakas</strong>, J. Smith et al. 2013, IAU, 295, 286–289",
+     "bibcode": "2013IAUS..295..286B",
+     "doi": "10.1017/S1743921313005073",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 17,
+     "title": "Supernova 2013dq in UGC 525 = Psn J00513484+2943149",
+     "info": "S. Howerton, A. Drake, (<strong>J. Moustakas</strong>, 17<sup>th</sup> coauthor) et al. 2013, CBET, 3573, 1",
+     "bibcode": "2013CBET.3573....1H",
+     "doi": null,
+     "arxiv": null,
+     "citations": 1
+    },
+    {
+     "number": 16,
+     "title": "Supernova 2013do in UGC 12137 = Psn J22395067+3812443",
+     "info": "L. Elenin, I. Molotov, (<strong>J. Moustakas</strong>, 8<sup>th</sup> coauthor) et al. 2013, CBET, 3571, 2",
+     "bibcode": "2013CBET.3571....2E",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 15,
+     "title": "Spectroscopy of PSN J00513484+2943149 in UGC 525",
+     "info": "A. Rachubo, D. Leonard, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2013, ATel, 5176, 1",
+     "bibcode": "2013ATel.5176....1R",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 14,
+     "title": "Far-Ultraviolet Luminosity as a Star Formation Rate Tracer",
+     "info": "C. Hao, R. C. Kennicutt, Jr., (<strong>J. Moustakas</strong>, 6<sup>th</sup> coauthor) et al. 2011, ASPC, 446, 63",
+     "bibcode": "2011ASPC..446...63H",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 13,
+     "title": "Supernova 2011dw in Pgc 58436 = Psn J16313945+4129229",
+     "info": "A. Pelloni, J. Newton, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2011, CBET, 2756, 1",
+     "bibcode": "2011CBET.2756....1P",
+     "doi": null,
+     "arxiv": null,
+     "citations": 6
+    },
+    {
+     "number": 12,
+     "title": "Supernova 2011dv in NGC 6078 = PSN J16120400+1412330.",
+     "info": "D. Leonard, <strong>J. Moustakas</strong>, B. Swift et al. 2011, CBET, 2755, 2",
+     "bibcode": "2011CBET.2755....2L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 11,
+     "title": "Supernova 2011dv in NGC 6078 = Psn J16120400+1412330",
+     "info": "F. Ciabattari, A. Dimai, (<strong>J. Moustakas</strong>, 5<sup>th</sup> coauthor) et al. 2011, CBET, 2755, 1",
+     "bibcode": "2011CBET.2755....1C",
+     "doi": null,
+     "arxiv": null,
+     "citations": 12
+    },
+    {
+     "number": 10,
+     "title": "Supernova 2011dn in UGC 11501 = PSN J19583553+0236163.",
+     "info": "D. Leonard, <strong>J. Moustakas</strong>, B. Swift et al. 2011, CBET, 2746, 2",
+     "bibcode": "2011CBET.2746....2L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 9,
+     "title": "Supernova 2011dn in UGC 11501 = Psn J19583553+0236163",
+     "info": "R. Koff, D. Leonard, <strong>J. Moustakas</strong> et al. 2011, CBET, 2746, 2",
+     "bibcode": "2011CBET.2746....2K",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 8,
+     "title": "Spectroscopy of PSN J19583553+0236163",
+     "info": "D. Leonard, <strong>J. Moustakas</strong>, B. Swift et al. 2011, ATel, 3450, 1",
+     "bibcode": "2011ATel.3450....1L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 7,
+     "title": "Supernova 2011dw in PGC 58436 = PSN J16313945+4129229.",
+     "info": "D. Leonard, <strong>J. Moustakas</strong>, B. Swift et al. 2011, CBET, 2756, 2",
+     "bibcode": "2011CBET.2756....2L",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 6,
+     "title": "The Prism Multi-Object Survey (PRIMUS)",
+     "info": "K. Wong, M. Blanton, (<strong>J. Moustakas</strong>, 7<sup>th</sup> coauthor) et al. 2010, ASPC, 423, 297",
+     "bibcode": "2010ASPC..423..297W",
+     "doi": null,
+     "arxiv": null,
+     "citations": 3
+    },
+    {
+     "number": 5,
+     "title": "Radial Distribution of Dust Properties in Nearby Galaxies",
+     "info": "J. Muñoz-Mateos, A. Gil de Paz, (<strong>J. Moustakas</strong>, 14<sup>th</sup> coauthor) et al. 2010, ASSP, 14, 323",
+     "bibcode": "2010ASSP...14..323M",
+     "doi": "10.1007/978-3-642-11250-8_61",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 4,
+     "title": "Empirical Evidence for Quasar Feedback",
+     "info": "C. Tremonti, A. Diamond-Stanic, &amp; <strong>J. Moustakas</strong> 2009, ASPC, 419, 369",
+     "bibcode": "2009ASPC..419..369T",
+     "doi": null,
+     "arxiv": null,
+     "citations": 2
+    },
+    {
+     "number": 3,
+     "title": "Empirical Evidence for Quasar Feedback",
+     "info": "C. Tremonti, <strong>J. Moustakas</strong>, &amp; A. Diamond-Stanic 2009, AIPC, 1201, 170–176",
+     "bibcode": "2009AIPC.1201..170T",
+     "doi": "10.1063/1.3293026",
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 2,
+     "title": "The ESO Distant Cluster Sample: Galaxy Evolution and Environment out to z = 1",
+     "info": "B. Poggianti, A. Aragón-Salamanca, (<strong>J. Moustakas</strong>, 15<sup>th</sup> coauthor) et al. 2009, <em>Messenger</em>, 136, 54–59",
+     "bibcode": "2009Msngr.136...54P",
+     "doi": "10.48550/arXiv.0904.4558",
+     "arxiv": "0904.4558",
+     "citations": 3
+    },
+    {
+     "number": 1,
+     "title": "The spatial extent of nearby outer disks",
+     "info": "S. Herbert-Fort, D. Zaritsky, <strong>J. Moustakas</strong> et al. 2009, IAU, 254, 26",
+     "bibcode": "2009IAUS..254P..26H",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    }
+   ]
+  },
+  {
+   "key": "unref",
+   "heading": "Contributed White Papers &amp; Unrefereed Papers",
+   "entries": [
+    {
+     "number": 11,
+     "title": "A New Atlas of Large Galaxies",
+     "info": "<strong>J. Moustakas</strong> 2024 The NOIRLab Mirror, 6, 11",
+     "bibcode": "2024Mirro...6...11M",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    },
+    {
+     "number": 10,
+     "title": "NANCY: Next-generation All-sky Near-infrared Community surveY",
+     "info": "J. Han, A. Dey, (<strong>J. Moustakas</strong>, 131<sup>st</sup> coauthor) et al. 2023  (arXiv:2306.11784)",
+     "bibcode": "2023arXiv230611784H",
+     "doi": "10.48550/arXiv.2306.11784",
+     "arxiv": "2306.11784",
+     "citations": 11
+    },
+    {
+     "number": 9,
+     "title": "The MegaMapper: A Stage-5 Spectroscopic Instrument Concept for the Study of Inflation and Dark Energy",
+     "info": "D. Schlegel, J. Kollmeier, (<strong>J. Moustakas</strong>, 53<sup>rd</sup> coauthor) et al. 2022  (arXiv:2209.04322)",
+     "bibcode": "2022arXiv220904322S",
+     "doi": "10.48550/arXiv.2209.04322",
+     "arxiv": "2209.04322",
+     "citations": 84
+    },
+    {
+     "number": 8,
+     "title": "Detection of a Lensed z≈11 Galaxy in the Rest-Optical with Spitzer/IRAC and the Inferred SFR, Stellar Mass, and Physical Size",
+     "info": "D. Lam, R. Bouwens, (<strong>J. Moustakas</strong>, 12<sup>th</sup> coauthor) et al. 2019  (arXiv:1903.08177)",
+     "bibcode": "2019arXiv190308177L",
+     "doi": "10.48550/arXiv.1903.08177",
+     "arxiv": "1903.08177",
+     "citations": 17
+    },
+    {
+     "number": 7,
+     "title": "LSST Cadence Optimization White Paper in Support of Observations of Unresolved Tidal Stellar Streams in Galaxies beyond the Local Group",
+     "info": "S. Laine, D. Martinez-Delgado, (<strong>J. Moustakas</strong>, 10<sup>th</sup> coauthor) et al. 2018  (arXiv:1812.04897)",
+     "bibcode": "2018arXiv181204897L",
+     "doi": "10.48550/arXiv.1812.04897",
+     "arxiv": "1812.04897",
+     "citations": 28
+    },
+    {
+     "number": 6,
+     "title": "The DESI Experiment Part II: Instrument Design",
+     "info": "DESI Collaboration, A. Aghamousa, (<strong>J. Moustakas</strong>, 185<sup>th</sup> coauthor) et al. 2016  (arXiv:1611.00037)",
+     "bibcode": "2016arXiv161100037D",
+     "doi": "10.48550/arXiv.1611.00037",
+     "arxiv": "1611.00037",
+     "citations": 603
+    },
+    {
+     "number": 5,
+     "title": "The DESI Experiment Part I: Science,Targeting, and Survey Design",
+     "info": "DESI Collaboration, A. Aghamousa, (<strong>J. Moustakas</strong>, 185<sup>th</sup> coauthor) et al. 2016  (arXiv:1611.00036)",
+     "bibcode": "2016arXiv161100036D",
+     "doi": "10.48550/arXiv.1611.00036",
+     "arxiv": "1611.00036",
+     "citations": 2822
+    },
+    {
+     "number": 4,
+     "title": "Addressing Decadal Survey Science through Community Access to Highly Multiplexed Spectroscopy with BigBOSS on the KPNO Mayall Telescope",
+     "info": "C. Pilachowski, C. Badenes, (<strong>J. Moustakas</strong>, 57<sup>th</sup> coauthor) et al. 2012  (arXiv:1211.0285)",
+     "bibcode": "2012arXiv1211.0285P",
+     "doi": "10.48550/arXiv.1211.0285",
+     "arxiv": "1211.0285",
+     "citations": 1
+    },
+    {
+     "number": 3,
+     "title": "Evolution of the Stellar Mass-Metallicity Relation Since z=0.75",
+     "info": "<strong>J. Moustakas</strong>, D. Zaritsky, M. Brown et al. 2011  (arXiv:1112.3300)",
+     "bibcode": "2011arXiv1112.3300M",
+     "doi": "10.48550/arXiv.1112.3300",
+     "arxiv": "1112.3300",
+     "citations": 92
+    },
+    {
+     "number": 2,
+     "title": "Astronomical Software Wants To Be Free: A Manifesto",
+     "info": "B. Weiner, M. Blanton, (<strong>J. Moustakas</strong>, 11<sup>th</sup> coauthor) et al. 2009  (arXiv:0903.3971)",
+     "bibcode": "2009astro2010P..61W",
+     "doi": "10.48550/arXiv.0903.3971",
+     "arxiv": "0903.3971",
+     "citations": 8
+    },
+    {
+     "number": 1,
+     "title": "Time Resolved Spectrophotometry of the Nova-like Variable VZ Scuptoris",
+     "info": "<strong>J. Moustakas</strong> 1999 SAO Summer Intern Program, 6, G1",
+     "bibcode": "1999SAOIR...6G...1M",
+     "doi": null,
+     "arxiv": null,
+     "citations": 0
+    }
+   ]
+  }
+ ]
+}

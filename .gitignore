@@ -1,0 +1,10 @@
+# WordPress export and downloaded media (private; not for the public repo)
+legacy/
+
+# Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# macOS
+.DS_Store

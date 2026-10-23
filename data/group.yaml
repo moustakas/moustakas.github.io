@@ -1,0 +1,17 @@
+# Research group members, rendered on the Group page (layouts/_default/group.html).
+# Add someone only after they have agreed to be listed. All fields except
+# `name` are optional. Example:
+#
+# current:
+#   - name: "Jane Doe ('27)"
+#     role: "Physics major"
+#     years: "2025–present"
+#     project: "Morphology classification with machine learning"
+# former:
+#   - name: "John Roe ('22)"
+#     years: "2020–2022"
+#     project: "Cosmic voids in DESI"
+#     now: "Ph.D. student, Some University"
+
+current: []
+former: []

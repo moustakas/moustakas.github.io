@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+{{ $group := hugo.Data.group }}
+{{ range $key, $heading := dict "current" "Current Members" "former" "Former Members" }}
+<h2>{{ $heading }}</h2>
+{{ with index $group $key }}
+<ul class="people">
+  {{ range . }}
+  <li>
+    <strong>{{ .name }}</strong>{{ with .role }}, {{ . }}{{ end }}{{ with .years }} ({{ . }}){{ end }}
+    {{ with .project }}<br><em>{{ . }}</em>{{ end }}
+    {{ with .now }}<br><span class="muted">Now: {{ . }}</span>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ else }}
+<p class="muted">Coming soon.</p>
+{{ end }}
+{{ end }}
+{{ end }}
