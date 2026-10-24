@@ -5,28 +5,29 @@ Guidance for Claude Code when working in `~/personal/website`. The umbrella
 
 ## What this is
 
-John Moustakas's professional website, replacing the 2019-era WordPress site
-at https://moustakas.siena.edu/. One site, research-forward, with Teaching
-and Service & Outreach as secondary pages.
+John Moustakas's professional website, live at https://moustakas.siena.edu/
+(it replaced the 2019-era WordPress site there). One site, research-forward,
+with Teaching and Service & Outreach as secondary pages.
 
 - Generator: Hugo (extended, installed with `brew install hugo`), with a
   small custom theme living directly in `layouts/` and `assets/`. No
   third-party theme, by design: like the CV, the site should not read as
   "used a template" (al-folio, Hugo Blox, etc.).
-- Hosting: live at https://moustakas.github.io from the public repo
-  `moustakas/moustakas.github.io`, deployed by `.github/workflows/hugo.yml`
-  on every push to `main` (Pages build type must stay "workflow", not the
-  "legacy" branch/Jekyll mode GitHub defaults to for `*.github.io` repos).
-- Custom domain: decided to serve the site at `moustakas.siena.edu` as a
-  GitHub Pages custom domain (not a 301/302 redirect), so the Siena URL stays
-  canonical and GitHub 301-redirects `moustakas.github.io` to it. Because the
-  site deploys from a workflow, the domain is set only in the repo's
-  Settings → Pages; a `static/CNAME` file is ignored and not needed. Siena IT
-  adds the DNS record `moustakas.siena.edu CNAME moustakas.github.io` (plus a
-  TXT record if GitHub asks to verify the domain; any CAA record on siena.edu
-  must allow `letsencrypt.org`). The workflow takes its base URL from
-  `configure-pages`, so builds follow the domain automatically; `baseURL` in
+- Hosting: GitHub Pages from the public repo `moustakas/moustakas.github.io`,
+  deployed by `.github/workflows/hugo.yml` on every push to `main` (Pages
+  build type must stay "workflow", not the "legacy" branch/Jekyll mode GitHub
+  defaults to for `*.github.io` repos).
+- Custom domain: `moustakas.siena.edu` is a GitHub Pages custom domain (Siena
+  IT's DNS record `moustakas.siena.edu CNAME moustakas.github.io`), so the
+  Siena URL is canonical and GitHub 301-redirects `moustakas.github.io` to
+  it. Because the site deploys from a workflow, the domain is set only in the
+  repo's Settings → Pages; a `static/CNAME` file is ignored and not needed.
+  The workflow takes its base URL from `configure-pages`; `baseURL` in
   `hugo.toml` only affects local builds.
+- Siena's official faculty page (siena.edu/faculty-and-staff/person/john-moustakas/)
+  is generated from Sedona, not from this repo. It is kept minimal (bio,
+  research interest, teaching philosophy, employment, recent papers) and
+  points to this site; see the umbrella `CLAUDE.md`.
 
 ## Commands
 
@@ -42,7 +43,8 @@ in `hugo.toml`, use `locale`, not `languageCode`.
 
 ## Layout
 
-- `hugo.toml` — site config, contact params, and the main menu.
+- `hugo.toml` — site config, the main menu, and `[params]` (email, `github`,
+  `linkedin`, `ads`) used by the footer (`layouts/partials/footer.html`).
 - `content/` — one Markdown file per page. `research/` is organized in three
   themes (listed by `weight`): `observational-cosmology.md`, the section
   `galaxy-star-formation-and-assembly/` (subtheme pages), and
@@ -65,8 +67,10 @@ in `hugo.toml`, use `locale`, not `languageCode`.
 - `layouts/shortcodes/img.html` — `{{< img src=... alt=... caption=... >}}`
   for figures in content pages; images live under `assets/images/` and are
   resized to WebP at build time. Use `light=true` for transparent figures with
-  dark text (logos, plots) so they stay readable in dark mode. Shrink very
-  large originals (more than a few MB) before adding them to the repo.
+  dark text (logos, plots) so they stay readable in dark mode;
+  `float="right"`/`"left"` wraps text around the image on wide screens (used
+  for the photo on the Contact page). Shrink very large originals (more than
+  a few MB) before adding them to the repo.
 - `layouts/shortcodes/highlight.html` — a research highlight (figure,
   headline, short Markdown text); see the comment at its top. Shares
   resizing with `img` through `layouts/partials/responsive-img.html`.
@@ -135,27 +139,21 @@ from the same list. `title`,
 
 ### Research-page figures ("eye candy")
 
-Agreed approach: synthesize each research page into a few major results
-rather than one figure per paper. Built: the `highlight` shortcode, `image:`
-thumbnails, and one highlight per research theme page (all `DRAFT`):
-Observational Cosmology (DESI map), Galaxy Demographics (PRIMUS mass
-functions, Moustakas et al. 2013 Fig. 11), Star Formation and Feedback
-(Diamond-Stanic et al. 2012 Fig. 4), Chemical Evolution (Scholte et al. 2026
-Fig. 11, left panel), The First Galaxies (Coe et al. 2013 Fig. 1). Next:
-John reviews the text, and second highlights are added where useful.
+Approach: synthesize each research page into a few major results rather than
+one figure per paper. Built: the `highlight` shortcode, `image:` thumbnails
+on the Research and section cards, and one highlight per research theme page
+(all `DRAFT`): Observational Cosmology (DESI map), Galaxy Demographics
+(PRIMUS mass functions, Moustakas et al. 2013 Fig. 11), Star Formation and
+Feedback (Diamond-Stanic et al. 2012 Fig. 4), Chemical Evolution (Scholte et
+al. 2026 Fig. 11, left panel), The First Galaxies (Coe et al. 2013 Fig. 1).
+Next: John reviews the text, and second highlights are added where useful.
 
-- **Page layout:** a lead/banner image (also reused as that theme's thumbnail
-  on the Research landing page, which currently shows plain text cards), then
-  2–4 *highlights*, then the existing "Selected Papers" list as the complete
-  record.
+- **Page layout:** intro text, then 1–4 *highlights*, then the "Selected
+  Papers" list (newest first) as the complete record.
 - **A highlight** = one figure + a bold headline stating the result + two or
   three plain-language sentences + links to the paper(s) behind it. Several
   papers can feed one highlight. Figure beside text on wide screens, stacked
-  on mobile.
-- **To build:** a `highlight` shortcode (using the `img` resizing), an
-  `image:` front-matter field shown as a thumbnail in `layouts/_default/list.html`,
-  and a first worked example on Observational Cosmology using the DESI map
-  already in `assets/images/software/desi-y5-butterfly.jpg`.
+  on mobile (`wide=true` always stacks).
 - **Figure sources and credits:** arXiv versions of John's own paper figures
   (AAS journals and MNRAS permit author reuse with citation); figures from
   papers he didn't lead get an explicit credit or are swapped for a press
@@ -165,34 +163,33 @@ John reviews the text, and second highlights are added where useful.
 - **Workflow:** John drops figures into `assets/images/research/` with a
   one-line note on which result each illustrates; Claude drafts the headline
   and text from the paper abstracts; John edits for emphasis.
-- **Candidate highlights** (from titles; John to choose):
-  - Observational Cosmology: the DESI map; selecting tens of millions of
-    targets (target-density map); DESI cosmology results (BAO or dark-energy
-    figure, credit DESI).
-  - Galaxy Demographics and Assembly: stellar mass function and quenching
-    since z∼1 (PRIMUS; Moustakas et al. 2013); environment and quiescent
-    fractions.
-  - Star Formation and Feedback: calibrating SFR indicators; 1000 km/s
-    outflows in compact starbursts (*Hubble* imaging).
-  - Chemical Evolution: nebular abundances of nearby galaxies; the most
-    metal-poor galaxies in DESI (Legacy Surveys cutout plus DESI spectrum).
-  - The First Galaxies: lensed galaxies within the first few hundred million
-    years (*Hubble* press images of MACS0647-JD and the MACS0329 quadruple).
+- **Ideas for second highlights** (John to choose):
+  - Observational Cosmology: selecting tens of millions of targets
+    (target-density map); DESI cosmology results (BAO or dark-energy figure,
+    credit DESI).
+  - Galaxy Demographics and Assembly: environment and quiescent fractions
+    (Hahn et al. 2015).
+  - Star Formation and Feedback: calibrating SFR indicators (Moustakas et al.
+    2006; Brown et al. 2017).
+  - Chemical Evolution: the most metal-poor galaxies in DESI (Legacy Surveys
+    cutout plus DESI spectrum).
+  - The First Galaxies: the MACS0329 quadruply lensed galaxy (Zitrin et al.
+    2012).
 
 ### Other open items
 
-- Draft text still marked `<!-- DRAFT -->`/`<!-- TODO -->`: the research
-  landing and theme pages (Galaxy Demographics, Chemical Evolution, and The
-  First Galaxies are placeholders), one or two sentences per project on
-  Surveys and Data Releases, and a newer About photo.
+- Draft text still marked `<!-- DRAFT -->`/`<!-- TODO -->` (find with
+  `grep -rl 'DRAFT\|TODO' content`): the home page, research landing and
+  theme pages (intro text and highlights), one or two sentences per project
+  on Surveys and Data Releases, Group, Service, Teaching, and Contact; also a
+  newer About photo.
 - Teaching: statement and "How I Teach" are drawn from the 2022 promotion
   narrative; course blurbs describe course content only, not what John did in
   a given year (that would read as dated and could misrepresent colleagues
   who teach them now) (`~/research/papers/siena/professor-promotion/teaching.tex`).
   Still to do: a photo highlight, and whether to publish student-evaluation
   results (not published without John's OK).
-- Contact page: confirm office (225) and lab (113) room numbers.
+- Contact page: confirm office (225) and lab (113) room numbers; add a photo
+  credit for the Breyo Observatory picture if one is needed (none recorded in
+  the marketing photo catalog).
 - Group page: add members once they agree to be listed.
-- Domain (pending with Siena IT): set `moustakas.siena.edu` in Settings →
-  Pages, have IT add the CNAME record, then check "Enforce HTTPS" once the
-  certificate is issued.
